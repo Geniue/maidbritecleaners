@@ -5,7 +5,7 @@
                 <div class="navbar-logo">
                     <a class="" href="/" style="z-index: 1;">
                         <img class="main-logo lozad" alt="PrisineGreen" height="60" width="270"
-                            data-src="{{ asset('assets/logo/MetroMaids_black.jpg') }}"
+                            data-src="{{ asset('assets/logo/maidbrite_logo.png') }}"
                             style="max-width:100%;">
                     </a>
                 </div>

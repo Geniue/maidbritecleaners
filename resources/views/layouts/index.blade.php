@@ -572,12 +572,12 @@
         }
 
         .navbar-logo a img {
-            width: 300px;
+            width: 260px;
             height: auto;
         }
 
         .w-img-250 {
-            width: 300px;
+            width: 260px;
             height: auto;
         }
     </style>

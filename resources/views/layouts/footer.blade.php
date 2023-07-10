@@ -39,7 +39,7 @@
                 </div> --}}
                 <div>
                     <img rel="canonical" class="lozad logo-white  w-img-250 lazy" alt="PristineGreenCleaning"
-                        data-src="{{ asset('assets/logo/MetroMaids_white.png') }}" />
+                        data-src="{{ asset('assets/logo/maidbrite_logo.png') }}" />
                 </div>
             </div>
             {{-- <div class="footer-1-container__Service">
