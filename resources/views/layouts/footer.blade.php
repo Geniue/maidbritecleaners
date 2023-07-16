@@ -144,15 +144,25 @@
                         <span>MaidBrite Cleaners</span>
                     </li>
                     <li>
-                        <span>73 Sheridan Ave, 1st floor</span>
+                        <span>34-18 Northern Blvd 3rd fl 7a</span>
                     </li>
                     <li>
-                        <span>Brooklyn, NY 11208</span>
+                        <span>Long Island City, NY 11101</span>
                     </li>
-                    <li><a class="" href="tel:917-905-3058">917-905-3058</a></li>
-                    <li><a href="https://goo.gl/maps/72WtZw82sbHEoS7H7"
+                    <li><a class="" href="tel:212-920-2154">212-920-2154</a></li>
+                    <li><a href="https://goo.gl/maps/Ynfuj3goiLjx5hoa8"
                             target="_blank" rel="noreferrer">Maps &amp; Directions</a></li>
 
+                    <br />
+                    <li>
+                        <span>7 Marcus Garvey Blvd #406</span>
+                    </li>
+                    <li>
+                        <span>Brooklyn, NY 11206</span>
+                    </li>
+                    <li><a class="" href="tel:212-951-0342">212-951-0342</a></li>
+                    <li><a href="https://goo.gl/maps/gB67Pmn3m8iN7to18"
+                            target="_blank" rel="noreferrer">Maps &amp; Directions</a></li>
                     <br />
 
                     <li><a href="mailto:sales@metromaidscleaning.com">sales@metromaidscleaning.com</a></li>

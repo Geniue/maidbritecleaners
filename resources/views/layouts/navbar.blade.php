@@ -17,9 +17,9 @@
                     <div class="myphone ">
                         <h3 class="mb-0 fw-bold" style="color:#fff">
 
-                            <a class="myphone" href="tel:917-905-3058"><img width="35" height="35" alt="call-us"
+                            <a class="myphone" href="tel:212-920-2154"><img width="35" height="35" alt="call-us"
                                     class="lozad" data-src="{{ asset('assets/icons/call.png') }}">
-                                917-905-3058</a>
+                                    212-920-2154</a>
                         </h3>
                     </div>
 

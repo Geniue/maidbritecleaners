@@ -140,19 +140,30 @@
                         <h3 class="text-blue font-median py-2">Contact Info</h3>
                         <p class="mb-0">Contact</p>
                         <p>
-                            <a target="_blank" href="tel:917-905-3058">917-905-3058</a><br />
+                            <a target="_blank" href="tel:212-920-2154">212-920-2154</a><br />
                             <a target="_blank" href="mailto:sales@metromaidscleaning.com">sales@metromaidscleaning.com</a>
                         </p>
                     </div>
 
                     <div class="address-info py-3">
-                        <p><strong>Brooklyn</strong></p>
+                        <p><strong>Long Island City</strong></p>
                         <div id="map"></div>
                         <p>
                             <a target="_blank"
                                 href="https://goo.gl/maps/72WtZw82sbHEoS7H7">
-                                73 Sheridan Ave, 1st floor<br />
-                                Brooklyn, NY 11208
+                                34-18 Northern Blvd 3rd fl 7a<br />
+                                Long Island City, NY 11101
+                            </a>
+                        </p>
+                    </div>
+                    <div class="address-info py-3">
+                        <p><strong>Brooklyn</strong></p>
+                        <div id="map_2"></div>
+                        <p>
+                            <a target="_blank"
+                                href="https://goo.gl/maps/72WtZw82sbHEoS7H7">
+                                7 Marcus Garvey Blvd #406<br />
+                                Brooklyn, NY 11206
                             </a>
                         </p>
                     </div>
@@ -167,12 +178,15 @@
 @section('js')
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBB_zev3AUlvTv9UGwZGPnUCSnM1aMsPLo"></script>
     <script type="text/javascript">
-        function initMap() {
+         function initMap() {
             // Specify the center location as an address, dynamically applicable
-            var centerLocation_1 = "73 Sheridan Ave, 1st floor, Brooklyn, NY 11208";
+            var centerLocation_1 = "34-18 Northern Blvd 3rd fl 7a, Long Island City, NY 11101";
+            var centerLocation_2 = "7 Marcus Garvey Blvd #406, Brooklyn, NY 11206";
+
 
             // Create a geocoder object
             var geocoder = new google.maps.Geocoder();
+            var geocoder_2 = new google.maps.Geocoder();
 
             // Convert the center location to coordinates
             geocoder.geocode({
@@ -199,7 +213,7 @@
                     });
                     // Create an info window
                     var infoWindow = new google.maps.InfoWindow({
-                        content: "MaidBrite Cleaners"
+                        content: "Pristinegreen Cleaning"
                     });
 
                     // Add click event listener to open the info window
@@ -211,6 +225,43 @@
                     alert("Geocode was not successful for the following reason: " + status);
                 }
             });
+            geocoder_2.geocode({
+                address: centerLocation_2
+            }, function(results, status) {
+                if (status === google.maps.GeocoderStatus.OK) {
+                    // Retrieve the first result's geometry (location)
+                    var location = results[0].geometry.location;
+
+                    // Create a map object
+                    var map = new google.maps.Map(document.getElementById('map_2'), {
+                        center: location,
+                        zoom: 18,
+                        mapTypeControl: false, // Remove satellite view control
+                        streetViewControl: false, // Remove person (street view) control
+                        zoomControl: false // Remove zoom controls
+                    });
+
+                    // Create a marker for the location
+                    var locationMarker = new google.maps.Marker({
+                        position: location,
+                        map: map,
+                        title: centerLocation_2
+                    });
+                    // Create an info window
+                    var infoWindow = new google.maps.InfoWindow({
+                        content: "Pristinegreen Cleaning"
+                    });
+
+                    // Add click event listener to open the info window
+                    locationMarker.addListener('click', function() {
+                        infoWindow.open(map, locationMarker);
+                    });
+                } else {
+                    // Geocoding was not successful
+                    alert("Geocode was not successful for the following reason: " + status);
+                }
+            });
+
         }
 
         // Load the map after the Google Maps API is loaded

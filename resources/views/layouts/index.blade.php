@@ -13,19 +13,19 @@
 
 
     <script type="application/ld+json">
-        {
+        [{
           "@context": "https://schema.org",
           "@type": "LocalBusiness",
           "name": "MaidBrite Cleaners",
           "address": {
           "@type": "PostalAddress",
-          "streetAddress": "73 Sheridan avenue",
-          "addressLocality": "Brooklyn",
+          "streetAddress": "34-18 Northern Blvd 3rd fl 7a",
+          "addressLocality": "Long Island City",
           "addressRegion": "NY",
-          "postalCode": "11208",
+          "postalCode": "11101",
           "addressCountry": "USA"
           },
-          "telephone": ["+19179053058", "+12129209013"],
+          "telephone": ["+1212-920-2154"],
           "openingHoursSpecification": {
           "@type": "OpeningHoursSpecification",
           "dayOfWeek": [
@@ -45,7 +45,41 @@
           "paymentAccepted": "Cash, Credit Card",
           "description": "MaidBrite Cleaners is a professional cleaning service provider located in New York, NY. Our company specializes in delivering exceptional cleaning services to both homes and offices in the region. Our comprehensive range of services includes regular cleaning, deep cleaning, move-in/move-out cleaning, and many more, all performed with top-notch professionalism and expertise.",
           "url": "https://Maidbritecleaners.com"
-        }
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "LocalBusiness",
+            "name": "MaidBrite Cleaners",
+            "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "7 Marcus Garvey Blvd #406",
+            "addressLocality": "Brooklyn",
+            "addressRegion": "NY",
+            "postalCode": "11206",
+            "addressCountry": "USA"
+            },
+            "telephone": ["+1212-951-0342"],
+            "openingHoursSpecification": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "Monday",
+              "Tuesday",
+              "Wednesday",
+              "Thursday",
+              "Friday",
+              "Saturday",
+              "Sunday"
+            ],
+            "opens": "09:00",
+            "closes": "21:00"
+            },
+            "priceRange": "$$",
+            "currenciesAccepted": "USD",
+            "paymentAccepted": "Cash, Credit Card",
+            "description": "MaidBrite Cleaners is a professional cleaning service provider located in New York, NY. Our company specializes in delivering exceptional cleaning services to both homes and offices in the region. Our comprehensive range of services includes regular cleaning, deep cleaning, move-in/move-out cleaning, and many more, all performed with top-notch professionalism and expertise.",
+            "url": "https://Maidbritecleaners.com"
+          },
+        ]
     </script>
 
     @yield('schema')
