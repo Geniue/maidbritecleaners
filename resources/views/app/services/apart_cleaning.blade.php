@@ -10,30 +10,30 @@
 @endsection
 
 @section('meta')
-    <meta name="title" content="Apartment Cleaning  | MaidBrite Cleaners ">
+    <meta name="title" content="Apartment Cleaning  | Maidbrite Cleaning Services ">
     <meta name="description"
-        content="Discover superior apartment cleaning services with MaidBrite Cleaners . We offer a variety of professional cleaning services, including deep cleaning, move-out cleaning, and regular maintenance, all tailored to your unique needs. Our competitively priced services, delivered by a team of professional cleaners, ensure your home is always pristine, comfortable, and inviting. Choose MaidBrite Cleaners  for unparalleled professionalism, quality, and customer satisfaction.">
+        content="Discover superior apartment cleaning services with Maidbrite Cleaning Services . We offer a variety of professional cleaning services, including deep cleaning, move-out cleaning, and regular maintenance, all tailored to your unique needs. Our competitively priced services, delivered by a team of professional cleaners, ensure your home is always pristine, comfortable, and inviting. Choose Maidbrite Cleaning Services  for unparalleled professionalism, quality, and customer satisfaction.">
     <meta name="keywords"
         content="cleaner house service, apartment cleaning services, apartment cleaning, apartment cleaning services near me, apartment cleaners near me, apartment move out cleaning, apartment carpet cleaning, apartment deep cleaning services, deep clean apartment, professional apartment cleaning, 1 bedroom apartment cleaning prices, new house cleaning, move out house cleaning, carpet cleaning cost for 2 bedroom apartment, apartment cleaning services move out, average cost to clean a 2 bedroom condo, apartment clean out services, apartment move out cleaning cost, carpet cleaning cost for 1 bedroom apartment, clean my apartment, professional apartment cleaning cost, moving house cleaning, 2 bedroom apartment cleaning prices, apartment cleaning services cost, apartment cleaning cost. 2nd list: apartment cleaning services, apartment cleaning, apartment cleaning service, apartment cleaners, apartment cleaner, condo cleaning, apartment cleaners near me, professional apartment cleaners, apt cleaning services, apartment cleaning service near me, rental property cleaning services, cleaning services for apartments, cleaning apartment services, rental house cleaning services, cleaning apartments, deep cleaning apartment service, apartment maid, residential cleaner, clean apartment service">
     <link rel="canonical" href="{{ url()->current() }}">
 
-    <meta property="og:site_name" content="MaidBrite Cleaners ">
-    <meta property="og:title" content="Apartment Cleaning  | MaidBrite Cleaners ">
+    <meta property="og:site_name" content="Maidbrite Cleaning Services ">
+    <meta property="og:title" content="Apartment Cleaning  | Maidbrite Cleaning Services ">
     <meta property="og:description"
-        content="Discover superior apartment cleaning services with MaidBrite Cleaners . We offer a variety of professional cleaning services, including deep cleaning, move-out cleaning, and regular maintenance, all tailored to your unique needs. Our competitively priced services, delivered by a team of professional cleaners, ensure your home is always pristine, comfortable, and inviting. Choose MaidBrite Cleaners  for unparalleled professionalism, quality, and customer satisfaction.">
+        content="Discover superior apartment cleaning services with Maidbrite Cleaning Services . We offer a variety of professional cleaning services, including deep cleaning, move-out cleaning, and regular maintenance, all tailored to your unique needs. Our competitively priced services, delivered by a team of professional cleaners, ensure your home is always pristine, comfortable, and inviting. Choose Maidbrite Cleaning Services  for unparalleled professionalism, quality, and customer satisfaction.">
     <meta property="og:type" content="website">
     <meta property="og:image"
         content="{{ asset('assets/images/10021-house-cleaning-services-NY-PristineGreen-House-Cleaning-UES-Branch-New-York-housekeeping-services.jpg') }}">
     <meta property="fb:admins" content="admin">
-    <meta name="twitter:title" content="MaidBrite Cleaners  House and Commercial Cleaning in NYC  | MaidBrite Cleaners  ">
+    <meta name="twitter:title" content="Maidbrite Cleaning Services  House and Commercial Cleaning in NYC  | Maidbrite Cleaning Services  ">
     <meta name="twitter:description"
-        content="Discover superior apartment cleaning services with MaidBrite Cleaners . We offer a variety of professional cleaning services, including deep cleaning, move-out cleaning, and regular maintenance, all tailored to your unique needs. Our competitively priced services, delivered by a team of professional cleaners, ensure your home is always pristine, comfortable, and inviting. Choose MaidBrite Cleaners  for unparalleled professionalism, quality, and customer satisfaction.">
+        content="Discover superior apartment cleaning services with Maidbrite Cleaning Services . We offer a variety of professional cleaning services, including deep cleaning, move-out cleaning, and regular maintenance, all tailored to your unique needs. Our competitively priced services, delivered by a team of professional cleaners, ensure your home is always pristine, comfortable, and inviting. Choose Maidbrite Cleaning Services  for unparalleled professionalism, quality, and customer satisfaction.">
     <meta name="twitter:image"
         content="{{ asset('assets/images/10021-house-cleaning-services-NY-PristineGreen-House-Cleaning-UES-Branch-New-York-housekeeping-services.jpg') }}">
     <meta name="twitter:url" content="{{ url()->current() }}">
     <meta name="twitter:card" content="summary">
 
-    <meta itemprop="name" content="MaidBrite Cleaners ">
+    <meta itemprop="name" content="Maidbrite Cleaning Services ">
     <meta itemprop="url" content="{{ url()->current() }}">
     <meta itemprop="thumbnailUrl"
         content="{{ asset('assets/images/10021-house-cleaning-services-NY-PristineGreen-House-Cleaning-UES-Branch-New-York-housekeeping-services.jpg') }}">
@@ -45,13 +45,13 @@
     <link rel="shortcut" type="image/png" href="{{ asset('assets/icons/site_icon_128x128.png') }}">
     <link rel="icon" type="image/png" href="{{ asset('assets/icons/site_icon_128x128.png') }}">
 
-    <meta name="abstract" content="MaidBrite Cleaners  House and Commercial Cleaning in NYC">
+    <meta name="abstract" content="Maidbrite Cleaning Services  House and Commercial Cleaning in NYC">
     <meta name="author" content="admin">
     <meta name="classification" content="Blog">
-    <meta name="copyright" content="MaidBrite Cleaners  House and Commercial Cleaning - All rights Reserved.">
+    <meta name="copyright" content="Maidbrite Cleaning Services  House and Commercial Cleaning - All rights Reserved.">
     <meta name="distribution" content="Global">
     <meta name="language" content="en-GB">
-    <meta name="publisher" content="MaidBrite Cleaners">
+    <meta name="publisher" content="Maidbrite Cleaning Services">
     <meta name="rating" content="General">
     <meta name="resource-type" content="Document">
     <meta name="revisit-after" content="3">
@@ -112,7 +112,7 @@
 
 
             <p>
-                Welcome to MaidBrite Cleaners , where quality and convenience are the cornerstones of our professional apartment
+                Welcome to Maidbrite Cleaning Services , where quality and convenience are the cornerstones of our professional apartment
                 cleaning services. Your comfort and satisfaction are paramount to us, and we strive to provide an
                 immaculate, rejuvenated living space that reflects your lifestyle and preferences. With an excellent
                 team of professional apartment cleaners, we provide a thorough, detailed clean that will make your
@@ -128,7 +128,7 @@
                 specialized apartment carpet cleaning, our experts ensure no corner is left untouched.
             </p>
             <p>
-                MaidBrite Cleaners  understands that moving can be a stressful process. To alleviate this burden, we offer
+                Maidbrite Cleaning Services  understands that moving can be a stressful process. To alleviate this burden, we offer
                 comprehensive apartment move out cleaning services. Trust us to leave your space spotless, ensuring a
                 seamless transition and helping you secure your full deposit.
             </p>
@@ -141,7 +141,7 @@
             <h2>
                 Competitive Pricing for Your Needs
             </h2>
-            <p>MaidBrite Cleaners  prides itself on offering competitive apartment cleaning services cost. Our transparent pricing
+            <p>Maidbrite Cleaning Services  prides itself on offering competitive apartment cleaning services cost. Our transparent pricing
                 model ensures there are no surprises. Whether you're interested in 1 bedroom apartment cleaning prices or
                 the average cost to clean a 2 bedroom condo, we ensure affordability without compromising quality. We also
                 offer apartment cleaning cost breakdowns for specialized services, such as carpet cleaning cost for 1
@@ -166,13 +166,13 @@
                 providing the best in rental property cleaning services
             </p>
             <p>
-                At MaidBrite Cleaners , we believe that everyone deserves a clean, comfortable living space. Our dedicated apartment
+                At Maidbrite Cleaning Services , we believe that everyone deserves a clean, comfortable living space. Our dedicated apartment
                 cleaning service near me makes it easy and convenient to maintain a clean home, no matter your schedule. Let
                 us handle the hard work, so you can enjoy the more important things in life.
             </p>
             <p>
                 Remember, a cleaner house service is not just about sparkling surfaces. It's about creating a healthy, happy
-                environment where you can relax and thrive. Choose MaidBrite Cleaners  today for unparalleled professionalism,
+                environment where you can relax and thrive. Choose Maidbrite Cleaning Services  today for unparalleled professionalism,
                 unbeatable quality, and superior customer satisfaction.
             </p>
         </div>

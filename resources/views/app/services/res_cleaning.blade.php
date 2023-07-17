@@ -10,15 +10,15 @@
 @endsection
 
 @section('meta')
-    <meta name="title" content="Residential Cleaning  | MaidBrite Cleaners ">
+    <meta name="title" content="Residential Cleaning  | Maidbrite Cleaning Services ">
     <meta name="description"
         content="Discover our comprehensive residential cleaning services that cater to your home's every need, from deep cleaning to sanitization. Offering a blend of convenience, professionalism, and quality, we are the residential cleaning company you can trust for a spotlessly clean and comfortable home.">
     <meta name="keywords"
         content=" residential cleaning services, residential house cleaning services, professional residential cleaning services, residential cleaners near me, residential cleaning company, residential deep cleaning services, residential home cleaning services near me, residential exterior cleaning, professional cleaning services residential, residential cleaning companies near me, residential cleaning business, residential home cleaning,high end house cleaning services, one-time house cleaning services, residential oven cleaning service, residential disinfection services, residential sanitizing services near me, house cleaning reviews, residential cleaning services description, cleaning services near me residential">
     <link rel="canonical" href="{{ url()->current() }}">
 
-    <meta property="og:site_name" content="MaidBrite Cleaners ">
-    <meta property="og:title" content="Residential Cleaning  | MaidBrite Cleaners ">
+    <meta property="og:site_name" content="Maidbrite Cleaning Services ">
+    <meta property="og:title" content="Residential Cleaning  | Maidbrite Cleaning Services ">
     <meta property="og:description"
         content="Discover our comprehensive residential cleaning services that cater to your home's every need, from deep cleaning to sanitization. Offering a blend of convenience, professionalism, and quality, we are the residential cleaning company you can trust for a spotlessly clean and comfortable home.">
     <meta property="og:url" content="{{ url()->current() }}">
@@ -26,7 +26,7 @@
     <meta property="og:image"
         content="{{ asset('assets/images/10021-house-cleaning-services-NY-PristineGreen-House-Cleaning-UES-Branch-New-York-housekeeping-services.jpg') }}">
     <meta property="fb:admins" content="admin">
-    <meta name="twitter:title" content="MaidBrite Cleaners  House and Commercial Cleaning in NYC  | MaidBrite Cleaners  ">
+    <meta name="twitter:title" content="Maidbrite Cleaning Services  House and Commercial Cleaning in NYC  | Maidbrite Cleaning Services  ">
     <meta name="twitter:description"
         content="Discover our comprehensive residential cleaning services that cater to your home's every need, from deep cleaning to sanitization. Offering a blend of convenience, professionalism, and quality, we are the residential cleaning company you can trust for a spotlessly clean and comfortable home.">
     <meta name="twitter:image"
@@ -34,7 +34,7 @@
     <meta name="twitter:url" content="{{ url()->current() }}">
     <meta name="twitter:card" content="summary">
 
-    <meta itemprop="name" content="MaidBrite Cleaners">
+    <meta itemprop="name" content="Maidbrite Cleaning Services">
     <meta itemprop="url" content="{{ url()->current() }}">
     <meta itemprop="thumbnailUrl"
         content="{{ asset('assets/images/10021-house-cleaning-services-NY-PristineGreen-House-Cleaning-UES-Branch-New-York-housekeeping-services.jpg') }}">
@@ -46,13 +46,13 @@
     <link rel="shortcut" type="image/png" href="{{ asset('assets/icons/site_icon_128x128.png') }}">
     <link rel="icon" type="image/png" href="{{ asset('assets/icons/site_icon_128x128.png') }}">
 
-    <meta name="abstract" content="MaidBrite Cleaners  House and Commercial Cleaning in NYC">
+    <meta name="abstract" content="Maidbrite Cleaning Services  House and Commercial Cleaning in NYC">
     <meta name="author" content="admin">
     <meta name="classification" content="Blog">
-    <meta name="copyright" content="MaidBrite Cleaners  House and Commercial Cleaning - All rights Reserved.">
+    <meta name="copyright" content="Maidbrite Cleaning Services  House and Commercial Cleaning - All rights Reserved.">
     <meta name="distribution" content="Global">
     <meta name="language" content="en-GB">
-    <meta name="publisher" content="MaidBrite Cleaners ">
+    <meta name="publisher" content="Maidbrite Cleaning Services ">
     <meta name="rating" content="General">
     <meta name="resource-type" content="Document">
     <meta name="revisit-after" content="3">

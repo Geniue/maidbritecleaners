@@ -10,15 +10,15 @@
 @endsection
 
 @section('meta')
-    <meta name="title" content="House Keeping | MaidBrite Cleaners ">
+    <meta name="title" content="House Keeping | Maidbrite Cleaning Services ">
     <meta name="description"
         content="Discover our comprehensive residential cleaning services that cater to your home's every need, from deep cleaning to sanitization. Offering a blend of convenience, professionalism, and quality, we are the residential cleaning company you can trust for a spotlessly clean and comfortable home.">
     <meta name="keywords"
         content="residential cleaning services, residential house cleaning services, professional residential cleaning services, residential cleaners near me, residential cleaning company, residential deep cleaning services, residential home cleaning services near me, residential exterior cleaning, professional cleaning services residential, residential cleaning companies near me, residential cleaning business, residential home cleaning,high end house cleaning services, one-time house cleaning services, residential oven cleaning service, residential disinfection services, residential sanitizing services near me, house cleaning reviews, residential cleaning services description, cleaning services near me residential">
     <link rel="canonical" href="{{ url()->current() }}">
 
-    <meta property="og:site_name" content="MaidBrite Cleaners ">
-    <meta property="og:title" content="House Keeping  | MaidBrite Cleaners ">
+    <meta property="og:site_name" content="Maidbrite Cleaning Services ">
+    <meta property="og:title" content="House Keeping  | Maidbrite Cleaning Services ">
     <meta property="og:description"
         content="Discover our comprehensive residential cleaning services that cater to your home's every need, from deep cleaning to sanitization. Offering a blend of convenience, professionalism, and quality, we are the residential cleaning company you can trust for a spotlessly clean and comfortable home.">
     <meta property="og:url" content="{{ url()->current() }}">
@@ -26,7 +26,7 @@
     <meta property="og:image"
         content="{{ asset('assets/images/10021-house-cleaning-services-NY-PristineGreen-House-Cleaning-UES-Branch-New-York-housekeeping-services.jpg') }}">
     <meta property="fb:admins" content="admin">
-    <meta name="twitter:title" content="MaidBrite Cleaners  House and Commercial Cleaning in NYC  | MaidBrite Cleaners  ">
+    <meta name="twitter:title" content="Maidbrite Cleaning Services  House and Commercial Cleaning in NYC  | Maidbrite Cleaning Services  ">
     <meta name="twitter:description"
         content="Discover our comprehensive residential cleaning services that cater to your home's every need, from deep cleaning to sanitization. Offering a blend of convenience, professionalism, and quality, we are the residential cleaning company you can trust for a spotlessly clean and comfortable home.">
     <meta name="twitter:image"
@@ -34,7 +34,7 @@
     <meta name="twitter:url" content="{{ url()->current() }}">
     <meta name="twitter:card" content="summary">
 
-    <meta itemprop="name" content="MaidBrite Cleaners ">
+    <meta itemprop="name" content="Maidbrite Cleaning Services ">
     <meta itemprop="url" content="{{ url()->current() }}">
     <meta itemprop="thumbnailUrl"
         content="{{ asset('assets/images/10021-house-cleaning-services-NY-PristineGreen-House-Cleaning-UES-Branch-New-York-housekeeping-services.jpg') }}">
@@ -46,13 +46,13 @@
     <link rel="shortcut" type="image/png" href="{{ asset('assets/icons/site_icon_128x128.png') }}">
     <link rel="icon" type="image/png" href="{{ asset('assets/icons/site_icon_128x128.png') }}">
 
-    <meta name="abstract" content="MaidBrite Cleaners  House and Commercial Cleaning in NYC">
+    <meta name="abstract" content="Maidbrite Cleaning Services  House and Commercial Cleaning in NYC">
     <meta name="author" content="admin">
     <meta name="classification" content="Blog">
-    <meta name="copyright" content="MaidBrite Cleaners  House and Commercial Cleaning - All rights Reserved.">
+    <meta name="copyright" content="Maidbrite Cleaning Services  House and Commercial Cleaning - All rights Reserved.">
     <meta name="distribution" content="Global">
     <meta name="language" content="en-GB">
-    <meta name="publisher" content="MaidBrite Cleaners">
+    <meta name="publisher" content="Maidbrite Cleaning Services">
     <meta name="rating" content="General">
     <meta name="resource-type" content="Document">
     <meta name="revisit-after" content="3">
@@ -98,11 +98,11 @@
 
 
             <p><strong>
-                    Welcome to MaidBrite Cleaners , where your search for housekeeping cleaning services ends. We know what
+                    Welcome to Maidbrite Cleaning Services , where your search for housekeeping cleaning services ends. We know what
                     housekeeping means – it is a commitment to cleanliness, organization, and a harmonious living
                     environment. We understand that when you're looking for a housekeeper, you want more than just a cleaner
                     housekeeper. You want someone who will care for your home as much as you do, a good housekeeper who goes
-                    above and beyond. That’s where MaidBrite Cleaners  steps in.
+                    above and beyond. That’s where Maidbrite Cleaning Services  steps in.
                 </strong></p>
             <h2><strong>Housekeeping Procedures You Can Rely On
                 </strong></h2>
@@ -112,19 +112,19 @@
                 items meaning extends beyond physical objects; it's a complete system that our housekeeping contractor
                 follows to deliver exceptional results.</p>
             <h2><strong>A Housekeeping Company That Puts You First</strong></h2>
-            <p>In MaidBrite Cleaners , you will find a housekeeping company that prioritizes your needs. With our professional
+            <p>In Maidbrite Cleaning Services , you will find a housekeeping company that prioritizes your needs. With our professional
                 housekeeping services, you can trust us to handle every aspect of your home's cleanliness. From the types of
                 housekeeping tasks you detest to the ones you simply don't have time for, we have you covered. The good
                 housekeeping current issue shouldn't be your concern anymore; leave it to us, the experts in the field.</p>
             <h2><strong>Housekeeping Services Near Me? Look No Further!</strong></h2>
             <p>We understand how important it is for our clients to have housekeeping services near them. That’s why we’ve
                 expanded our reach to serve as many neighborhoods as possible. Just type "housekeeping services near me" or
-                "housekeeper near me", and you'll find MaidBrite Cleaners  at your service. With our dedicated team, finding a
+                "housekeeper near me", and you'll find Maidbrite Cleaning Services  at your service. With our dedicated team, finding a
                 housekeeper has never been easier.</p>
             <h2><strong>Private Housekeeper Services for Your Peace of Mind
                 </strong>
             </h2>
-            <p>When you hire a housekeeper from MaidBrite Cleaners , you're engaging private housekeeper services that respect your
+            <p>When you hire a housekeeper from Maidbrite Cleaning Services , you're engaging private housekeeper services that respect your
                 home and your privacy. Our team members are not just housekeepers in your area; they are professionals who
                 uphold the highest standards of integrity and discretion. We ensure every housekeeper cost is justified by
                 our unwavering attention to detail and commitment to your satisfaction.
@@ -132,14 +132,14 @@
             <h2><strong>Unbeatable Housekeeping Prices
                 </strong>
             </h2>
-            <p>One of the standout qualities of MaidBrite Cleaners  is our transparent and affordable housekeeping prices. Regardless
+            <p>One of the standout qualities of Maidbrite Cleaning Services  is our transparent and affordable housekeeping prices. Regardless
                 of whether you’re looking for housekeeping or you need a housekeeper for a larger property, we offer rates
                 that provide excellent value for your money. So, stop your "housekeeper needed" search and connect with us
                 to experience unmatched housekeeping services.
 
             </p>
-            <p>Join the MaidBrite Cleaners  family today and discover the difference that professional care housekeeping can make in
-                your home. MaidBrite Cleaners  – the perfect solution when you're looking for a housekeeper.</p>
+            <p>Join the Maidbrite Cleaning Services  family today and discover the difference that professional care housekeeping can make in
+                your home. Maidbrite Cleaning Services  – the perfect solution when you're looking for a housekeeper.</p>
 
 
 

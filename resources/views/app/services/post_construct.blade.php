@@ -10,31 +10,31 @@
 @endsection
 
 @section('meta')
-    <meta name="title" content="Post Construction Cleaning  | MaidBrite Cleaners ">
+    <meta name="title" content="Post Construction Cleaning  | Maidbrite Cleaning Services ">
     <meta name="description"
-        content="Experience the MaidBrite Cleaners  difference with our post construction cleaning services. Offering comprehensive and detailed cleaning solutions at competitive rates, we ensure your new or renovated space is spotless and ready to enjoy. From construction site clean up to post renovation cleaning, trust us for all your construction cleaning needs.">
+        content="Experience the Maidbrite Cleaning Services  difference with our post construction cleaning services. Offering comprehensive and detailed cleaning solutions at competitive rates, we ensure your new or renovated space is spotless and ready to enjoy. From construction site clean up to post renovation cleaning, trust us for all your construction cleaning needs.">
     <meta name="keywords"
         content="post construction cleaning, construction cleaning services, post renovation cleaning, construction clean up, after builders cleaning, post construction cleaning rates, after construction cleaning, construction cleanup service near me, cleaning after renovation, construction site cleaning, new construction cleaning, post construction cleaning services, construction clean up services, construction cleanup service, after construction cleaning, new construction cleaning services, post construction clean up, construction cleanup service near me, post renovation cleaning, construction cleaning services near me, construction cleaning company, house cleaning after construction">
     <link rel="canonical" href="{{ url()->current() }}">
 
-    <meta property="og:site_name" content="MaidBrite Cleaners ">
-    <meta property="og:title" content="Post Construction Cleaning | MaidBrite Cleaners ">
+    <meta property="og:site_name" content="Maidbrite Cleaning Services ">
+    <meta property="og:title" content="Post Construction Cleaning | Maidbrite Cleaning Services ">
     <meta property="og:description"
-        content="Experience the MaidBrite Cleaners  difference with our post construction cleaning services. Offering comprehensive and detailed cleaning solutions at competitive rates, we ensure your new or renovated space is spotless and ready to enjoy. From construction site clean up to post renovation cleaning, trust us for all your construction cleaning needs.">
+        content="Experience the Maidbrite Cleaning Services  difference with our post construction cleaning services. Offering comprehensive and detailed cleaning solutions at competitive rates, we ensure your new or renovated space is spotless and ready to enjoy. From construction site clean up to post renovation cleaning, trust us for all your construction cleaning needs.">
     <meta property="og:url" content="{{ url()->current() }}">
     <meta property="og:type" content="website">
     <meta property="og:image"
         content="{{ asset('assets/images/10021-house-cleaning-services-NY-PristineGreen-House-Cleaning-UES-Branch-New-York-housekeeping-services.jpg') }}">
     <meta property="fb:admins" content="admin">
-    <meta name="twitter:title" content="MaidBrite Cleaners  House and Commercial Cleaning in NYC  | MaidBrite Cleaners  ">
+    <meta name="twitter:title" content="Maidbrite Cleaning Services  House and Commercial Cleaning in NYC  | Maidbrite Cleaning Services  ">
     <meta name="twitter:description"
-        content="Experience the MaidBrite Cleaners  difference with our post construction cleaning services. Offering comprehensive and detailed cleaning solutions at competitive rates, we ensure your new or renovated space is spotless and ready to enjoy. From construction site clean up to post renovation cleaning, trust us for all your construction cleaning needs.">
+        content="Experience the Maidbrite Cleaning Services  difference with our post construction cleaning services. Offering comprehensive and detailed cleaning solutions at competitive rates, we ensure your new or renovated space is spotless and ready to enjoy. From construction site clean up to post renovation cleaning, trust us for all your construction cleaning needs.">
     <meta name="twitter:image"
         content="{{ asset('assets/images/10021-house-cleaning-services-NY-PristineGreen-House-Cleaning-UES-Branch-New-York-housekeeping-services.jpg') }}">
     <meta name="twitter:url" content="{{ url()->current() }}">
     <meta name="twitter:card" content="summary">
 
-    <meta itemprop="name" content="MaidBrite Cleaners ">
+    <meta itemprop="name" content="Maidbrite Cleaning Services ">
     <meta itemprop="url" content="{{ url()->current() }}">
     <meta itemprop="thumbnailUrl"
         content="{{ asset('assets/images/10021-house-cleaning-services-NY-PristineGreen-House-Cleaning-UES-Branch-New-York-housekeeping-services.jpg') }}">
@@ -46,13 +46,13 @@
     <link rel="shortcut" type="image/png" href="{{ asset('assets/icons/site_icon_128x128.png') }}">
     <link rel="icon" type="image/png" href="{{ asset('assets/icons/site_icon_128x128.png') }}">
 
-    <meta name="abstract" content="MaidBrite Cleaners  House and Commercial Cleaning in NYC">
+    <meta name="abstract" content="Maidbrite Cleaning Services  House and Commercial Cleaning in NYC">
     <meta name="author" content="admin">
     <meta name="classification" content="Blog">
-    <meta name="copyright" content="MaidBrite Cleaners  House and Commercial Cleaning - All rights Reserved.">
+    <meta name="copyright" content="Maidbrite Cleaning Services  House and Commercial Cleaning - All rights Reserved.">
     <meta name="distribution" content="Global">
     <meta name="language" content="en-GB">
-    <meta name="publisher" content="MaidBrite Cleaners ">
+    <meta name="publisher" content="Maidbrite Cleaning Services ">
     <meta name="rating" content="General">
     <meta name="resource-type" content="Document">
     <meta name="revisit-after" content="3">
@@ -96,10 +96,10 @@
             <h1 class="text-center text-green fs-1 py-5">POST CONSTRUCTION CLEANING</h1>
 
             <h2>
-                Introduction to MaidBrite Cleaners  Post Construction Cleaning Services
+                Introduction to Maidbrite Cleaning Services  Post Construction Cleaning Services
             </h2>
             <p>
-                At MaidBrite Cleaners , we take pride in offering top-notch post construction cleaning services, turning any newly
+                At Maidbrite Cleaning Services , we take pride in offering top-notch post construction cleaning services, turning any newly
                 built or renovated space into a clean and welcoming environment. We understand the importance of the details
                 and we're committed to leaving no stone unturned in our quest to provide you with a dust-free and
                 ready-to-use property.
@@ -114,7 +114,7 @@
                 taking care of all the debris, dust, and residues that can linger after construction work.
             </p>
             <h2>
-                Post Renovation Cleaning - The MaidBrite Cleaners ' Way
+                Post Renovation Cleaning - The Maidbrite Cleaning Services ' Way
             </h2>
             <p>
                 We don't just specialize in new builds; our post renovation cleaning services are also a key part of what we
@@ -126,7 +126,7 @@
                 After Builders Cleaning - Unmatched Excellence
             </h2>
             <p>
-                MaidBrite Cleaners ' after builders cleaning is another service we proudly offer. We understand that once the
+                Maidbrite Cleaning Services ' after builders cleaning is another service we proudly offer. We understand that once the
                 builders leave, you want to enjoy your new space as soon as possible. Our trained and dedicated team takes
                 the stress away by meticulously removing all leftover dust, debris, and residues.
             </p>
@@ -144,7 +144,7 @@
                 Top-tier Construction Cleanup Service Near You
             </h2>
             <p>
-                Are you looking for a reliable construction cleanup service near me? Look no further than MaidBrite Cleaners . Our
+                Are you looking for a reliable construction cleanup service near me? Look no further than Maidbrite Cleaning Services . Our
                 teams are conveniently located and ready to provide prompt and efficient services in your locality. Whether
                 it's a large commercial project or a residential renovation, we have you covered.
             </p>
@@ -152,7 +152,7 @@
                 A Leading Construction Cleaning Company
             </h2>
             <p>
-                At MaidBrite Cleaners , we have earned a reputation as a leading construction cleaning company. Our commitment to
+                At Maidbrite Cleaning Services , we have earned a reputation as a leading construction cleaning company. Our commitment to
                 excellence, matched with our experience and knowledge of post construction cleaning, sets us apart from our
                 competitors. We are dedicated to ensuring complete client satisfaction, making us the go-to construction
                 cleaning services provider in your area.
@@ -162,9 +162,9 @@
 
             </h2>
             <p>
-                MaidBrite Cleaners  is your trusted partner for all your post construction cleaning needs. From initial construction
+                Maidbrite Cleaning Services  is your trusted partner for all your post construction cleaning needs. From initial construction
                 site cleaning to detailed post construction cleanup, we provide a comprehensive suite of services designed
-                to make your life easier. Choose MaidBrite Cleaners  for a sparkling clean, dust-free, and inviting space that you
+                to make your life easier. Choose Maidbrite Cleaning Services  for a sparkling clean, dust-free, and inviting space that you
                 can be proud of.
             </p>
         </div>

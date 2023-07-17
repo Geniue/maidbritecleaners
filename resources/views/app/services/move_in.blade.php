@@ -4,15 +4,15 @@
 @endsection
 
 @section('meta')
-    <meta name="title" content=" Move In Cleaning | MaidBrite Cleaners ">
+    <meta name="title" content=" Move In Cleaning | Maidbrite Cleaning Services ">
     <meta name="description"
         content="Our move in cleaning services provide a comprehensive solution for a clean, fresh start in your new home. From deep cleaning to pre move in cleaning, we ensure your home is move-in ready at an affordable cost. Find a move in cleaning service near you and enjoy a hassle-free moving experience.">
     <meta name="keywords"
         content=" move in cleaning services, move in cleaning service, move in house cleaning, move in deep cleaning service, new house cleaning, move in cleaning cost, pre move in cleaning, move in cleaning service near me, move in cleaning service cost, move in deep cleaning, move in house cleaning services near me, move in home cleaning services, move in ready cleaning, pre move in cleaning services, move in cleaning services, move in cleaning, move in deep cleaning service, move in cleaning service near me, move in house cleaning, move in cleaning cost, pre move in cleaning, move in cleaning service cost, move in house cleaning services near me, best move in cleaning services, move in home cleaning services, pre move in cleaning services, new home move in cleaning service">
     <link rel="canonical" href="{{ url()->current() }}">
 
-    <meta property="og:site_name" content="MaidBrite Cleaners ">
-    <meta property="og:title" content=" Move In Cleaning | MaidBrite Cleaners ">
+    <meta property="og:site_name" content="Maidbrite Cleaning Services ">
+    <meta property="og:title" content=" Move In Cleaning | Maidbrite Cleaning Services ">
     <meta property="og:description"
         content="Our move in cleaning services provide a comprehensive solution for a clean, fresh start in your new home. From deep cleaning to pre move in cleaning, we ensure your home is move-in ready at an affordable cost. Find a move in cleaning service near you and enjoy a hassle-free moving experience.">
     <meta property="og:url" content="{{ url()->current() }}">
@@ -20,7 +20,7 @@
     <meta property="og:image"
         content="{{ asset('assets/images/10021-house-cleaning-services-NY-PristineGreen-House-Cleaning-UES-Branch-New-York-housekeeping-services.jpg') }}">
     <meta property="fb:admins" content="admin">
-    <meta name="twitter:title" content="MaidBrite Cleaners  House and Commercial Cleaning in NYC  | MaidBrite Cleaners  ">
+    <meta name="twitter:title" content="Maidbrite Cleaning Services  House and Commercial Cleaning in NYC  | Maidbrite Cleaning Services  ">
     <meta name="twitter:description"
         content="Our move in cleaning services provide a comprehensive solution for a clean, fresh start in your new home. From deep cleaning to pre move in cleaning, we ensure your home is move-in ready at an affordable cost. Find a move in cleaning service near you and enjoy a hassle-free moving experience.">
     <meta name="twitter:image"
@@ -28,7 +28,7 @@
     <meta name="twitter:url" content="{{ url()->current() }}">
     <meta name="twitter:card" content="summary">
 
-    <meta itemprop="name" content="MaidBrite Cleaners ">
+    <meta itemprop="name" content="Maidbrite Cleaning Services ">
     <meta itemprop="url" content="{{ url()->current() }}">
     <meta itemprop="thumbnailUrl"
         content="{{ asset('assets/images/10021-house-cleaning-services-NY-PristineGreen-House-Cleaning-UES-Branch-New-York-housekeeping-services.jpg') }}">
@@ -40,13 +40,13 @@
     <link rel="shortcut" type="image/png" href="{{ asset('assets/icons/site_icon_128x128.png') }}">
     <link rel="icon" type="image/png" href="{{ asset('assets/icons/site_icon_128x128.png') }}">
 
-    <meta name="abstract" content="MaidBrite Cleaners  House and Commercial Cleaning in NYC">
+    <meta name="abstract" content="Maidbrite Cleaning Services  House and Commercial Cleaning in NYC">
     <meta name="author" content="admin">
     <meta name="classification" content="Blog">
-    <meta name="copyright" content="MaidBrite Cleaners  House and Commercial Cleaning - All rights Reserved.">
+    <meta name="copyright" content="Maidbrite Cleaning Services  House and Commercial Cleaning - All rights Reserved.">
     <meta name="distribution" content="Global">
     <meta name="language" content="en-GB">
-    <meta name="publisher" content="MaidBrite Cleaners">
+    <meta name="publisher" content="Maidbrite Cleaning Services">
     <meta name="rating" content="General">
     <meta name="resource-type" content="Document">
     <meta name="revisit-after" content="3">

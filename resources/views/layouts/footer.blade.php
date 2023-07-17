@@ -141,7 +141,10 @@
                 <p class="footer-heading">GET IN TOUCH</p>
                 <ul class="footer-1-container__Service-links flex flex-col gap-1">
                     <li>
-                        <span>MaidBrite Cleaners</span>
+                        <span>
+
+                            <strong>Maidbrite Cleaning Services</strong>
+                        </span>
                     </li>
                     <li>
                         <span>34-18 Northern Blvd 3rd fl 7a</span>
@@ -155,6 +158,12 @@
 
                     <br />
                     <li>
+                        <span>
+
+                            <strong>Maidbrite Cleaning Services</strong>
+                        </span>
+                    </li>
+                    <li>
                         <span>7 Marcus Garvey Blvd #406</span>
                     </li>
                     <li>
@@ -165,7 +174,7 @@
                             target="_blank" rel="noreferrer">Maps &amp; Directions</a></li>
                     <br />
 
-                    <li><a href="mailto:sales@metromaidscleaning.com">sales@metromaidscleaning.com</a></li>
+                    <li><a href="mailto:sales@metromaidscleaning.com">sales@metromaidscleaningservices.com</a></li>
 
                 </ul>
             </div>
@@ -177,7 +186,7 @@
             <a href="{{ asset('sitemap.xml') }}">Sitemap</a>
         </div>
         <div class="footer-2-copyright">
-            <span>© 2023 MaidBrite Cleaners, LLC. All rights reserved.</span>
+            <span>© 2023 Maidbrite Cleaning Services, LLC. All rights reserved.</span>
         </div>
     </div>
     <!-- section 2 -->

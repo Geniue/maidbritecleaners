@@ -11,15 +11,15 @@
 @endsection
 
 @section('meta')
-    <meta name="title" content="Cleaning Lady | MaidBrite Cleaners ">
+    <meta name="title" content="Cleaning Lady | Maidbrite Cleaning Services ">
     <meta name="description"
         content="Discover superior quality cleaning lady services near you. From regular house cleaning to deep cleaning, our lady maids provide unmatched professionalism and attention to detail.">
     <meta name="keywords"
         content="cleaning lady near me, cleaning lady services, independent cleaning lady near me, house cleaning lady near me, house cleaning lady, hire a cleaning lady, cleaning ladies in my area, find a cleaning lady near me, best cleaning lady near me, need a cleaning lady, lady maids cleaning service, cleaners near me, cleaning services near me, house cleaning services, deep cleaning house, professional cleaning services, house cleaning services near me, cleaning company">
     <link rel="canonical" href="{{ url()->current() }}">
 
-    <meta property="og:site_name" content="MaidBrite Cleaners ">
-    <meta property="og:title" content="Cleaning Lady | MaidBrite Cleaners ">
+    <meta property="og:site_name" content="Maidbrite Cleaning Services ">
+    <meta property="og:title" content="Cleaning Lady | Maidbrite Cleaning Services ">
     <meta property="og:description"
         content="Discover superior quality cleaning lady services near you. From regular house cleaning to deep cleaning, our lady maids provide unmatched professionalism and attention to detail.">
     <meta property="og:url" content="{{ url()->current() }}">
@@ -27,7 +27,7 @@
     <meta property="og:image"
         content="{{ asset('assets/images/10021-house-cleaning-services-NY-PristineGreen-House-Cleaning-UES-Branch-New-York-housekeeping-services.jpg') }}">
     <meta property="fb:admins" content="admin">
-    <meta name="twitter:title" content="MaidBrite Cleaners  House and Commercial Cleaning in NYC | MaidBrite Cleaners  ">
+    <meta name="twitter:title" content="Maidbrite Cleaning Services  House and Commercial Cleaning in NYC | Maidbrite Cleaning Services  ">
     <meta name="twitter:description"
         content="Discover superior quality cleaning lady services near you. From regular house cleaning to deep cleaning, our lady maids provide unmatched professionalism and attention to detail.">
     <meta name="twitter:image"
@@ -35,7 +35,7 @@
     <meta name="twitter:url" content="{{ url()->current() }}">
     <meta name="twitter:card" content="summary">
 
-    <meta itemprop="name" content="MaidBrite Cleaners ">
+    <meta itemprop="name" content="Maidbrite Cleaning Services ">
     <meta itemprop="url" content="{{ url()->current() }}">
     <meta itemprop="thumbnailUrl"
         content="{{ asset('assets/images/10021-house-cleaning-services-NY-PristineGreen-House-Cleaning-UES-Branch-New-York-housekeeping-services.jpg') }}">
@@ -47,13 +47,13 @@
     <link rel="shortcut" type="image/png" href="{{ asset('assets/icons/site_icon_128x128.png') }}">
     <link rel="icon" type="image/png" href="{{ asset('assets/icons/site_icon_128x128.png') }}">
 
-    <meta name="abstract" content="MaidBrite Cleaners  House and Commercial Cleaning in NYC">
+    <meta name="abstract" content="Maidbrite Cleaning Services  House and Commercial Cleaning in NYC">
     <meta name="author" content="admin">
     <meta name="classification" content="Blog">
-    <meta name="copyright" content="MaidBrite Cleaners  House and Commercial Cleaning - All rights Reserved.">
+    <meta name="copyright" content="Maidbrite Cleaning Services  House and Commercial Cleaning - All rights Reserved.">
     <meta name="distribution" content="Global">
     <meta name="language" content="en-GB">
-    <meta name="publisher" content="MaidBrite Cleaners">
+    <meta name="publisher" content="Maidbrite Cleaning Services">
     <meta name="rating" content="General">
     <meta name="resource-type" content="Document">
     <meta name="revisit-after" content="3">

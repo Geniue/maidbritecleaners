@@ -11,31 +11,31 @@
 @endsection
 
 @section('meta')
-    <meta name="title" content="Move Out Cleaning  | MaidBrite Cleaners ">
+    <meta name="title" content="Move Out Cleaning  | Maidbrite Cleaning Services ">
     <meta name="description"
-        content="Looking for professional move out cleaning services? MaidBrite Cleaners  provides expert and affordable solutions to make your move stress-free. Our skilled cleaners offer comprehensive services tailored to your needs, leaving your previous home spotless and ready for the next occupants. Contact us today for a seamless transition to your new chapter.">
+        content="Looking for professional move out cleaning services? Maidbrite Cleaning Services  provides expert and affordable solutions to make your move stress-free. Our skilled cleaners offer comprehensive services tailored to your needs, leaving your previous home spotless and ready for the next occupants. Contact us today for a seamless transition to your new chapter.">
     <meta name="keywords"
         content="move out cleaning services, move out cleaners near me, move out cleaning near me, moving out cleaning service, move out cleaning cost, move out cleaning services near me, move out house cleaning services near me, moving out cleaning services, move out cleaning prices, professional move out cleaning, move out cleaning service near me, move out house cleaning services, move out services, average cost of move out cleaning, apartment move out cleaning, move out cleaning services cost, how much does move out cleaning cost, how long does a move out cleaning take, move out cleaning rates, apartment move out cleaning cost, move out deep cleaning, best move out cleaning service, move out cleaning services prices">
     <link rel="canonical" href="{{ url()->current() }}">
 
-    <meta property="og:site_name" content="MaidBrite Cleaners ">
-    <meta property="og:title" content="Move Out Cleaning  | MaidBrite Cleaners ">
+    <meta property="og:site_name" content="Maidbrite Cleaning Services ">
+    <meta property="og:title" content="Move Out Cleaning  | Maidbrite Cleaning Services ">
     <meta property="og:description"
-        content="Looking for professional move out cleaning services? MaidBrite Cleaners  provides expert and affordable solutions to make your move stress-free. Our skilled cleaners offer comprehensive services tailored to your needs, leaving your previous home spotless and ready for the next occupants. Contact us today for a seamless transition to your new chapter.">
+        content="Looking for professional move out cleaning services? Maidbrite Cleaning Services  provides expert and affordable solutions to make your move stress-free. Our skilled cleaners offer comprehensive services tailored to your needs, leaving your previous home spotless and ready for the next occupants. Contact us today for a seamless transition to your new chapter.">
     <meta property="og:url" content="{{ url()->current() }}">
     <meta property="og:type" content="website">
     <meta property="og:image"
         content="{{ asset('assets/images/10021-house-cleaning-services-NY-PristineGreen-House-Cleaning-UES-Branch-New-York-housekeeping-services.jpg') }}">
     <meta property="fb:admins" content="admin">
-    <meta name="twitter:title" content="MaidBrite Cleaners  House and Commercial Cleaning in NYC  | MaidBrite Cleaners  ">
+    <meta name="twitter:title" content="Maidbrite Cleaning Services  House and Commercial Cleaning in NYC  | Maidbrite Cleaning Services  ">
     <meta name="twitter:description"
-        content="Looking for professional move out cleaning services? MaidBrite Cleaners  provides expert and affordable solutions to make your move stress-free. Our skilled cleaners offer comprehensive services tailored to your needs, leaving your previous home spotless and ready for the next occupants. Contact us today for a seamless transition to your new chapter.">
+        content="Looking for professional move out cleaning services? Maidbrite Cleaning Services  provides expert and affordable solutions to make your move stress-free. Our skilled cleaners offer comprehensive services tailored to your needs, leaving your previous home spotless and ready for the next occupants. Contact us today for a seamless transition to your new chapter.">
     <meta name="twitter:image"
         content="{{ asset('assets/images/10021-house-cleaning-services-NY-PristineGreen-House-Cleaning-UES-Branch-New-York-housekeeping-services.jpg') }}">
     <meta name="twitter:url" content="{{ url()->current() }}">
     <meta name="twitter:card" content="summary">
 
-    <meta itemprop="name" content="MaidBrite Cleaners ">
+    <meta itemprop="name" content="Maidbrite Cleaning Services ">
     <meta itemprop="url" content="{{ url()->current() }}">
     <meta itemprop="thumbnailUrl"
         content="{{ asset('assets/images/10021-house-cleaning-services-NY-PristineGreen-House-Cleaning-UES-Branch-New-York-housekeeping-services.jpg') }}">
@@ -47,13 +47,13 @@
     <link rel="shortcut" type="image/png" href="{{ asset('assets/icons/site_icon_128x128.png') }}">
     <link rel="icon" type="image/png" href="{{ asset('assets/icons/site_icon_128x128.png') }}">
 
-    <meta name="abstract" content="MaidBrite Cleaners  House and Commercial Cleaning in NYC">
+    <meta name="abstract" content="Maidbrite Cleaning Services  House and Commercial Cleaning in NYC">
     <meta name="author" content="admin">
     <meta name="classification" content="Blog">
-    <meta name="copyright" content="MaidBrite Cleaners  House and Commercial Cleaning - All rights Reserved.">
+    <meta name="copyright" content="Maidbrite Cleaning Services  House and Commercial Cleaning - All rights Reserved.">
     <meta name="distribution" content="Global">
     <meta name="language" content="en-GB">
-    <meta name="publisher" content="MaidBrite Cleaners">
+    <meta name="publisher" content="Maidbrite Cleaning Services">
     <meta name="rating" content="General">
     <meta name="resource-type" content="Document">
     <meta name="revisit-after" content="3">

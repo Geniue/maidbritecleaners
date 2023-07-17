@@ -11,15 +11,15 @@
 @endsection
 
 @section('meta')
-    <meta name="title" content="Green Cleaning  | MaidBrite Cleaners ">
+    <meta name="title" content="Green Cleaning  | Maidbrite Cleaning Services ">
     <meta name="description"
         content="Explore our green cleaning services, combining environmental consciousness with impeccable housekeeping. From organic cleaning services to using eco-friendly commercial cleaning products, we are leading the green revolution in cleaning. Dive into the world of green house cleaning with us - where cleanliness meets sustainability.">
     <meta name="keywords"
         content="green house cleaning, organic cleaning services, green house cleaners, eco-friendly commercial cleaning products, greener cleaners, green clean services, today's green cleaning, green commercial cleaning products, green home cleaning services, greenwashing cleaning products, healthy cleaning services, green cleaning near me, environmentally friendly industrial cleaning products, green housekeeping services, environmentally friendly commercial cleaning products, green cleaning program, green cleaning, simple green cleaner, bissell big green, eco cleaning, clean green, green and clean, green cleaning services, eco cleaning services, eco-friendly cleaning, non-toxic cleaners, green & clean, clean & green, eco cleaning company, green cleaners near me, go green go clean, greenworks cleaner, eco-friendly cleaning services, eco cleaners near me">
     <link rel="canonical" href="{{ url()->current() }}">
 
-    <meta property="og:site_name" content="MaidBrite Cleaners ">
-    <meta property="og:title" content="Green Cleaning  | MaidBrite Cleaners ">
+    <meta property="og:site_name" content="Maidbrite Cleaning Services ">
+    <meta property="og:title" content="Green Cleaning  | Maidbrite Cleaning Services ">
     <meta property="og:description"
         content="Explore our green cleaning services, combining environmental consciousness with impeccable housekeeping. From organic cleaning services to using eco-friendly commercial cleaning products, we are leading the green revolution in cleaning. Dive into the world of green house cleaning with us - where cleanliness meets sustainability.">
     <meta property="og:url" content="{{ url()->current() }}">
@@ -27,7 +27,7 @@
     <meta property="og:image"
         content="{{ asset('assets/images/10021-house-cleaning-services-NY-PristineGreen-House-Cleaning-UES-Branch-New-York-housekeeping-services.jpg') }}">
     <meta property="fb:admins" content="admin">
-    <meta name="twitter:title" content="MaidBrite Cleaners  House and Commercial Cleaning in NYC  | MaidBrite Cleaners  ">
+    <meta name="twitter:title" content="Maidbrite Cleaning Services  House and Commercial Cleaning in NYC  | Maidbrite Cleaning Services  ">
     <meta name="twitter:description"
         content="Explore our green cleaning services, combining environmental consciousness with impeccable housekeeping. From organic cleaning services to using eco-friendly commercial cleaning products, we are leading the green revolution in cleaning. Dive into the world of green house cleaning with us - where cleanliness meets sustainability.">
     <meta name="twitter:image"
@@ -35,7 +35,7 @@
     <meta name="twitter:url" content="{{ url()->current() }}">
     <meta name="twitter:card" content="summary">
 
-    <meta itemprop="name" content="MaidBrite Cleaners ">
+    <meta itemprop="name" content="Maidbrite Cleaning Services ">
     <meta itemprop="url" content="{{ url()->current() }}">
     <meta itemprop="thumbnailUrl"
         content="{{ asset('assets/images/10021-house-cleaning-services-NY-PristineGreen-House-Cleaning-UES-Branch-New-York-housekeeping-services.jpg') }}">
@@ -47,13 +47,13 @@
     <link rel="shortcut" type="image/png" href="{{ asset('assets/icons/site_icon_128x128.png') }}">
     <link rel="icon" type="image/png" href="{{ asset('assets/icons/site_icon_128x128.png') }}">
 
-    <meta name="abstract" content="MaidBrite Cleaners  House and Commercial Cleaning in NYC">
+    <meta name="abstract" content="Maidbrite Cleaning Services  House and Commercial Cleaning in NYC">
     <meta name="author" content="admin">
     <meta name="classification" content="Blog">
-    <meta name="copyright" content="MaidBrite Cleaners  House and Commercial Cleaning - All rights Reserved.">
+    <meta name="copyright" content="Maidbrite Cleaning Services  House and Commercial Cleaning - All rights Reserved.">
     <meta name="distribution" content="Global">
     <meta name="language" content="en-GB">
-    <meta name="publisher" content="MaidBrite Cleaners  ">
+    <meta name="publisher" content="Maidbrite Cleaning Services  ">
     <meta name="rating" content="General">
     <meta name="resource-type" content="Document">
     <meta name="revisit-after" content="3">

@@ -29,9 +29,9 @@
                 <div class="py-3">
                     <h3 class="text-green-1 text-center" style='font-family: "latobold" !important;'>Privacy Policy</h3>
                 </div>
-                <p>MaidBrite Cleaners , LLC Privacy Policy</p>
+                <p>Maidbrite Cleaning Services , LLC Privacy Policy</p>
                 <br>
-                <p>MaidBrite Cleaners , LLC (“MaidBrite Cleaners,” “we,” “our,” “us”) respects your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our services.</p>
+                <p>Maidbrite Cleaning Services , LLC (“Maidbrite Cleaning Services,” “we,” “our,” “us”) respects your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our services.</p>
                 <br>
                 <h1>Information We Collect</h1>
                 <p>We may collect personally identifiable information, such as your name, phone number, and address. This information is used to fulfill or meet the reason you provided the information.</p>
@@ -50,7 +50,7 @@
 
                 <h1>Contact Us</h1>
                 <p>If you have questions or concerns about this Privacy Policy, please contact us at:</p>
-                <p>MaidBrite Cleaners , LLC<br>
+                <p>Maidbrite Cleaning Services , LLC<br>
                 73 Sheridan Ave, 1st floor<br>
                 Brooklyn, NY 11208<br>
                 Phone: 19179053058</p>
@@ -74,10 +74,10 @@
                 <p>We may use cookies and similar tracking technologies to personalize your experience on our site, analyze trends, and gather demographic information about our user base as a whole.</p>
 
                 <h1>Data Protection Rights under GDPR</h1>
-                <p>If you are a resident of the European Economic Area (EEA), you have certain data protection rights. MaidBrite Cleaners aims to take reasonable steps to allow you to correct, amend, delete, or limit the use of your personal data. If you wish to be informed about what personal data we hold about you and if you want it to be removed from our systems, please contact us.</p>
+                <p>If you are a resident of the European Economic Area (EEA), you have certain data protection rights. Maidbrite Cleaning Services aims to take reasonable steps to allow you to correct, amend, delete, or limit the use of your personal data. If you wish to be informed about what personal data we hold about you and if you want it to be removed from our systems, please contact us.</p>
 
                 <h1>California Privacy Rights</h1>
-                <p>If you are a California resident, you have the right to request information regarding the disclosure of your personal information by MaidBrite Cleaners to third parties for the third parties' direct marketing purposes.</p>
+                <p>If you are a California resident, you have the right to request information regarding the disclosure of your personal information by Maidbrite Cleaning Services to third parties for the third parties' direct marketing purposes.</p>
 
                 <p>This Privacy Policy was last updated on May 28, 2023.</p>
             </div>

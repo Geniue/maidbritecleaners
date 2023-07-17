@@ -6,7 +6,7 @@
     <meta name="description" content="{{$blog->meta_description}}">
     <meta name="keywords" content="{{$blog->meta_keywords}}">
     <link rel="canonical" href="{{url()->current()}}">
-    <meta property="og:site_name" content="PristineGreen Upholstery and Carpet Cleaning">
+    <meta property="og:site_name" content="Maidbrite Cleaning Services">
     <meta property="og:title" content="{{$blog->title}}">
     <meta property="og:description" content="{{$blog->meta_description}}">
     <meta property="og:url" content="{{url()->current()}}">
@@ -28,13 +28,13 @@
 
     <link rel="shortcut" type="image/png" href="{{asset('assets/icons/site_icon_128x128.png')}}">
     <link rel="icon" type="image/png" href="{{asset('assets/icons/site_icon_128x128.png')}}">
-    <meta name="abstract" content="PristineGreen Upholstery and Carpet Cleaning in NYC">
+    <meta name="abstract" content="Maidbrite Cleaning Services">
     <meta name="author" content="admin">
     <meta name="classification" content="Blog">
-    <meta name="copyright" content="PristineGreen Upholstery and Carpet Cleaning - All rights Reserved.">
+    <meta name="copyright" content="Maidbrite Cleaning Services - All rights Reserved.">
     <meta name="distribution" content="Global">
     <meta name="language" content="en-GB">
-    <meta name="publisher" content="PristineGreen Cleaning">
+    <meta name="publisher" content="Maidbrite Cleaning Services">
     <meta name="rating" content="General">
     <meta name="resource-type" content="Document">
     <meta name="revisit-after" content="3">

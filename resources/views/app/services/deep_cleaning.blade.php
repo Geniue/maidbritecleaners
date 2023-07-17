@@ -11,31 +11,31 @@
 @endsection
 
 @section('meta')
-    <meta name="title" content="Deep Cleaning | MaidBrite Cleaners ">
+    <meta name="title" content="Deep Cleaning | Maidbrite Cleaning Services ">
     <meta name="description"
-        content="Experience unparalleled deep cleaning services with MaidBrite Cleaners . From whole house deep cleaning to emergency cleaning services, we guarantee a spotless, comfortable environment.">
+        content="Experience unparalleled deep cleaning services with Maidbrite Cleaning Services . From whole house deep cleaning to emergency cleaning services, we guarantee a spotless, comfortable environment.">
     <meta name="keywords"
         content="deep cleaning services, professional deep cleaning services, deep cleaning companies near me, deep house cleaning services, home deep cleaning services, kitchen deep cleaning services, bathroom deep cleaning services, deep steam carpet cleaning, office deep cleaning services, deep cleaning cost per hour, same day cleaning services, move in deep cleaning service, apartment deep cleaning services, same day cleaning, professional cleaners, same day cleaning services, emergency cleaning services, apartment deep clean, move in cleaning services near me">
     <link rel="canonical" href="{{ url()->current() }}">
 
-    <meta property="og:site_name" content="MaidBrite Cleaners ">
-    <meta property="og:title" content="Deep Cleaning | MaidBrite Cleaners ">
+    <meta property="og:site_name" content="Maidbrite Cleaning Services ">
+    <meta property="og:title" content="Deep Cleaning | Maidbrite Cleaning Services ">
     <meta property="og:description"
-        content="Experience unparalleled deep cleaning services with MaidBrite Cleaners . From whole house deep cleaning to emergency cleaning services, we guarantee a spotless, comfortable environment.">
+        content="Experience unparalleled deep cleaning services with Maidbrite Cleaning Services . From whole house deep cleaning to emergency cleaning services, we guarantee a spotless, comfortable environment.">
     <meta property="og:url" content="{{ url()->current() }}">
     <meta property="og:type" content="website">
     <meta property="og:image"
         content="{{ asset('assets/images/10021-house-cleaning-services-NY-PristineGreen-House-Cleaning-UES-Branch-New-York-housekeeping-services.jpg') }}">
     <meta property="fb:admins" content="admin">
-    <meta name="twitter:title" content="MaidBrite Cleaners  House and Commercial Cleaning in NYC  | MaidBrite Cleaners  ">
+    <meta name="twitter:title" content="Maidbrite Cleaning Services  House and Commercial Cleaning in NYC  | Maidbrite Cleaning Services  ">
     <meta name="twitter:description"
-        content="Experience unparalleled deep cleaning services with MaidBrite Cleaners . From whole house deep cleaning to emergency cleaning services, we guarantee a spotless, comfortable environment.">
+        content="Experience unparalleled deep cleaning services with Maidbrite Cleaning Services . From whole house deep cleaning to emergency cleaning services, we guarantee a spotless, comfortable environment.">
     <meta name="twitter:image"
         content="{{ asset('assets/images/10021-house-cleaning-services-NY-PristineGreen-House-Cleaning-UES-Branch-New-York-housekeeping-services.jpg') }}">
     <meta name="twitter:url" content="{{ url()->current() }}">
     <meta name="twitter:card" content="summary">
 
-    <meta itemprop="name" content="MaidBrite Cleaners ">
+    <meta itemprop="name" content="Maidbrite Cleaning Services ">
     <meta itemprop="url" content="{{ url()->current() }}">
     <meta itemprop="thumbnailUrl"
         content="{{ asset('assets/images/10021-house-cleaning-services-NY-PristineGreen-House-Cleaning-UES-Branch-New-York-housekeeping-services.jpg') }}">
@@ -47,13 +47,13 @@
     <link rel="shortcut" type="image/png" href="{{ asset('assets/icons/site_icon_128x128.png') }}">
     <link rel="icon" type="image/png" href="{{ asset('assets/icons/site_icon_128x128.png') }}">
 
-    <meta name="abstract" content="MaidBrite Cleaners  House and Commercial Cleaning in NYC">
+    <meta name="abstract" content="Maidbrite Cleaning Services  House and Commercial Cleaning in NYC">
     <meta name="author" content="admin">
     <meta name="classification" content="Blog">
-    <meta name="copyright" content="MaidBrite Cleaners  House and Commercial Cleaning - All rights Reserved.">
+    <meta name="copyright" content="Maidbrite Cleaning Services  House and Commercial Cleaning - All rights Reserved.">
     <meta name="distribution" content="Global">
     <meta name="language" content="en-GB">
-    <meta name="publisher" content="MaidBrite Cleaners">
+    <meta name="publisher" content="Maidbrite Cleaning Services">
     <meta name="rating" content="General">
     <meta name="resource-type" content="Document">
     <meta name="revisit-after" content="3">
@@ -100,10 +100,10 @@
             <h1 class="text-center text-green fs-1 py-5">Deep Cleaning</h1>
 
             <h2>
-                Deep Cleaning Services by MaidBrite Cleaners 
+                Deep Cleaning Services by Maidbrite Cleaning Services 
             </h2>
             <p>
-                Welcome to MaidBrite Cleaners ! We are a trusted professional deep cleaning services provider with a
+                Welcome to Maidbrite Cleaning Services ! We are a trusted professional deep cleaning services provider with a
                 commitment to excellence. Our wide range of services, from whole house deep cleaning to office deep cleaning
                 services, ensures that every corner of your space gleams with freshness and cleanliness.
             </p>
@@ -111,7 +111,7 @@
                 Reliable Deep Cleaning Services Near You
             </h2>
             <p>
-                Finding reliable deep cleaning companies near you is no longer a hassle with MaidBrite Cleaners . Our
+                Finding reliable deep cleaning companies near you is no longer a hassle with Maidbrite Cleaning Services . Our
                 comprehensive deep house cleaning services are designed to meet all your cleaning needs. Our team of
                 professional cleaners meticulously ensures every inch of your home sparkles.
             </p>
@@ -144,7 +144,7 @@
                 Affordable Deep Cleaning Cost Per Hour
             </h2>
             <p>
-                At MaidBrite Cleaners , we believe in providing value for money. Our deep cleaning cost per hour is
+                At Maidbrite Cleaning Services , we believe in providing value for money. Our deep cleaning cost per hour is
                 competitively priced to ensure high-quality services that fit your budget.
             </p>
             <h2>
@@ -160,12 +160,12 @@
                 Move In Deep Cleaning Service and Apartment Deep Cleaning Services
             </h2>
             <p>
-                Moving into a new place or looking for apartment deep cleaning services? MaidBrite Cleaners  has you
+                Moving into a new place or looking for apartment deep cleaning services? Maidbrite Cleaning Services  has you
                 covered! Our move in deep cleaning service ensures your new home is spotless and ready for you to settle in
                 comfortably.
             </p>
             <p>
-                From us at MaidBrite Cleaners , we assure you of unmatched deep cleaning services near you. Experience
+                From us at Maidbrite Cleaning Services , we assure you of unmatched deep cleaning services near you. Experience
                 a truly clean environment today!
             </p>
 

@@ -11,7 +11,7 @@
                 only 5-Star reviews at all our locations across NYC!
             </p>
             <p class="call-us-banner-para">
-                MaidBrite Cleaners takes pride in its customer satisfaction and high ratings offering a variety of deep
+                Maidbrite Cleaning Services takes pride in its customer satisfaction and high ratings offering a variety of deep
                 cleaning services and maid services. Serving our customers in all five borougns of NYC (Queens,
                 Brooklyn, Manhattan, Bronx & Staten Island) and beyond to Long Island and New Jersey, we specialise in
                 residential (move in/out cleaning, cleaning lady, maid services, apartment cleaning) and commercial

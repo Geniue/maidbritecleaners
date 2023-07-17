@@ -8,31 +8,31 @@
     </script>
 @endsection
 @section('meta')
-    <meta name="title" content="House Cleaning | MaidBrite Cleaners ">
+    <meta name="title" content="House Cleaning | Maidbrite Cleaning Services ">
     <meta name="description"
-        content="Experience exceptional house cleaning services with MaidBrite Cleaners . From deep cleaning to move in and move out cleaning services, our professional team is dedicated to keeping your home spotless and comfortable. Trust us for reliable, high-quality and affordable cleaning solutions near you.">
+        content="Experience exceptional house cleaning services with Maidbrite Cleaning Services . From deep cleaning to move in and move out cleaning services, our professional team is dedicated to keeping your home spotless and comfortable. Trust us for reliable, high-quality and affordable cleaning solutions near you.">
     <meta name="keywords"
         content="cleaning services near me, house cleaning services, house cleaners near me, home cleaning services near me, cleaning company near me, deep cleaning services, move out cleaning services, apartment cleaning services, deep cleaning house, house keeping services, same day cleaning service, house cleaning cost, cleaning services, house cleaning services near me, house cleaning, house cleaners near me, home cleaning services, cleaning company, professional cleaning services, deep cleaning house, residential cleaning services">
     <link rel="canonical" href="{{ url()->current() }}">
 
-    <meta property="og:site_name" content="MaidBrite Cleaners ">
-    <meta property="og:title" content="House Cleaning | MaidBrite Cleaners ">
+    <meta property="og:site_name" content="Maidbrite Cleaning Services ">
+    <meta property="og:title" content="House Cleaning | Maidbrite Cleaning Services ">
     <meta property="og:description"
-        content="Experience exceptional house cleaning services with MaidBrite Cleaners . From deep cleaning to move in and move out cleaning services, our professional team is dedicated to keeping your home spotless and comfortable. Trust us for reliable, high-quality and affordable cleaning solutions near you.">
+        content="Experience exceptional house cleaning services with Maidbrite Cleaning Services . From deep cleaning to move in and move out cleaning services, our professional team is dedicated to keeping your home spotless and comfortable. Trust us for reliable, high-quality and affordable cleaning solutions near you.">
     <meta property="og:url" content="{{ url()->current() }}">
     <meta property="og:type" content="website">
     <meta property="og:image"
         content="{{ asset('assets/images/10021-house-cleaning-services-NY-PristineGreen-House-Cleaning-UES-Branch-New-York-housekeeping-services.jpg') }}">
     <meta property="fb:admins" content="admin">
-    <meta name="twitter:title" content="MaidBrite Cleaners  House and Commercial Cleaning in NYC  | MaidBrite Cleaners  ">
+    <meta name="twitter:title" content="Maidbrite Cleaning Services  House and Commercial Cleaning in NYC  | Maidbrite Cleaning Services  ">
     <meta name="twitter:description"
-        content="Experience exceptional house cleaning services with MaidBrite Cleaners . From deep cleaning to move in and move out cleaning services, our professional team is dedicated to keeping your home spotless and comfortable. Trust us for reliable, high-quality and affordable cleaning solutions near you.">
+        content="Experience exceptional house cleaning services with Maidbrite Cleaning Services . From deep cleaning to move in and move out cleaning services, our professional team is dedicated to keeping your home spotless and comfortable. Trust us for reliable, high-quality and affordable cleaning solutions near you.">
     <meta name="twitter:image"
         content="{{ asset('assets/images/10021-house-cleaning-services-NY-PristineGreen-House-Cleaning-UES-Branch-New-York-housekeeping-services.jpg') }}">
     <meta name="twitter:url" content="{{ url()->current() }}">
     <meta name="twitter:card" content="summary">
 
-    <meta itemprop="name" content="MaidBrite Cleaners ">
+    <meta itemprop="name" content="Maidbrite Cleaning Services ">
     <meta itemprop="url" content="{{ url()->current() }}">
     <meta itemprop="thumbnailUrl"
         content="{{ asset('assets/images/10021-house-cleaning-services-NY-PristineGreen-House-Cleaning-UES-Branch-New-York-housekeeping-services.jpg') }}">
@@ -44,13 +44,13 @@
     <link rel="shortcut" type="image/png" href="{{ asset('assets/icons/site_icon_128x128.png') }}">
     <link rel="icon" type="image/png" href="{{ asset('assets/icons/site_icon_128x128.png') }}">
 
-    <meta name="abstract" content="MaidBrite Cleaners  House and Commercial Cleaning in NYC">
+    <meta name="abstract" content="Maidbrite Cleaning Services  House and Commercial Cleaning in NYC">
     <meta name="author" content="admin">
     <meta name="classification" content="Blog">
-    <meta name="copyright" content="MaidBrite Cleaners  House and Commercial Cleaning - All rights Reserved.">
+    <meta name="copyright" content="Maidbrite Cleaning Services  House and Commercial Cleaning - All rights Reserved.">
     <meta name="distribution" content="Global">
     <meta name="language" content="en-GB">
-    <meta name="publisher" content="MaidBrite Cleaners">
+    <meta name="publisher" content="Maidbrite Cleaning Services">
     <meta name="rating" content="General">
     <meta name="resource-type" content="Document">
     <meta name="revisit-after" content="3">
@@ -102,10 +102,10 @@
             <h1 class="text-center text-green fs-1 py-5">HOUSE CLEANING</h1>
 
             <h2>
-                Exceptional House Cleaning Services by MaidBrite Cleaners 
+                Exceptional House Cleaning Services by Maidbrite Cleaning Services 
             </h2>
             <p>
-                At MaidBrite Cleaners , we understand that every home is a unique sanctuary. That's why we offer comprehensive and
+                At Maidbrite Cleaning Services , we understand that every home is a unique sanctuary. That's why we offer comprehensive and
                 tailored house cleaning services designed to maintain the sparkle in your abode and complement your
                 lifestyle. Whether you are looking for an occasional spruce-up or recurring, scheduled cleaning, we are the
                 cleaning company near you that is ready to get down to the nitty-gritty.
@@ -127,7 +127,7 @@
             </h2>
             <p>
                 Our house cleaners are not only reliable but also trained to deliver professional cleaning services. At
-                MaidBrite Cleaners , we ensure that our cleaning ladies and housekeepers go through rigorous training to provide
+                Maidbrite Cleaning Services , we ensure that our cleaning ladies and housekeepers go through rigorous training to provide
                 services that surpass your expectations. Our team is devoted to maintaining a clean and comfortable
                 environment for you and your loved ones.
 
@@ -136,7 +136,7 @@
                 Move In and Move Out Cleaning Services
             </h2>
             <p>
-                Whether you are moving into a new home or moving out of your apartment, MaidBrite Cleaners  is here to assist you
+                Whether you are moving into a new home or moving out of your apartment, Maidbrite Cleaning Services  is here to assist you
                 with exceptional cleaning. Our move in cleaning service ensures that your new residence is welcoming and
                 spotless, setting the stage for delightful memories. On the other hand, our move out cleaning services are
                 designed to leave your old home in immaculate condition, ensuring a smooth transition.
@@ -163,18 +163,18 @@
                 Affordable and Fair House Cleaning Cost
             </h2>
             <p>
-                Quality does not always have to come at a high cost. At MaidBrite Cleaners , we strive to provide the best cleaning
+                Quality does not always have to come at a high cost. At Maidbrite Cleaning Services , we strive to provide the best cleaning
                 services at competitive rates. We believe that everyone deserves a clean and comfortable home, and we ensure
                 that our house cleaning cost remains affordable without compromising on quality.
             </p>
             <h2>
-                Why Choose MaidBrite Cleaners ?
+                Why Choose Maidbrite Cleaning Services ?
             </h2>
             <p>
                 As a professional cleaning company, we are dedicated to providing high-quality house cleaning services near
                 you. Our team of professionals is always ready to deliver the highest level of service to meet your cleaning
                 needs. We believe in creating a clean, healthy and comfortable living environment for you and your family.
-                Choose MaidBrite Cleaners  for a spotless, sparkling home!
+                Choose Maidbrite Cleaning Services  for a spotless, sparkling home!
             </p>
         </div>
 
