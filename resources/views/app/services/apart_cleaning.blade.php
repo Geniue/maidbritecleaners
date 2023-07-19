@@ -105,7 +105,7 @@
 
 
 
-            <h1 class="text-center text-green fs-1 py-5">Apartment Cleaning</h1>
+            <h1 class="text-center text-green fs-1 py-5">APARTMENT CLEANING</h1>
 
             <h2>Expert Apartment Cleaning Services for A Refreshed Living
                 Experience</h2>

@@ -76,7 +76,7 @@
         </picture>
         <div class="p-4 p-lg-5 position-absolute bottom-0 w-100 h-100 pb-120">
             <div class="d-flex flex-col justify-content-end gap-4 h-100 py-4">
-                <h1 class="text-green">Post Construction Cleaning</h1>
+                <h1 class="text-green">POST CONSTRUCTION CLEANING</h1>
                 <h3 class="tex-white text-center text-lg-start">
                     Professional and Trusted Post Construction Cleaning Service in NYC
                 </h3>

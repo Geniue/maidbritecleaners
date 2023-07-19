@@ -130,6 +130,9 @@
 
     {{-- navbar --}}
     <style>
+        h1{
+            font-weight: 700;
+        }
         .btn.btn-primary {
             color: white;
             background-color: #2baf38;
@@ -635,7 +638,14 @@
     @endif
     @yield('css')
 
-
+    <style>
+        .services-items img {
+            height: 295px;
+            object-fit: cover;
+            widows: 295px;
+            max-width: 100%;
+        }
+    </style>
     <style type="text/css">
    
    .banner {

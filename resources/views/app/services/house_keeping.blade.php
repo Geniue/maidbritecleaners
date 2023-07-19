@@ -93,7 +93,7 @@
     <section id="main-content-cleaning" class="py-7 main-content-cleaning-service">
         <div class="container py-5 main-content-section text-lightgray">
 
-            <h1 class="text-center text-green fs-1 py-5">House Keeping</h1>
+            <h1 class="text-center text-green fs-1 py-5">HOUSE KEEPING</h1>
 
 
 

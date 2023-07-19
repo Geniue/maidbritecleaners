@@ -92,7 +92,7 @@
     <section id="main-content-cleaning" class="py-7 main-content-cleaning-service">
         <div class="container py-5 main-content-section text-lightgray">
 
-            <h1 class="text-center text-green fs-1 py-5">Maid Cleaning</h1>
+            <h1 class="text-center text-green fs-1 py-5">MAID CLEANING</h1>
 
 
             <p><strong>

@@ -26,7 +26,7 @@ class ContactController extends Controller
 
         $validator = Validator::make($data, [
             'name' => 'required',
-            'email'=>'required|email:rfc,dns',
+            'email' => 'required|email:rfc,dns',
             'phone' => 'required|numeric|digits:10',
             'message_' => 'required'
         ]);
@@ -39,16 +39,16 @@ class ContactController extends Controller
 
 
         //EMAIL ADMIN
-        Mail::send('app.emails.contact_us', $data , function($message) { //stuart.emmons@gmail.com  stuart.emmons@gmail.com dd121412@gmail.com
-            $message->to('stuart.emmons@gmail.com', 'Metromaidscleaning')
-                ->cc(['sales@metromaidscleaning.com','dd121412@gmail.com', 'mostafahanawork@gmail.com'])
-                ->subject("Metromaidscleaning Contact Information");
-            $message->from("sales@metromaidscleaning.com",'Metromaidscleaning');
+        Mail::send('app.emails.contact_us', $data, function ($message) { //stuart.emmons@gmail.com  stuart.emmons@gmail.com dd121412@gmail.com
+            $message->to('stuart.emmons@gmail.com', 'Maidbrite Cleaning Services')
+                ->cc(['sales@maidbritecleaners.com', 'dd121412@gmail.com', 'mostafahanawork@gmail.com'])
+                ->subject("Maidbrite Cleaning Services Contact Information");
+            $message->from("sales@maidbritecleaners.com", 'Maidbrite Cleaning Services');
         });
 
 
         $email = new EmailsModel;
-        $email->type = "Contact Message - metromaidscleaning.com";
+        $email->type = "Contact Message - maidbritecleaners.com";
         $email->email = $view;
         $email->enc = uniqid();
         $email->save();
@@ -62,7 +62,7 @@ class ContactController extends Controller
     public function callback_number_only(Request $request)
     {
         $data = $request->all();
-        
+
         $validator = Validator::make($data, [
             'phone' => 'required|numeric|digits:10'
         ]);
@@ -75,16 +75,16 @@ class ContactController extends Controller
         $view = view('app.emails.callback_number_only', ['phone' => $data['phone']])->render();
 
         //EMAIL ADMIN
-        Mail::send('app.emails.callback_number_only', $data , function($message) { //stuart.emmons@gmail.com  stuart.emmons@gmail.com dd121412@gmail.com
-            $message->to('stuart.emmons@gmail.com', 'Metromaidscleaning')
-                ->cc(['sales@metromaidscleaning.com','dd121412@gmail.com', 'mostafahanawork@gmail.com'])
-                ->subject("Metromaidscleaning Callback Information");
-            $message->from("sales@metromaidscleaning.com",'Metromaidscleaning');
+        Mail::send('app.emails.callback_number_only', $data, function ($message) { //stuart.emmons@gmail.com  stuart.emmons@gmail.com dd121412@gmail.com
+            $message->to('stuart.emmons@gmail.com', 'Maidbrite Cleaning Services')
+                ->cc(['sales@maidbritecleaners.com', 'dd121412@gmail.com', 'mostafahanawork@gmail.com'])
+                ->subject("Maidbrite Cleaning Services Callback Information");
+            $message->from("sales@maidbritecleaners.com", 'Maidbrite Cleaning Services');
         });
 
 
         $email = new EmailsModel;
-        $email->type = "Callback Request - metromaidscleaning.com";
+        $email->type = "Callback Request - maidbritecleaners.com";
         $email->email = $view;
         $email->enc = uniqid();
         $email->save();
@@ -98,7 +98,7 @@ class ContactController extends Controller
     public function callback_with_item(Request $request)
     {
         $data = $request->all();
-        
+
         $validator = Validator::make($data, [
             'phone' => 'required|numeric|digits:10',
             'item' => 'required'
@@ -112,16 +112,16 @@ class ContactController extends Controller
         $view = view('app.emails.callback_with_item', ['phone' => $data['phone'], 'item' => $data['item']])->render();
 
         //EMAIL ADMIN
-        Mail::send('app.emails.callback_with_item', $data , function($message) { //stuart.emmons@gmail.com  stuart.emmons@gmail.com dd121412@gmail.com
-            $message->to('stuart.emmons@gmail.com', 'Metromaidscleaning')
-                ->cc(['sales@metromaidscleaning.com','dd121412@gmail.com', 'mostafahanawork@gmail.com'])
-                ->subject("Metromaidscleaning Callback Information With Item");
-            $message->from("sales@metromaidscleaning.com",'Metromaidscleaning');
+        Mail::send('app.emails.callback_with_item', $data, function ($message) { //stuart.emmons@gmail.com  stuart.emmons@gmail.com dd121412@gmail.com
+            $message->to('stuart.emmons@gmail.com', 'Maidbrite Cleaning Services')
+                ->cc(['sales@maidbritecleaners.com', 'dd121412@gmail.com', 'mostafahanawork@gmail.com'])
+                ->subject("Maidbrite Cleaning Services Callback Information With Item");
+            $message->from("sales@maidbritecleaners.com", 'Maidbrite Cleaning Services');
         });
 
 
         $email = new EmailsModel;
-        $email->type = "Callback Request With Item - metromaidscleaning.com";
+        $email->type = "Callback Request With Item - maidbritecleaners.com";
         $email->email = $view;
         $email->enc = uniqid();
         $email->save();
@@ -142,11 +142,11 @@ class ContactController extends Controller
 
         $validator = Validator::make($data, [
             'name' => 'required',
-            'email'=>'required|email:rfc,dns',
+            'email' => 'required|email:rfc,dns',
             'phone' => 'required|numeric|digits:10',
             'zip' => ['required', 'digits:5', new ZipCodeRange],
             'describe' => 'required'
-        ],[
+        ], [
             'name.required' => 'Please provide your name.',
             'email.required' => 'Your email is required to proceed.',
             'email.email' => 'Please enter a legit email address.',
@@ -166,16 +166,16 @@ class ContactController extends Controller
 
 
         //EMAIL ADMIN
-        Mail::send('app.emails.free_quote_email', $data , function($message) { //stuart.emmons@gmail.com  stuart.emmons@gmail.com dd121412@gmail.com
-            $message->to('stuart.emmons@gmail.com', 'Metromaidscleaning')
-                ->cc(['sales@metromaidscleaning.com','dd121412@gmail.com', 'mostafahanawork@gmail.com'])
-                ->subject("Metromaidscleaning Quote Request Information");
-            $message->from("sales@metromaidscleaning.com",'Metromaidscleaning');
+        Mail::send('app.emails.free_quote_email', $data, function ($message) { //stuart.emmons@gmail.com  stuart.emmons@gmail.com dd121412@gmail.com
+            $message->to('stuart.emmons@gmail.com', 'Maidbrite Cleaning Services')
+                ->cc(['sales@maidbritecleaners.com', 'dd121412@gmail.com', 'mostafahanawork@gmail.com'])
+                ->subject("Maidbrite Cleaning Services Quote Request Information");
+            $message->from("sales@maidbritecleaners.com", 'Maidbrite Cleaning Services');
         });
 
 
         $email = new EmailsModel;
-        $email->type = "Quote Request - metromaidscleaning.com";
+        $email->type = "Quote Request - maidbritecleaners.com";
         $email->email = $view;
         $email->enc = uniqid();
         $email->save();

@@ -75,7 +75,7 @@
         </picture>
         <div class="p-4 p-lg-5 position-absolute bottom-0 w-100 h-100 pb-120">
             <div class="d-flex flex-col justify-content-end gap-4 h-100 py-4">
-                <h1 class="text-green">Green Cleaning </h1>
+                <h1 class="text-green">GREEN CLEANING </h1>
                 <h3 class="tex-white text-center text-lg-start">
                     Get green and non-toxic cleaning services in NYC
                 </h3>

@@ -62,6 +62,10 @@
     <meta name="subject" content="Blog">
 @endsection
 
+@section('css')
+
+@endsection
+
 @section('content')
     <!-- main section starts here -->
     <main class="main-carpet-services-section d-flex align-items-end py-5">
@@ -94,7 +98,7 @@
                 <div class="col-md-12">
                     <div class="section-header text-center pb-4">
                         <h2 class="lh-1-3 lh-md-auto fs-1 fs-md-3 py-3 text-green-1 text-uppercase">
-                            Services
+                            SERVICES
                         </h2>
                     </div>
                     <div class="services-items col-md-12 row row-gap-4 row-gap-lg-5 justify-content-center">

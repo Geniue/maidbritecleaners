@@ -38,8 +38,10 @@
                     </a>
                 </div> --}}
                 <div>
-                    <img rel="canonical" class="lozad logo-white  w-img-250 lazy" alt="PristineGreenCleaning"
+                    <a href="/">
+                        <img rel="canonical" class="lozad logo-white  w-img-250 lazy" alt="PristineGreenCleaning"
                         data-src="{{ asset('assets/logo/maidbrite_logo.png') }}" />
+                    </a>
                 </div>
             </div>
             {{-- <div class="footer-1-container__Service">

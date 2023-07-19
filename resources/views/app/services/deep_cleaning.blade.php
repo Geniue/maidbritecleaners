@@ -77,7 +77,7 @@
 
         <div class="p-4 p-lg-5 position-absolute bottom-0 w-100 h-100 pb-120">
             <div class="d-flex flex-col justify-content-end gap-4 h-100 py-4">
-                <h1 class="text-green">Deep Cleaning </h1>
+                <h1 class="text-green">DEEP CLEANING </h1>
                 <h3 class="tex-white text-center text-lg-start">
                     Top-rated deep cleaning service in NYC
                 </h3>
