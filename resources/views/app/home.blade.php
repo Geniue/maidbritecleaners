@@ -389,10 +389,10 @@
               <button class="py-3 rounded-2  col-12 col-md-3 bg-lightgreen text-white">BOOK NOW</button>
           </form>
         </div>
-        <div class="right-half position-relative">
+        <div class="right-half position-relative w-100">
           <video preload="auto" disablePictureInPicture='true' class="lozad Bright-intro-video" autoplay muted loop
                   data-poster="{{ asset('assets/images/NY-10021-New-York-PristineGreen-House-Cleaning-UES-Branch-cleaning-lady-house-cleaning-services.jpg') }}">
-              <source media="(orientation: landscape)" class="lozad"
+              {{-- <source media="(orientation: landscape)" class="lozad"
                   data-src="{{ asset('videos/Metro_Maid.mp4') }}"
                   sizes="(min-width: 60rem) 80vw,
              (min-width: 40rem) 90vw,
@@ -403,12 +403,12 @@
                   sizes="(min-width: 60rem) 80vw,
              (min-width: 40rem) 90vw,
              100vw"
-                  type="video/webm">
+                  type="video/webm"> --}}
               Your browser does not support the video tag.
           </video>
-          <div id="volume-btn" class="position-absolute right-0 p-3">
+          {{-- <div id="volume-btn" class="position-absolute right-0 p-3">
             <span class="volume-icon fs-2 muted"></span>
-        </div>
+        </div> --}}
         </div>
       </div>
 

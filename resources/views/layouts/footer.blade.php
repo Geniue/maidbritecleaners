@@ -152,7 +152,7 @@
                         <span>34-18 Northern Blvd 3rd fl 7a</span>
                     </li>
                     <li>
-                        <span>Long Island City, NY 11101</span>
+                        <span>Queens, NY 11101</span>
                     </li>
                     <li><a class="" href="tel:212-920-2154">212-920-2154</a></li>
                     <li><a href="https://goo.gl/maps/Ynfuj3goiLjx5hoa8"

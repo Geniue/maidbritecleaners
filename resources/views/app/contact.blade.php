@@ -146,13 +146,13 @@
                     </div>
 
                     <div class="address-info py-3">
-                        <p><strong>Long Island City</strong></p>
+                        <p><strong>Queens</strong></p>
                         <div id="map"></div>
                         <p>
                             <a target="_blank"
                                 href="https://goo.gl/maps/72WtZw82sbHEoS7H7">
                                 34-18 Northern Blvd 3rd fl 7a<br />
-                                Long Island City, NY 11101
+                                Queens, NY 11101
                             </a>
                         </p>
                     </div>
