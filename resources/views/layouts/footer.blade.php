@@ -145,7 +145,7 @@
                     <li>
                         <span>
 
-                            <strong>Maidbrite Cleaning Services</strong>
+                            <strong>MaidBrite Cleaners</strong>
                         </span>
                     </li>
                     <li>
@@ -162,7 +162,7 @@
                     <li>
                         <span>
 
-                            <strong>Maidbrite Cleaning Services</strong>
+                            <strong>MaidBrite Cleaners</strong>
                         </span>
                     </li>
                     <li>
@@ -188,7 +188,7 @@
             <a href="{{ asset('sitemap.xml') }}">Sitemap</a>
         </div>
         <div class="footer-2-copyright">
-            <span>© 2023 Maidbrite Cleaning Services, LLC. All rights reserved.</span>
+            <span>© 2023 MaidBrite Cleaners, LLC. All rights reserved.</span>
         </div>
     </div>
     <!-- section 2 -->
