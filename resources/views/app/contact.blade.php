@@ -141,7 +141,7 @@
                         <p class="mb-0">Contact</p>
                         <p>
                             <a target="_blank" href="tel:212-920-2154">212-920-2154</a><br />
-                            <a target="_blank" href="mailto:sales@metromaidscleaningservices.com">sales@metromaidscleaningservices.com</a>
+                            <a target="_blank" href="mailto:sales@maidbritecleaners.com">sales@maidbritecleaners.com</a>
                         </p>
                     </div>
 

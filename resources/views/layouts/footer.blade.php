@@ -176,7 +176,7 @@
                             target="_blank" rel="noreferrer">Maps &amp; Directions</a></li>
                     <br />
 
-                    <li><a href="mailto:sales@metromaidscleaning.com">sales@metromaidscleaningservices.com</a></li>
+                    <li><a href="mailto:sales@maidbritecleaners.com">sales@maidbritecleaners.com</a></li>
 
                 </ul>
             </div>
