@@ -193,3 +193,4 @@
     </div>
     <!-- section 2 -->
 </footer>
+@include('app.static_components.floating_callback')

@@ -646,6 +646,259 @@
             max-width: 100%;
         }
     </style>
+
+<style>
+    .pri-playpause {
+
+        background-image: url("https://luminaconstruction.com/assets/images/icons/play-button.svg");
+        background-repeat: no-repeat;
+        width: 140px;
+        height: 140px;
+        position: absolute;
+        left: 0%;
+        right: 0%;
+        top: 0%;
+        bottom: 0%;
+        margin: auto;
+        background-size: contain;
+        background-position: center;
+
+    }
+
+    .pri-video-h-auto {
+        height: auto !important;
+    }
+</style>
+<style type="text/css">
+
+/* thumb for learn about service video */
+
+.learn-about-video-wrapper{
+    border: groove; 
+    border-color: #007aff;
+}
+
+@media (min-width:1400px){
+    .learn-about-video-wrapper{
+     
+        width: 751px;
+    max-width: 100%;
+    height: 480px;
+    overflow: hidden;
+    
+}
+
+}
+
+@media (max-width:1400px){
+    .learn-about-video-wrapper{
+        height: auto;
+    }
+    .learn-about-video-wrapper img{
+        height: 335px !important;
+        object-fit: cover
+    }
+}
+@media (max-width:728px){
+ 
+    .learn-about-video-wrapper img{
+        height: 282px !important;
+        object-fit: cover
+    }
+}
+
+.learn-about-video-wrapper img{
+    width: 100%;
+}
+.remove-bg{
+background-image : none !important; 
+}
+
+
+/* blog  left and right pangination icons */
+   .page-link .fa-sharp {
+    border: solid black;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 4px;
+    }
+
+    .page-link .fa-chevron-right {
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+    }
+
+    .page-link .fa-chevron-left {
+    transform: rotate(135deg);
+    -webkit-transform: rotate(135deg);
+    }
+
+
+    @media (min-width: 992px) {
+        .drop-item a {
+            color: inherit !important;
+            text-decoration: underline 0.15em rgba(255, 255, 255, 0) !important;
+            transition: text-decoration-color 300ms !important;
+            text-underline-offset: 5px !important;
+        }
+
+        .drop-item a:hover {
+            text-decoration-color: rgba(255, 255, 255, 1) !important;
+        }
+    }
+
+
+
+
+    @media (min-width: 767px) {
+        .new-gap-1 {
+            width: 700px;
+            padding-left: 12px !important;
+        }
+    }
+
+
+
+
+    @media(max-width: 992px) {
+        .down-icon::before {
+            content: "";
+            display: block;
+            position: absolute;
+            background-size: 0;
+            border-left: 10px solid transparent;
+            border-right: 10px solid transparent;
+            border-top: 10px solid #ffff;
+            position: absolute;
+            content: "";
+            top: 22px;
+            right: 18px;
+            width: 0;
+            height: 0;
+            background-image: none;
+            -webkit-transition: all 0.4s ease-in-out;
+            -moz-transition: all 0.4s ease-in-out;
+            -o-transition: all 0.4s ease-in-out;
+            -ms-transition: all 0.4s ease-in-out;
+            transition: all 0.4s;
+            cursor: pointer;
+
+        }
+
+
+
+        .up-icon::before {
+            transition: all 0.4s;
+            transform: scale(-1);
+        }
+
+        /* make nav fixed on mobile (menu toggle) */
+        .mobile-fixed-nav {
+            position: fixed;
+            top: 0;
+            z-index: 9999;
+        }
+
+    }
+
+    .btn.btn-primary strong {
+        font-family: "latobold" !important;
+    }
+
+
+    @media (min-height: 420px) and (min-width: 1024px) {
+        .callback-desktop-only {
+            display: inline-block;
+            background-color: #fff;
+            position: fixed;
+            right: 24px;
+            bottom: 24px;
+            width: 248px;
+            height: 286px;
+            box-shadow: 0 0 4px #222;
+            z-index: 999;
+        }
+
+        .callback-desktop-only .request-form-header {
+            font-size: 110%;
+            padding: 12px 16px;
+            color: #fff;
+            background-color: #00ff55;
+        }
+
+        .callback-desktop-only .request-form-holder .mb-2 {
+            margin-bottom: 16px !important;
+        }
+
+        .mb-2 {
+            margin-bottom: .5rem !important;
+        }
+
+        id.down-icon::before {
+            top: 14px;
+            right: 15px;
+            content: "";
+            font-family: FontAwesome;
+            font-style: normal;
+            font-size: 15px;
+            font-weight: lighter;
+            left: auto;
+            position: absolute;
+            cursor: pointer;
+            text-decoration: inherit;
+            transition: all 0.4s ease 0s;
+        }
+
+        id.up-icon::before {
+            transition: all 0.4s;
+            transform: scale(-1);
+        }
+
+        .myphone-mobile-only.lol {
+            display: none;
+
+        }
+    }
+
+    @media (max-width: 786px) {
+        .myphone-mobile-only {
+            display: inline-block;
+            position: fixed;
+            right: 24px;
+            bottom: 24px;
+            width: 96px;
+            height: 96px;
+            text-decoration: none;
+            border-radius: 48px;
+            overflow: hidden;
+            z-index: 99999;
+        }
+
+        .myphone-mobile-only {
+            display: block;
+        }
+
+        .myphone-mobile-only img {
+            -o-object-fit: cover;
+            object-fit: cover;
+            width: 100%;
+            height: 100%;
+        }
+    }
+
+
+
+    .video_section {
+        width: 100% !important;
+    }
+
+    .navbar-logo a img {
+        width: 300px;
+        height: auto;
+    }
+</style>
+
+
     <style type="text/css">
    
    .banner {
@@ -786,61 +1039,30 @@
 
     {{-- swiper script for sliders --}}
     <script type="text/javascript">
-        if ($(window).width() <= 768) {
-            // Update and reinitialize Swiper
-            var swiper = new Swiper('.swiper-container', {
-                slidesPerView: 1,
-                initialSlide: 12,
+        var swiper = new Swiper('.swiper-container', {
+            slidesPerView: 1,
+            // spaceBetween:20,
+            centeredSlides: true,
+            loop: true,
+            pagination: {
+                el: '.swiper-pagination',
+                clickable: true,
+            },
+            navigation: {
+                nextEl: '.swiper-button-next',
+                prevEl: '.swiper-button-prev',
                 // spaceBetween:20,
-                centeredSlides: true,
-                loop: true,
-                pagination: {
-                    el: '.swiper-pagination',
-                    clickable: true,
-                },
-                navigation: {
-                    nextEl: '#swiper-button-next',
-                    prevEl: '#swiper-button-prev',
-                    // spaceBetween:20,
-                },
-                breakpoints: {
-                    1148: {
-                        slidesPerView: 3,
-
-                    }
-                },
-                pagination: {
-                    el: false,
+            },
+            breakpoints: {
+                1148: {
+                    slidesPerView: 3,
                 }
-            });
-        } else {
-            var swiper = new Swiper('.swiper-container', {
-                slidesPerView: 1,
-                /*initialSlide: 12,*/
-                // spaceBetween:20,
-                centeredSlides: true,
-                loop: true,
-                pagination: {
-                    el: '.swiper-pagination',
-                    clickable: true,
-                },
-                navigation: {
-                    nextEl: '#swiper-button-next',
-                    prevEl: '#swiper-button-prev',
-                    // spaceBetween:20,
-                },
-                breakpoints: {
-                    1148: {
-                        slidesPerView: 3,
 
-                    }
-                },
-                pagination: {
-                    el: false,
-                }
-            });
-        }
-
+            },
+            pagination: {
+                el: false,
+            }
+        });
         var swiper2 = new Swiper(".mySwiper", {
             slidesPerView: 1,
             spaceBetween: 30,
@@ -870,9 +1092,9 @@
         //         showCloseIcon: true,
         //     }
         // });
-        document.addEventListener("DOMContentLoaded", function() {
+        document.addEventListener("DOMContentLoaded", async function() {
 
-            const observer = lozad('.lozad', {
+            const observer = await lozad('.lozad', {
                 rootMargin: '100px 0px', // Apply a 100px margin around the viewport
                 threshold: 0.1, // Load images when they are 10% visible
                 loaded: function(el) {
@@ -881,11 +1103,6 @@
                 }
             });
             observer.observe();
-
-            // Initialize AOS
-            AOS.init({
-                duration: 1000
-            });
         });
 
 
@@ -902,6 +1119,17 @@
             const e = o.target.value;
             $(".foreground-img").css("width", e + "%"), $(".slider-button").css("left", `calc(${e}% - 18px)`);
         }
+
+        // for video banner
+        $('.pri-vid-wrapper').click(function() {
+            if ($(this).children(".pri-info-video").get(0).paused) {
+                $(this).children(".pri-info-video").get(0).play();
+                $(this).children(".pri-playpause").fadeOut();
+            } else {
+                $(this).children(".pri-info-video").get(0).pause();
+                $(this).children(".pri-playpause").fadeIn();
+            }
+        });
     </script>
     <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
     <script type="text/javascript">
@@ -912,6 +1140,37 @@
                 icon: "error"
             });
         }
+
+        function toggleSlide(elementSelector, height) {
+            const element = $(elementSelector);
+
+            if (element.height() === 50) {
+                element.animate({
+                    height: height
+                });
+            } else {
+                element.animate({
+                    height: 50
+                });
+            }
+        }
+
+        $(document).ready(function() {
+            $('id').on('click', function() {
+                // if ($(this).hasClass("down-icon")) {
+
+                // } else {
+
+                // }
+                $(this).toggleClass("up-icon");
+                $("#call_body").slideToggle();
+
+                toggleSlide('#cll', 298)
+            })
+
+            toggleSlide('#cll', 298);
+            $("#call_body").slideToggle();
+        })
     </script>
 
     @if ($errors->any())
@@ -934,9 +1193,9 @@
             showAlertSuccess("Success");
         </script>
     @endif
+
     {{-- add your components js --}}
     @yield('js')
-
 
 
 
