@@ -814,7 +814,7 @@ background-image : none !important;
             right: 24px;
             bottom: 24px;
             width: 248px;
-            height: 286px;
+            height: 255px;
             box-shadow: 0 0 4px #222;
             z-index: 999;
         }
@@ -1165,10 +1165,10 @@ background-image : none !important;
                 $(this).toggleClass("up-icon");
                 $("#call_body").slideToggle();
 
-                toggleSlide('#cll', 298)
+                toggleSlide('#cll', 255)
             })
 
-            toggleSlide('#cll', 298);
+            toggleSlide('#cll', 255);
             $("#call_body").slideToggle();
         })
     </script>

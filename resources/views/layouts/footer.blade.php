@@ -39,7 +39,7 @@
                 </div> --}}
                 <div>
                     <a href="/">
-                        <img rel="canonical" class="lozad logo-white  w-img-250 lazy" alt="PristineGreenCleaning"
+                        <img rel="canonical" class="lozad logo-white   lazy" width="230" alt="PristineGreenCleaning"
                         data-src="{{ asset('assets/logo/maidbrite_logo.png') }}" />
                     </a>
                 </div>
@@ -122,11 +122,26 @@
                             Cleaning Services </a>
                     </li>
                     <li>
+                        <a href="{{ route('cleaning_lady') }}">Cleaning Lady </a>
+                    </li>
+                    <li>
                         <a href="{{ route('green_cleaning') }}">Green Cleaning</a>
                     </li>
                     <li>
                         <a href="{{ route('comm_cleaning') }}">Commercial
                             Cleaning</a>
+                    </li>
+                    <li>
+                        <a href="{{ route('maid_cleaning') }}">Maid Cleaning</a>
+                    </li>
+                    <li>
+                        <a href="{{ route('res_cleaning') }}">Residential Cleaning</a>
+                    </li>
+                    <li>
+                        <a href="{{ route('deep_cleaning') }}">Deep Cleaning</a>
+                    </li>
+                    <li>
+                        <a href="{{ route('house_keeping') }}">House Keeping</a>
                     </li>
                     <li>
                         <a href="{{ route('faqs') }}">FAQ’s </a>
@@ -145,7 +160,7 @@
                     <li>
                         <span>
 
-                            <strong>MaidBrite Cleaners</strong>
+                            <strong>Maidbrite Cleaning Services</strong>
                         </span>
                     </li>
                     <li>
@@ -162,7 +177,7 @@
                     <li>
                         <span>
 
-                            <strong>MaidBrite Cleaners</strong>
+                            <strong>Maidbrite Cleaning Services</strong>
                         </span>
                     </li>
                     <li>
