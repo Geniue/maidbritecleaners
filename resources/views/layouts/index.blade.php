@@ -650,7 +650,7 @@
 <style>
     .pri-playpause {
 
-        background-image: url("https://luminaconstruction.com/assets/images/icons/play-button.svg");
+        background-image: url('{{asset('assets/images/icons/play-button.svg')}}');
         background-repeat: no-repeat;
         width: 140px;
         height: 140px;

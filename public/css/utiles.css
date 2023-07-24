@@ -130,7 +130,7 @@
     padding: 0 2rem;
 }
 .next-button {
-    background-image: url("https://pristinegreencleaning.com/assets/icons/icn--more-svg2.svg");
+    background-image: url("../assets/icons/icn--more-svg2.svg");
     width: 2.813rem !important;
     height: 2.813rem !important;
     background-repeat: no-repeat;
@@ -140,7 +140,7 @@
     border-radius: 8px 0 0 8px;
 }
 .prev-button {
-    background-image: url("https://pristinegreencleaning.com/assets/icons/icn--more-svg2.svg");
+    background-image: url("../assets/icons/icn--more-svg2.svg");
     width: 2.813rem !important;
     height: 2.813rem !important;
     background-repeat: no-repeat;
