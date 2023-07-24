@@ -48,7 +48,7 @@
         </tr>
         <tr>
             <td>
-                <img src="https://metro.whippdigital.com/assets/images/logo/PristineGreen-House-Cleaning-Logo-NYC.png" alt="Logo">
+                <img src="{{ asset('assets/logo/maidbrite_logo.png') }}" alt="Logo">
             </td>
         </tr>
         <tr>

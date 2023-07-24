@@ -127,7 +127,7 @@
 
 
 
-<nav class="navbar px-1 py-2 py-lg-4 py-lg-4 sticky-top">
+{{-- <nav class="navbar px-1 py-2 py-lg-4 py-lg-4 sticky-top">
     <div class="container custom-col">
         <div class="row logo-res w-100">
             <div class="col-md-4 col-lg-6 d-flex justify-content-between logo-col">
@@ -236,7 +236,7 @@
         </button>
     </div>
 
-</nav>
+</nav> --}}
 <!-- NAVBAR END -->
 
 {{-- <div class="wrapper">

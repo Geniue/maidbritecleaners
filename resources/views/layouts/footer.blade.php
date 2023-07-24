@@ -13,7 +13,7 @@
                         target="_blank" rel="noreferrer">
                         <img rel="canonical" class="lozad lazy" alt="facebook" width="32px" height="32px"
                             data-src="{{ asset('assets/images/5365678_fb_facebook_facebook logo_icon.png') }}" style />
-                        <a href="https://www.instagram.com/pristinegreencleaning/" target="_blank" rel="noreferrer">
+                        <a href="https://www.instagram.com/MaidBrite  Cleaners/" target="_blank" rel="noreferrer">
                             <img rel="canonical" class="lozad lazy" alt="instagram" width="32px" height="32px"
                                 data-src="{{ asset('assets/images/5296765_camera_instagram_instagram logo_icon.webp') }}"
                                 style />
@@ -39,7 +39,7 @@
                 </div> --}}
                 <div>
                     <a href="/">
-                        <img rel="canonical" class="lozad logo-white   lazy" width="230" alt="PristineGreenCleaning"
+                        <img rel="canonical" class="lozad logo-white   lazy" width="230" alt="MaidBrite  Cleaners"
                         data-src="{{ asset('assets/logo/maidbrite_logo.png') }}" />
                     </a>
                 </div>

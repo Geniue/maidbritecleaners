@@ -15,7 +15,7 @@
     <meta property="fb:admins" content="admin">
     <meta name="twitter:title" content="{{$blog->title}}">
     <meta name="twitter:description" content="{{$blog->meta_description}}">
-    <!--<meta name="twitter:domain" content="pristinegreencleaning.com">-->
+    <meta name="twitter:domain" content="maidBritecleaners.com">
     <meta name="twitter:image" content="{{Storage::disk('public')->url($blog->image)}}">
     <meta name="twitter:url" content="{{url()->current()}}">
     <meta name="twitter:card" content="summary">

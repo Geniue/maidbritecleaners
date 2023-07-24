@@ -126,7 +126,7 @@
                                 data-src="{{ asset('assets/images/5296516_tweet_twitter_twitter logo_icon.svg') }}"
                                 style />
                         </a>
-                        <a href="https://www.instagram.com/pristinegreencleaning/" target="_blank">
+                        <a href="https://www.instagram.com/maidBritecleaners/" target="_blank">
                             <img rel="canonical" class="lozad lazy" alt="instagram" width="32px" height="32px"
                                 data-src="{{ asset('assets/images/5296765_camera_instagram_instagram logo_icon.webp') }}"
                                 style />

@@ -71,7 +71,7 @@
 
                                             {{-- <div class="col-md-4 av-yelp-g">
                                             <img class="lozad"
-                                                data-src="https://pristinegreencleaning.com/assets/icons/Carpet-Upholstery-Cleaning-Google-Yelp-Rating.png"
+                                                data-src="https://MaidBrite  Cleaners.com/assets/icons/Carpet-Upholstery-Cleaning-Google-Yelp-Rating.png"
                                                 alt="Carpet Upholstery Cleaning Google Yelp Rating">
                                         </div> --}}
                                         </div>
@@ -97,7 +97,7 @@
                                 <a href="https://twitter.com/PGCarpetClean" target="_blank" rel="noreferrer">
                                     <img rel="canonical" class="lozad" alt="twitter" width="32px" height="32px"
                                         data-src="{{ asset('assets/images/5296516_tweet_twitter_twitter logo_icon.svg') }}"></a>
-                                <a href="https://www.instagram.com/pristinegreencleaning/" target="_blank"
+                                <a href="https://www.instagram.com/MaidBrite  Cleaners/" target="_blank"
                                     rel="noreferrer">
                                     <img rel="canonical" class="lozad" alt="instagram" width="32px" height="32px"
                                         data-src="{{ asset('assets/images/5296765_camera_instagram_instagram logo_icon.webp') }}"></a>
@@ -116,7 +116,7 @@
     <div class="d-flex">
         <div class="main-nav-item--phone"> <a class="main-nav-link" href="tel:347-871-6530"><img width="35"
                     height="35" alt="call-us" class="lozad"
-                    data-src="https://pristinegreencleaning.com/assets/icons/call.png"></a>
+                    data-src="{{asset("assets/icons/call.png")}}"></a>
         </div>
         <button class="hamburger__toggle">
             <a href="javascript:void(0)" id="menu-icon-trigger" class="menu-icon-trigger toggle-menu-mob showhide">

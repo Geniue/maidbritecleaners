@@ -175,12 +175,12 @@
                     New York, NY 10010<br />
                     <a class="text-lightgray" href="tel:%28347%29%20871-6530">(347) 871-6530</a><br />
                     <a class="text-lightgray"
-                        href="mailto:sales@pristinegreencleaning.com">sales@pristinegreencleaning.com</a>
+                        href="mailto:sales@maidbritecleaners.com">sales@maidbritecleaners.com</a>
                 </p>
             </div>
             <div class="col">
                 {{-- <img class="lazy img-fluid lozad" alt="Google Map" width="1260" height="450" style="height: 450px"
-                    data-src="https://pristinegreencleaning.com/assets/images/map/map-gramercy.webp" /> --}}
+                    data-src="https://maidbritecleaners.com/assets/images/map/map-gramercy.webp" /> --}}
                 <div id="map"></div>
             </div>
         </div>

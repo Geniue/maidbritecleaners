@@ -38,7 +38,7 @@
 	                                        target="_blank"
 	                                    >
 	                                        <img
-	                                            src="https://pristinegreencleaning.com/assets/logo/PGUpholsteryAndCarpetCleaning.png"
+	                                            src="{{ asset('assets/logo/maidbrite_logo.png') }}"
 	                                            alt="Bootdey.com"
 	                                            style="height: 60px; max-width: 100%; width: 270px;"
 	                                            height="50"
@@ -65,7 +65,7 @@
 	                        <tbody>
 	                            <tr>
 	                                <td width="50%" style="padding: 20px;"><strong style="color: #333; font-size: 24px;">$<?= $amountnn?></strong></td>
-	                                <td align="right" width="50%" style="padding: 20px;">Thanks for using <span class="il">pristinegreencleaning.com</span></td>
+	                                <td align="right" width="50%" style="padding: 20px;">Thanks for using <span class="il">maidbritecleaners.com</span></td>
 	                            </tr>
 	                        </tbody>
 	                    </table>

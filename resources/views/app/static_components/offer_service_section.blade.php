@@ -12,29 +12,29 @@
                     <ul>
                         <li>
                             <img class="lazy  lozad" alt="Carpet Cleaning Services NYC" height="54" width="54"
-                                data-src="https://dev.pristinegreencleaning.com/assets/icons/icon-1.png" style />
+                                data-src="{{asset('assets/icons/icon-1.png" style /')}}">
                             <a href="#"> Carpet Cleaning </a>
                         </li>
                         <li>
                             <img class="lazy lozad" alt="Upholstery Cleaning NYC" height="54" width="54"
-                                data-src="https://dev.pristinegreencleaning.com/assets/icons/icon-3a.png" style />
+                                data-src="{{asset('assets/icons/icon-3a.png" style /')}}">
                             <a href="#">Upholstery Cleaning</a>
                         </li>
                         <li>
                             <img class="lazy lozad" alt="Rug Cleaner NYC" height="54" width="54"
-                                data-src="https://dev.pristinegreencleaning.com/assets/icons/icon-2a.png" style />
+                                data-src="{{asset('assets/icons/icon-2a.png" style /')}}">
                             <a href="#"> Area Rug Cleaning </a>
                         </li>
                         <li>
                             <img class="lazy lozad" alt="Mattress Cleaning NYC" height="54" width="54"
-                                data-src="https://dev.pristinegreencleaning.com/assets/icons/upholstery-cleaning-mattress-cleaning-NYC-icon.png"
+                                data-src="{{asset('assets/icons/upholstery-cleaning-mattress-cleaning-NYC-icon.png')}}"
                                 style />
                             <a href="Matterss Cleaning">Mattress Cleaning</a>
                         </li>
                         <li>
                             <img class="lazy lozad" alt="Oriental and Persian Rug Cleaning NYC" height="54"
                                 width="54"
-                                data-src="https://dev.pristinegreencleaning.com/assets/icons/oriental-rug-cleaning-NYC-icon.png"
+                                data-src="{{asset('assets/icons/oriental-rug-cleaning-NYC-icon.png')}}"
                                 style />
                             <a href="#">Oriental Rug Cleaning</a>
                         </li>
@@ -43,35 +43,35 @@
                     <ul>
                         <li>
                             <img rel="canonical" class="lazy lozad" alt="Green Carpet Cleaner NYC" height="54"
-                                width="54" data-src="https://dev.pristinegreencleaning.com/assets/icons/icon-5a.png"
+                                width="54" data-src="{{asset('assets/icons/icon-5a.png')}}"
                                 style />
                             <a href="#">Green Carpet Cleaner</a>
                         </li>
                         <li>
                             <img rel="canonical" class="lazy lozad"
                                 alt="Professional Office and Commercial Carpet Cleaning Services" height="54"
-                                width="54" data-src="https://dev.pristinegreencleaning.com/assets/icons/icon-4a.png"
+                                width="54" data-src="{{asset('assets/icons/icon-4a.png')}}"
                                 style />
                             <a href="#">Commercial Cleaning</a>
                         </li>
                         <li>
                             <img rel="canonical" class="lazy lozad" alt="Sofa Cleaning NYC" height="54"
                                 width="54"
-                                data-src="https://dev.pristinegreencleaning.com/assets/icons/couch-cleaning-sofa-cleaning-NYC-icon.png"
+                                data-src="{{asset('assets/icons/couch-cleaning-sofa-cleaning-NYC-icon.png')}}"
                                 style />
                             <a href="">Couch Cleaning</a>
                         </li>
                         <li>
                             <img rel="canonical" class="lazy lozad" alt="Vehicle and Auto Cleaning" height="54"
                                 width="54"
-                                data-src="https://dev.pristinegreencleaning.com/assets/icons/auto-interior-cleaning-icon.png"
+                                data-src="{{asset('assets/icons/auto-interior-cleaning-icon.png')}}"
                                 style />
                             <a href="#"> Auto Interior Cleaning </a>
                         </li>
                         <li>
                             <img rel="canonical" class="lazy lozad"
                                 alt="Pet Odor Removal and Pet Urine Removal Services" height="54" width="54"
-                                data-src="https://dev.pristinegreencleaning.com/assets/icons/carpet-cleaning-pet-stain-pet-odor-removal-service-icon.png"
+                                data-src="{{asset('assets/icons/carpet-cleaning-pet-stain-pet-odor-removal-service-icon.png')}}"
                                 style />
                             <a href="#"> Pet Stain and Odor Removal </a>
                         </li>
