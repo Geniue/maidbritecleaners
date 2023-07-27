@@ -390,25 +390,14 @@
           </form>
         </div>
         <div class="right-half position-relative w-100">
-          <video preload="auto" disablePictureInPicture='true' class="lozad Bright-intro-video" autoplay muted loop
+          <video disablePictureInPicture='true' class="lozad Bright-intro-video" autoplay muted loop id="custom-preload"
                   data-poster="{{ asset('assets/images/NY-10021-New-York-PristineGreen-House-Cleaning-UES-Branch-cleaning-lady-house-cleaning-services.jpg') }}">
-              {{-- <source media="(orientation: landscape)" class="lozad"
-                  data-src="{{ asset('videos/Metro_Maid.mp4') }}"
-                  sizes="(min-width: 60rem) 80vw,
-             (min-width: 40rem) 90vw,
-             100vw"
-                  type="video/mp4">
-              <source media="(orientation: portrait)" class="lozad"
-                  data-src="{{ asset('videos/Metro_Maid.mp4') }}"
-                  sizes="(min-width: 60rem) 80vw,
-             (min-width: 40rem) 90vw,
-             100vw"
-                  type="video/webm"> --}}
+       
               Your browser does not support the video tag.
           </video>
-          {{-- <div id="volume-btn" class="position-absolute right-0 p-3">
+          <div id="volume-btn" class="position-absolute right-0 p-3">
             <span class="volume-icon fs-2 muted"></span>
-        </div> --}}
+        </div>
         </div>
       </div>
 
@@ -937,6 +926,59 @@
 
 
 @section('js')
+
+<script>
+    isVideoExist = document.getElementById('custom-preload');
+    if (isVideoExist) {
+        var innerVideo = `
+            <source media="(orientation: landscape)" 
+                src="{{ asset('videos/metro_new.mp4') }}"
+                sizes="(min-width: 60rem) 80vw,
+                (min-width: 40rem) 90vw,
+                100vw"
+                type="video/mp4">
+            <source media="(orientation: portrait)" 
+                src="{{ asset('videos/metro_new.mp4') }}"
+                sizes="(min-width: 60rem) 80vw,
+                (min-width: 40rem) 90vw,
+                100vw"
+                type="video/webm">
+        `;
+        window.addEventListener('load', function () {
+            var video = document.getElementById('custom-preload');
+            var hasPlayed = false;
+
+            function playVideo() {
+                if (!hasPlayed) {
+                    video.innerHTML = innerVideo;
+                    video.autoplay = true;
+                    hasPlayed = true;
+                }
+            }
+
+            document.addEventListener('scroll', playVideo);
+            $(".volume-icon").click( function (){
+
+                if($(".Bright-intro-video")[0].muted)
+                {
+                    $(".volume-icon").removeClass("muted");
+                    $(".volume-icon").addClass("unmuted");
+                    $(".Bright-intro-video")[0].muted = false;
+                    $(".Bright-intro-video")[0].volume  = 0.5;
+                    
+                }
+                else
+                {
+                    $(".volume-icon").addClass("muted");
+                    $(".volume-icon").removeClass("unmuted");
+                    $(".Bright-intro-video")[0].muted =true;
+                }
+
+                });
+        });
+    }
+</script>
+
     <script type="text/javascript">
         // window.onload = function() {
         //   var videoContainer = document.querySelector('.video-container');
@@ -963,25 +1005,6 @@
         // //                  (el1.offsetLeft > el2.offsetRight))
         // //     };
         // }
-
-
-        $(".volume-icon").click( function (){
-
-            if($(".Bright-intro-video")[0].muted)
-            {
-                $(".volume-icon").removeClass("muted");
-                $(".volume-icon").addClass("unmuted");
-                $(".Bright-intro-video")[0].muted = false;
-                
-            }
-            else
-            {
-                $(".volume-icon").addClass("muted");
-                $(".volume-icon").removeClass("unmuted");
-                $(".Bright-intro-video")[0].muted =true;
-            }
-
-        });
-
+  
     </script>
 @endsection
