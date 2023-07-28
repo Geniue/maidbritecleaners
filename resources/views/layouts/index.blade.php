@@ -5,7 +5,7 @@
     <title>@yield('title')</title>
     <meta charset="UTF-8" />
     {{-- <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" /> --}}
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     {{-- <meta name="robots" content="noindex,nofollow,nocrawl"> --}}
     <meta name="csrf-token" content="{{ csrf_token() }}">
     <meta name="google-site-verification" content="Sx17A6_E5qrIxU4_cWyFWfB_P5tWo3D1fKUo3MQEjGQ" />
@@ -127,6 +127,24 @@
     {{--  navbar css file --}}
     <link rel="stylesheet" href="{{ asset('css/navbar.css') }}" />
 
+
+        <style>
+            .footer-1-container__Service-links > span > a {
+                 text-decoration: none;
+                 color: #fff;
+                 display: inline-block;
+                 padding-top:4px; 
+                 padding-bottom:4px; 
+            }
+            .footer-1-container__Service-links > span > a:hover {
+                color: #2baf38;
+                /* padding: 100px; */
+            }
+            .responsive-image {
+                max-width: 100%;
+                height: auto;
+            }
+        </style>
 
     {{-- navbar --}}
     <style>

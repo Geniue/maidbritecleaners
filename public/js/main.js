@@ -502,14 +502,14 @@ $(document).ready(function () {
     let iss = 0;
     function typeWriter() {
         if (iss < text.length) {
-            document.querySelectorAll("#phone-input").forEach(function (ele) {
+            document.querySelectorAll(".phone-input").forEach(function (ele) {
                 ele.placeholder += text.charAt(iss);
             });
             iss++;
         } else {
             iss = 0;
             text = "ENTER YOUR PHONE NUMBER";
-            document.querySelectorAll("#phone-input").forEach(function (ele) {
+            document.querySelectorAll(".phone-input").forEach(function (ele) {
                 ele.placeholder = "";
             });
         }

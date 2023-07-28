@@ -86,9 +86,9 @@
         <div class="p-4 p-lg-5 position-absolute bottom-0 w-100 h-100 pb-120">
             <div class="d-flex flex-col justify-content-end gap-4 h-100 py-4">
                 <h1 class="text-green">Apartment Cleaning </h1>
-                <h3 class="text-white text-center text-lg-start">
+                <p class="text-white text-center text-lg-start fs-3">
                     Get apartment cleaning services in NYC
-                </h3>
+                </p>
                 {{-- book now form --}}
                 @include('app.static_components.booknow_form')
             </div>

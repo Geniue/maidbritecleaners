@@ -59,14 +59,14 @@
 
 
 @section('css')
-@endsection
 <style>
     @media screen and (max-width:878PX) {
         .ser-banner>img {
             background-size: 100% 100%;
         }
     }
-</style>
+    </style>
+    @endsection
 @section('content')
     <!-- main section -->
     <main class="position-relative">
@@ -83,9 +83,9 @@
         <div class="p-4 p-lg-5 pb-120  position-absolute bottom-0 w-100 h-100">
             <div class="d-flex flex-col justify-content-end gap-4 h-100 py-4">
                 <h1 class="text-green">House Cleaning</h1>
-                <h3 class="tex-white text-center text-lg-start">
+                <p class="tex-white text-center text-lg-start fs-3">
                     Top House Cleaning Service Provider in NYC
-                </h3>
+                </p>
                 {{-- book now form --}}
                 @include('app.static_components.booknow_form')
             </div>

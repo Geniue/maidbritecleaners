@@ -3,9 +3,9 @@
        <div class="container mx-auto text-white row align-items-center p-0 py-3 gap-2 gap-lg-0">
            <!-- title -->
            <div class="col-12 col-lg-6">
-               <h3 class="text-lightgreen-1">
+               <p class="text-lightgreen-1 fs-3">
                    Request House Cleaning Now!
-               </h3>
+               </p>
            </div>
            <!-- callback-form -->
            <form method="POST" action="{{ route('callback_item') }}" class="col-12 col-lg-6 row gap-2 mx-auto">

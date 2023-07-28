@@ -3,10 +3,14 @@
         <div class="row logo-res w-100">
             <div class="col-md-4 col-lg-6 d-flex justify-content-between logo-col">
                 <div class="navbar-logo">
-                    <a class="" href="/" style="z-index: 1;">
-                        <img class="main-logo lozad" alt="PrisineGreen" height="60" width="270"
-                            data-src="{{ asset('assets/logo/maidbrite_logo.png') }}"
-                            style="max-width:100%;">
+                    <a href="/">
+                    <img alt="Maidbrite Cleaners" class="responsive-image"
+     src="{{ asset('assets/logo/maidbrite_logo_mob.png') }}"
+     srcset="{{ asset('assets/logo/maidbrite_logo_mob.png') }} 480w,
+             {{ asset('assets/logo/maidbrite_logo.png') }} 800w"
+     sizes="(max-width: 786px) 480px,
+            800px"
+/>
                     </a>
                 </div>
             </div>
@@ -118,8 +122,8 @@
                     height="35" alt="call-us" class="lozad"
                     data-src="{{asset("assets/icons/call.png")}}"></a>
         </div>
-        <button class="hamburger__toggle">
-            <a href="javascript:void(0)" id="menu-icon-trigger" class="menu-icon-trigger toggle-menu-mob showhide">
+        <button aria-label="toggle-btn" class="hamburger__toggle">
+            <span  href="javascript:void(0)" id="menu-icon-trigger" class="menu-icon-trigger toggle-menu-mob showhide">
                 <span id="menu-icon-wrapper" class="menu-icon-wrapper" style="visibility: visible">
                     <svg width="1000px" height="1000px">
                         <path id="pathD"
@@ -144,7 +148,7 @@
                         </path>
                     </svg>
                 </span>
-            </a>
+            </span>
 
         </button>
     </div>

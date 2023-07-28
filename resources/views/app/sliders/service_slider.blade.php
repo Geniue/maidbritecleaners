@@ -7,7 +7,7 @@
                         data-src="{{ asset('assets/images/NY-house-cleaning-services-New-York-PristineGreen-House-Cleaning-UES-Branch-10021-post-construction-cleaning.jpg') }}"
                         alt="Slide 2">
                     <div class="slide-content py-2 text-lightgray">
-                        <h3 class="fw-semibold">Post Construction Cleaning</h3>
+                        <p class="fw-semibold fs-3">Post Construction Cleaning</p>
                         <p class="text-ellipsis-3">Construction work is always messy: dirt, dust, and grime everywhere!
                             Our trained team knows
                             how to quickly and effectively clean every nook and cranny of your new project!</p>
@@ -29,7 +29,7 @@
                         data-src="{{ asset('assets/images/NY-10021-New-York-PristineGreen-House-Cleaning-UES-Branch-move-in-cleaning-house-cleaning-services.jpg') }}"
                         alt="Slide 5">
                     <div class="slide-content py-2 text-lightgray">
-                        <h3 class="fw-semibold">Move In Cleaning</h3>
+                        <p class="fw-semibold fs-3">Move In Cleaning</p>
                         <p class="text-ellipsis-3">When we move to a new place, the last thing we want to think about it
                             cleaniung it after we
                             have just had the hassle of moving. Hire us to do a complete top to bottom clean of your new
@@ -51,7 +51,7 @@
                         data-src="{{ asset('assets/images/house-cleaning-services-New-York-move-out-cleaning-PristineGreen-House-Cleaning-UES-Branch-NY-10021.jpg') }}"
                         alt="Slide 4">
                     <div class="slide-content py-2 text-lightgray">
-                        <h3 class="fw-semibold">Move Out Cleaning</h3>
+                        <p class="fw-semibold fs-3">Move Out Cleaning</p>
                         <p class="text-ellipsis-3">After we have packed up all our boxes, we are often too tired to
                             clean the whole apartment
                             before we move. That's why you should call us to do a complete and thorough clean of your
@@ -73,7 +73,7 @@
                         data-src="{{ asset('assets/images/NY-10021-New-York-PristineGreen-House-Cleaning-UES-Branch-apartment-cleaning-services-house-cleaning-services.jpg') }}"
                         alt="Slide 4">
                     <div class="slide-content py-2 text-lightgray">
-                        <h3 class="fw-semibold">Apartment Cleaning </h3>
+                        <p class="fw-semibold fs-3">Apartment Cleaning </p>
                         <p class="text-ellipsis-3">Our apartments are the center of our lives, but sometimes life is too
                             busy for us to spend
                             time cleaning it! Our services do the heavy lifting for you so you can keep on living life
@@ -95,7 +95,7 @@
                         data-src="{{ asset('assets/images/NY-10021-New-York-PristineGreen-House-Cleaning-UES-Branch-maid-cleaning-service-house-cleaning-services.jpg') }}"
                         alt="Slide 3">
                     <div class="slide-content py-2 text-lightgray">
-                        <h3 class="fw-semibold">Green Cleaning </h3>
+                        <p class="fw-semibold fs-3">Green Cleaning </p>
                         <p class="text-ellipsis-3">Our furry friends sometimes make accidents on our clean upholstery
                             and carpet.
                             Our pet odor
@@ -123,7 +123,7 @@
                         data-src="{{ asset('assets/images/PristineGreen-House-Cleaning-UES-Branch-house-cleaning-services-10021-New-York-commercial-cleaning-services-NY.jpg') }}"
                         alt="Slide 3">
                     <div class="slide-content py-2 text-lightgray">
-                        <h3 class="fw-semibold">Commercial Cleaning </h3>
+                        <p class="fw-semibold fs-3">Commercial Cleaning </p>
                         <p class="text-ellipsis-3">Our furry friends sometimes make accidents on our clean upholstery
                             and carpet.
                             Our pet odor
@@ -152,7 +152,7 @@
                         data-src="{{ asset('assets/images/NY-10021-New-York-PristineGreen-House-Cleaning-UES-Branch-maid-cleaning-service-house-cleaning-services.jpg') }}"
                         alt="Slide 3">
                     <div class="slide-content py-2 text-lightgray">
-                        <h3 class="fw-semibold">Maid Cleaning </h3>
+                        <p class="fw-semibold fs-3">Maid Cleaning </p>
                         <p class="text-ellipsis-3">Our furry friends sometimes make accidents on our clean upholstery
                             and carpet.
                             Our pet odor
@@ -181,7 +181,7 @@
                         data-src="{{ asset('assets/images/NY-10021-New-York-PristineGreen-House-Cleaning-UES-Branch-residential-cleaning-services-house-cleaning-services.jpg') }}"
                         alt="Slide 4">
                     <div class="slide-content py-2 text-lightgray">
-                        <h3 class="fw-semibold">Residential Cleaning</h3>
+                        <p class="fw-semibold fs-3">Residential Cleaning</p>
                         <p class="text-ellipsis-3">Car owners can spend hours every day in their vehicles, and slowly
                             the car’s
                             interior being
@@ -212,7 +212,7 @@
                         data-src="{{ asset('assets/images/NY-10021-New-York-PristineGreen-House-Cleaning-UES-Branch-cleaning-lady-house-cleaning-services.jpg') }}"
                         alt="Slide 4">
                     <div class="slide-content py-2 text-lightgray">
-                        <h3 class="fw-semibold">Cleaning Lady</h3>
+                        <p class="fw-semibold fs-3">Cleaning Lady</p>
                         <p class="text-ellipsis-3">Keeping the office clean and hygienic is essential for a productive
                             work
                             environment. Having
@@ -242,7 +242,7 @@
                         data-src="{{ asset('assets/images/PristineGreen-House-Cleaning---UES-Branch-house-cleaning-services-10021-New-York-deep-cleaning-services-NY.jpg') }}"
                         alt="Slide 4">
                     <div class="slide-content py-2 text-lightgray">
-                        <h3 class="fw-semibold">Deep Cleaning</h3>
+                        <p class="fw-semibold fs-3">Deep Cleaning</p>
                         <p class="text-ellipsis-3">The couch is the centerpiece of the living room and over time gets
                             covered in
                             dirt, smells,
@@ -270,7 +270,7 @@
                         data-src="{{ asset('assets/images/NY-10021-New-York-PristineGreen-House-Cleaning-UES-Branch-housekeeping-services-house-cleaning-services.jpg') }}"
                         alt="Slide 4">
                     <div class="slide-content py-2 text-lightgray">
-                        <h3 class="fw-semibold">House Keeping</h3>
+                        <p class="fw-semibold fs-3">House Keeping</p>
                         <p class="text-ellipsis-3">Having a house keeper saves you so much time! No need to worry about
                             deep cleaning the
                             ktichen or bathroom. Keep enjoying life and let us do the dirty work!</p>
@@ -293,7 +293,7 @@
                         data-src="{{ asset('assets/images/10021-house-cleaning-services-NY-PristineGreen-House-Cleaning-UES-Branch-New-York-housekeeping-services.jpg') }}"
                         alt="Slide 1">
                     <div class="slide-content py-2 text-lightgray">
-                        <h3 class="fw-semibold">House Cleaning</h3>
+                        <p class="fw-semibold fs-3">House Cleaning</p>
                         <p class="text-ellipsis-3">We use our homes for everything which is why its important to keep
                             it clean from top to
                             bottom. Our comprehensive house cleaning services will suite all your needs!</p>

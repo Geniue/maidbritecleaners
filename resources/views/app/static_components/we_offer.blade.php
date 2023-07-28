@@ -3,9 +3,9 @@
     <div class="offerservice-section-container flex">
         <div class="offerservice-section-container-1">
             <div class="offerservice-section-container-1-title">
-                <h3>
+                <p class="fs-2">
                     We offer a variety of house cleaning services...
-                </h3>
+                </p>
             </div>
             <div class="flex offerservice-section-list-container gap-4 ">
                 <!-- services-1 -->

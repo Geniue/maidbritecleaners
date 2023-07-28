@@ -380,12 +380,12 @@
                   <br>
                   Cleaning Services
               </h1>
-              <h3 class="heading-2 home-ban-h3" style="font-family: latobold; font-size: 30px;">Top House Keeping Service in NYC</h3>
+              <p class="heading-2 home-ban-h3" style="font-family: latobold; font-size: 30px;">Top House Keeping Service in NYC</p>
           </div>
           <!-- Book now seciton -->
           <form action="{{ route('callback_number') }}" method="POST" class="row gap-3 p-3 p-sm-0 new-gap-1">
               @csrf
-              <input type="text" id="phone-input" name="phone" class="py-3 rounded-2 col-12  col-md-6 col-lg-7 ele1" />
+              <input type="text"  name="phone" class="phone-input py-3 rounded-2 col-12  col-md-6 col-lg-7 ele1" />
               <button class="py-3 rounded-2  col-12 col-md-3 bg-lightgreen text-white">BOOK NOW</button>
           </form>
         </div>

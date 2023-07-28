@@ -97,103 +97,103 @@
             </div> --}}
             <div class="footer-1-container__Service">
                 <p class="footer-heading">OUR LINKS</p>
-                <ul class="footer-1-container__Service-links flex flex-col gap-1">
-                    <li>
+                <div class="footer-1-container__Service-links flex flex-col gap-1">
+                    <span>
                         <a href="{{ route('about-us') }}">About Us</a>
-                    </li>
-                    <li>
+                    </span>
+                    <span>
                         <a href="{{ route('house_cleaning') }}">House
                             Cleaning Services</a>
-                    </li>
-                    <li>
+                    </span>
+                    <span>
                         <a href="{{ route('post_construct') }}">Post
                             Construction Cleaningg</a>
-                    </li>
-                    <li>
+                    </span>
+                    <span>
                         <a href="{{ route('move_in') }}">Move In Cleaning
                             Services</a>
-                    </li>
-                    <li>
+                    </span>
+                    <span>
                         <a href="{{ route('move_out') }}">Move Out Cleaning
                             Services</a>
-                    </li>
-                    <li>
+                    </span>
+                    <span>
                         <a href="{{ route('apart_cleaning') }}">Apartment
                             Cleaning Services </a>
-                    </li>
-                    <li>
+                    </span>
+                    <span>
                         <a href="{{ route('cleaning_lady') }}">Cleaning Lady </a>
-                    </li>
-                    <li>
+                    </span>
+                    <span>
                         <a href="{{ route('green_cleaning') }}">Green Cleaning</a>
-                    </li>
-                    <li>
+                    </span>
+                    <span>
                         <a href="{{ route('comm_cleaning') }}">Commercial
                             Cleaning</a>
-                    </li>
-                    <li>
+                    </span>
+                    <span>
                         <a href="{{ route('maid_cleaning') }}">Maid Cleaning</a>
-                    </li>
-                    <li>
+                    </span>
+                    <span>
                         <a href="{{ route('res_cleaning') }}">Residential Cleaning</a>
-                    </li>
-                    <li>
+                    </span>
+                    <span>
                         <a href="{{ route('deep_cleaning') }}">Deep Cleaning</a>
-                    </li>
-                    <li>
+                    </span>
+                    <span>
                         <a href="{{ route('house_keeping') }}">House Keeping</a>
-                    </li>
-                    <li>
+                    </span>
+                    <span>
                         <a href="{{ route('faqs') }}">FAQ’s </a>
-                    </li>
-                    {{-- <li>
+                    </span>
+                    {{-- <span>
                         <a href="{{ route('blog') }}">Blog</a>
-                    </li>
-                    <li>
+                    </span>
+                    <span>
                         <a href="{{ route('coupon') }}">Coupon </a>
-                    </li> --}}
-                </ul>
+                    </span> --}}
+                </div>
             </div>
             <div class="footer-1-container__Service">
                 <p class="footer-heading">GET IN TOUCH</p>
-                <ul class="footer-1-container__Service-links flex flex-col gap-1">
-                    <li>
+                <div class="footer-1-container__Service-links flex flex-col gap-1">
+                    <span>
                         <span>
 
                             <strong>Maidbrite Cleaning Services</strong>
                         </span>
-                    </li>
-                    <li>
+                    </span>
+                    <span>
                         <span>34-18 Northern Blvd 3rd fl 7a</span>
-                    </li>
-                    <li>
+                    </span>
+                    <span>
                         <span>Queens, NY 11101</span>
-                    </li>
-                    <li><a class="" href="tel:212-920-2154">212-920-2154</a></li>
-                    <li><a href="https://goo.gl/maps/Ynfuj3goiLjx5hoa8"
-                            target="_blank" rel="noreferrer">Maps &amp; Directions</a></li>
+                    </span>
+                    <span><a class="" href="tel:212-920-2154">212-920-2154</a></span>
+                    <span><a href="https://goo.gl/maps/Ynfuj3goiLjx5hoa8"
+                            target="_blank" rel="noreferrer">Maps &amp; Directions</a></span>
 
                     <br />
-                    <li>
+                    <span>
                         <span>
 
                             <strong>Maidbrite Cleaning Services</strong>
                         </span>
-                    </li>
-                    <li>
+                    </span>
+                    <span>
                         <span>7 Marcus Garvey Blvd #406</span>
-                    </li>
-                    <li>
+                    </span>
+                    <span>
                         <span>Brooklyn, NY 11206</span>
-                    </li>
-                    <li><a class="" href="tel:212-951-0342">212-951-0342</a></li>
-                    <li><a href="https://goo.gl/maps/gB67Pmn3m8iN7to18"
-                            target="_blank" rel="noreferrer">Maps &amp; Directions</a></li>
+                    </span>
+                    <span><a class="" href="tel:212-951-0342">212-951-0342</a></span>
+                    <span><a href="https://goo.gl/maps/gB67Pmn3m8iN7to18"
+                            target="_blank" rel="noreferrer">Maps &amp; Directions</a></span>
                     <br />
 
-                    <li><a href="mailto:sales@maidbritecleaners.com">sales@maidbritecleaners.com</a></li>
+                    <span><a href="mailto:sales@maidbritecleaners.com">sales@maidbritecleaners.com</a></span>
 
-                </ul>
+                </div>
             </div>
         </div>
     </div>

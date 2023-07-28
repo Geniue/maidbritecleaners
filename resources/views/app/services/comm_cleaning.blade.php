@@ -76,9 +76,9 @@
         <div class="p-4 p-lg-5 position-absolute bottom-0 w-100 h-100 pb-120">
             <div class="d-flex flex-col justify-content-end gap-4 h-100 py-4">
                 <h1 class="text-green">Commercial Cleaning</h1>
-                <h3 class="tex-white text-center text-lg-start">
+                <p class="tex-white text-center text-lg-start fs-3">
                     Trusted and recommended commercial cleaner in NYC, specializing in deep cleaning your commercial spaces
-                </h3>
+                </p>
                 {{-- book now form --}}
                 @include('app.static_components.booknow_form')
             </div>

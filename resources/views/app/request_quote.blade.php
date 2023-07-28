@@ -58,6 +58,7 @@
     <section class="position-relative">
         <!-- bg-img -->
         <img class="img lazy lozad"
+        alt="request quote"
             data-src="{{ asset('assets/images/NY-10021-New-York-PristineGreen-House-Cleaning-UES-Branch-residential-cleaning-services-house-cleaning-services.jpg') }}"
             width="100%" height="590"
             style="height: 560px !important;

@@ -271,8 +271,8 @@ a:link {
     }
 
     .logo-res .navbar-logo img {
-        width: 175px;
-        height: 66.7px;
+        width: 160px;
+        /* height: 66.7px; */
     }
 
     .navbar .container {

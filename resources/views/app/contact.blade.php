@@ -80,7 +80,7 @@
 @section('content')
     <!-- Contact us banner section -->
     <section class="position-relative">
-        <img class="w-100 lozad" height="130" data-src="{{ asset('assets/images/rug-cleaner-nyc-contact-us.webp') }}" />
+        <img class="w-100 lozad" alt="contact us" height="130" data-src="{{ asset('assets/images/rug-cleaner-nyc-contact-us.webp') }}" />
         <div class="position-absolute w-100 h-100 top-0 d-flex justify-center align-items-center">
             <p class="fs-1 font-median text-green p-0 mb-1">Contact Us</p>
         </div>

@@ -59,7 +59,8 @@
     <!-- About us banner section -->
     <section class="position-relative">
         <img class="w-100 lozad" height="112"
-            data-src="{{ asset('assets/images/carpet-cleaning-services--Queens-11105-PristineGreen-Upholstery-and-Carpet-Cleaning-rug-cleaner--NY.webp') }}" />
+        alt="about us"
+            data-src="{{ asset('assets/images/carpet-cleaning-services--Queens-11105-PristineGreen-Upholstery-and-Carpet-Cleaning-rug-cleaner--NY1.webp') }}" />
         <div class="position-absolute w-100 h-100 top-0 d-flex justify-center align-items-center">
             <h2 class="fs-1 font-median text-green-1 p-0 mb-1">About Us</h2>
         </div>
