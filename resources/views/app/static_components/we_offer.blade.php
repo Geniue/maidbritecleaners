@@ -78,7 +78,7 @@
                     <li>
                         <img rel="canonical" class="lozad" alt="Pet Odor Removal and Pet Urine Removal Services"
                             height="54" width="54"
-                            data-src="{{ asset('assets/images/icons/v1/Maid.png') }}"
+                            data-src="{{ asset('assets/images/icons/v1/clean_lady.png') }}"
                             style />
                         <a href="{{ route('cleaning_lady') }}">Cleaning Lady </a>
                     </li>
