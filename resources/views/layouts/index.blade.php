@@ -991,6 +991,9 @@ background-image : none !important;
                 height: 420px;
             }
         }
+        .offerservice-section-list-container > ul > li{
+            gap: .2rem!important;
+        }
     </style>
 
 
