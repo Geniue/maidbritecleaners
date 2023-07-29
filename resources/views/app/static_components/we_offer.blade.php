@@ -16,29 +16,29 @@
                         <a href="{{ route('house_cleaning') }}"> House Cleaning </a>
                     </li>
                     <li>
-                        <img class="lozad" alt="Upholstery Cleaning NYC" height="54" width="54"
+                        <img class="lozad" alt="Upholstery Cleaning NYC" height="68" width="68"
                             data-src="{{ asset('assets/images/icons/v1/post_cont.png') }}" style />
                         <a href="{{ route('post_construct') }}">Post Construction Cleaning</a>
                     </li>
                     <li>
-                        <img class="lozad" alt="Rug Cleaner NYC" height="54" width="54"
+                        <img class="lozad" alt="Rug Cleaner NYC" height="68" width="68"
                             data-src="{{ asset('assets/images/icons/v1/move_in.png') }}" style />
                         <a href="{{ route('move_in') }}">Move in Cleaning Services</a>
                     </li>
                     <li>
-                        <img class="lozad" alt="Mattress Cleaning NYC" height="54" width="54"
+                        <img class="lozad" alt="Mattress Cleaning NYC" height="68" width="68"
                             data-src="{{ asset('assets/images/icons/v1/move_out.png') }}"
                             style />
                         <a href="{{ route('move_out') }}">Move out Cleaning Services</a>
                     </li>
                     <li>
-                        <img class="lozad" alt="Oriental and Persian Rug Cleaning NYC" height="54" width="54"
+                        <img class="lozad" alt="Oriental and Persian Rug Cleaning NYC" height="68" width="68"
                             data-src="{{ asset('assets/images/icons/v1/apart_clean.png') }}" style />
                         <a href="{{ route('apart_cleaning') }}">Apartment Cleaning Services</a>
                     </li>
                     <li>
                         <img rel="canonical" class="lozad" alt="Pet Odor Removal and Pet Urine Removal Services"
-                            height="54" width="54"
+                            height="68" width="68"
                             data-src="{{ asset('assets/images/icons/v1/house_keep.png') }}"
                             style />
                         <a href="{{ route('house_keeping') }}"> House Keeping </a>
