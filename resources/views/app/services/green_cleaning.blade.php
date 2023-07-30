@@ -24,25 +24,20 @@
         content="Explore our green cleaning services, combining environmental consciousness with impeccable housekeeping. From organic cleaning services to using eco-friendly commercial cleaning products, we are leading the green revolution in cleaning. Dive into the world of green house cleaning with us - where cleanliness meets sustainability.">
     <meta property="og:url" content="{{ url()->current() }}">
     <meta property="og:type" content="website">
-    <meta property="og:image"
-        content="{{ asset('assets/images/10021-house-cleaning-services-NY-PristineGreen-House-Cleaning-UES-Branch-New-York-housekeeping-services.jpg') }}">
+    <meta property="og:image" content="{{ asset('assets/images/house-cleaning-services-New-York-green-cleaning-PristineGreen-House-Cleaning-UES-Branch-NY-10021.jpg') }}">
     <meta property="fb:admins" content="admin">
     <meta name="twitter:title" content="Maidbrite Cleaning Services  House and Commercial Cleaning in NYC  | Maidbrite Cleaning Services  ">
     <meta name="twitter:description"
         content="Explore our green cleaning services, combining environmental consciousness with impeccable housekeeping. From organic cleaning services to using eco-friendly commercial cleaning products, we are leading the green revolution in cleaning. Dive into the world of green house cleaning with us - where cleanliness meets sustainability.">
-    <meta name="twitter:image"
-        content="{{ asset('assets/images/10021-house-cleaning-services-NY-PristineGreen-House-Cleaning-UES-Branch-New-York-housekeeping-services.jpg') }}">
+    <meta name="twitter:image" content="{{ asset('assets/images/house-cleaning-services-New-York-green-cleaning-PristineGreen-House-Cleaning-UES-Branch-NY-10021.jpg') }}">
     <meta name="twitter:url" content="{{ url()->current() }}">
     <meta name="twitter:card" content="summary">
 
     <meta itemprop="name" content="Maidbrite Cleaning Services ">
     <meta itemprop="url" content="{{ url()->current() }}">
-    <meta itemprop="thumbnailUrl"
-        content="{{ asset('assets/images/10021-house-cleaning-services-NY-PristineGreen-House-Cleaning-UES-Branch-New-York-housekeeping-services.jpg') }}">
-    <meta itemprop="image"
-        content="{{ asset('assets/images/10021-house-cleaning-services-NY-PristineGreen-House-Cleaning-UES-Branch-New-York-housekeeping-services.jpg') }}">
-    <link rel="image_src"
-        href="{{ asset('assets/images/10021-house-cleaning-services-NY-PristineGreen-House-Cleaning-UES-Branch-New-York-housekeeping-services.jpg') }}">
+    <meta itemprop="thumbnailUrl" content="{{ asset('assets/images/house-cleaning-services-New-York-green-cleaning-PristineGreen-House-Cleaning-UES-Branch-NY-10021.jpg') }}">
+    <meta itemprop="image" content="{{ asset('assets/images/house-cleaning-services-New-York-green-cleaning-PristineGreen-House-Cleaning-UES-Branch-NY-10021.jpg') }}">
+    <link rel="image_src" href="{{ asset('assets/images/house-cleaning-services-New-York-green-cleaning-PristineGreen-House-Cleaning-UES-Branch-NY-10021.jpg') }}">
 
     <link rel="shortcut" type="image/png" href="{{ asset('assets/icons/site_icon_128x128.png') }}">
     <link rel="icon" type="image/png" href="{{ asset('assets/icons/site_icon_128x128.png') }}">

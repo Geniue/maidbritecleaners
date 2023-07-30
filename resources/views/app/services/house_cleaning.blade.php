@@ -21,25 +21,20 @@
         content="Experience exceptional house cleaning services with Maidbrite Cleaning Services . From deep cleaning to move in and move out cleaning services, our professional team is dedicated to keeping your home spotless and comfortable. Trust us for reliable, high-quality and affordable cleaning solutions near you.">
     <meta property="og:url" content="{{ url()->current() }}">
     <meta property="og:type" content="website">
-    <meta property="og:image"
-        content="{{ asset('assets/images/10021-house-cleaning-services-NY-PristineGreen-House-Cleaning-UES-Branch-New-York-housekeeping-services.jpg') }}">
+    <meta property="og:image" content="{{ asset('assets/images/10021-house-cleaning-services-NY-PristineGreen-House-Cleaning-UES-Branch-New-York-housekeeping-services.jpg') }}">
     <meta property="fb:admins" content="admin">
     <meta name="twitter:title" content="Maidbrite Cleaning Services  House and Commercial Cleaning in NYC  | Maidbrite Cleaning Services  ">
     <meta name="twitter:description"
         content="Experience exceptional house cleaning services with Maidbrite Cleaning Services . From deep cleaning to move in and move out cleaning services, our professional team is dedicated to keeping your home spotless and comfortable. Trust us for reliable, high-quality and affordable cleaning solutions near you.">
-    <meta name="twitter:image"
-        content="{{ asset('assets/images/10021-house-cleaning-services-NY-PristineGreen-House-Cleaning-UES-Branch-New-York-housekeeping-services.jpg') }}">
+    <meta name="twitter:image" content="{{ asset('assets/images/10021-house-cleaning-services-NY-PristineGreen-House-Cleaning-UES-Branch-New-York-housekeeping-services.jpg') }}">
     <meta name="twitter:url" content="{{ url()->current() }}">
     <meta name="twitter:card" content="summary">
 
     <meta itemprop="name" content="Maidbrite Cleaning Services ">
     <meta itemprop="url" content="{{ url()->current() }}">
-    <meta itemprop="thumbnailUrl"
-        content="{{ asset('assets/images/10021-house-cleaning-services-NY-PristineGreen-House-Cleaning-UES-Branch-New-York-housekeeping-services.jpg') }}">
-    <meta itemprop="image"
-        content="{{ asset('assets/images/10021-house-cleaning-services-NY-PristineGreen-House-Cleaning-UES-Branch-New-York-housekeeping-services.jpg') }}">
-    <link rel="image_src"
-        href="{{ asset('assets/images/10021-house-cleaning-services-NY-PristineGreen-House-Cleaning-UES-Branch-New-York-housekeeping-services.jpg') }}">
+    <meta itemprop="thumbnailUrl" content="{{ asset('assets/images/10021-house-cleaning-services-NY-PristineGreen-House-Cleaning-UES-Branch-New-York-housekeeping-services.jpg') }}">
+    <meta itemprop="image" content="{{ asset('assets/images/10021-house-cleaning-services-NY-PristineGreen-House-Cleaning-UES-Branch-New-York-housekeeping-services.jpg') }}">
+    <link rel="image_src" href="{{ asset('assets/images/10021-house-cleaning-services-NY-PristineGreen-House-Cleaning-UES-Branch-New-York-housekeeping-services.jpg') }}">
 
     <link rel="shortcut" type="image/png" href="{{ asset('assets/icons/site_icon_128x128.png') }}">
     <link rel="icon" type="image/png" href="{{ asset('assets/icons/site_icon_128x128.png') }}">
@@ -72,12 +67,9 @@
     <main class="position-relative">
         <!-- bg-img -->
         <picture class="lozad ser-banner">
-            <source media="(max-width: 878px)"
-                srcset="{{ asset('assets/images/10021-house-cleaning-services-NY-PristineGreen-House-Cleaning-UES-Branch-New-York-housekeeping-services.jpg') }}">
-            <source media="(min-width: 878px)"
-                srcset="{{ asset('assets/images/10021-house-cleaning-services-NY-PristineGreen-House-Cleaning-UES-Branch-New-York-housekeeping-services.jpg') }}">
-            <img class="service-bannner-img h-img-600"
-                src="{{ asset('assets/images/10021-house-cleaning-services-NY-PristineGreen-House-Cleaning-UES-Branch-New-York-housekeeping-services.jpg') }}"
+            <source media="(max-width: 878px)" srcset="{{ asset('assets/images/10021-house-cleaning-services-NY-PristineGreen-House-Cleaning-UES-Branch-New-York-housekeeping-services.jpg') }}">
+            <source media="(min-width: 878px)" srcset="{{ asset('assets/images/10021-house-cleaning-services-NY-PristineGreen-House-Cleaning-UES-Branch-New-York-housekeeping-services.jpg') }}">
+            <img class="service-bannner-img h-img-600" src="{{ asset('assets/images/10021-house-cleaning-services-NY-PristineGreen-House-Cleaning-UES-Branch-New-York-housekeeping-services.jpg') }}"
                 alt="carpet cleaning">
         </picture>
         <div class="p-4 p-lg-5 pb-120  position-absolute bottom-0 w-100 h-100">

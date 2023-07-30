@@ -22,25 +22,20 @@
     <meta property="og:description"
         content="Discover superior apartment cleaning services with Maidbrite Cleaning Services . We offer a variety of professional cleaning services, including deep cleaning, move-out cleaning, and regular maintenance, all tailored to your unique needs. Our competitively priced services, delivered by a team of professional cleaners, ensure your home is always pristine, comfortable, and inviting. Choose Maidbrite Cleaning Services  for unparalleled professionalism, quality, and customer satisfaction.">
     <meta property="og:type" content="website">
-    <meta property="og:image"
-        content="{{ asset('assets/images/10021-house-cleaning-services-NY-PristineGreen-House-Cleaning-UES-Branch-New-York-housekeeping-services.jpg') }}">
+    <meta property="og:image" content="{{ asset('assets/images/NY-10021-New-York-PristineGreen-House-Cleaning-UES-Branch-apartment-cleaning-services-house-cleaning-services.jpg') }}">
     <meta property="fb:admins" content="admin">
     <meta name="twitter:title" content="Maidbrite Cleaning Services  House and Commercial Cleaning in NYC  | Maidbrite Cleaning Services  ">
     <meta name="twitter:description"
         content="Discover superior apartment cleaning services with Maidbrite Cleaning Services . We offer a variety of professional cleaning services, including deep cleaning, move-out cleaning, and regular maintenance, all tailored to your unique needs. Our competitively priced services, delivered by a team of professional cleaners, ensure your home is always pristine, comfortable, and inviting. Choose Maidbrite Cleaning Services  for unparalleled professionalism, quality, and customer satisfaction.">
-    <meta name="twitter:image"
-        content="{{ asset('assets/images/10021-house-cleaning-services-NY-PristineGreen-House-Cleaning-UES-Branch-New-York-housekeeping-services.jpg') }}">
+    <meta name="twitter:image" content="{{ asset('assets/images/NY-10021-New-York-PristineGreen-House-Cleaning-UES-Branch-apartment-cleaning-services-house-cleaning-services.jpg') }}">
     <meta name="twitter:url" content="{{ url()->current() }}">
     <meta name="twitter:card" content="summary">
 
     <meta itemprop="name" content="Maidbrite Cleaning Services ">
     <meta itemprop="url" content="{{ url()->current() }}">
-    <meta itemprop="thumbnailUrl"
-        content="{{ asset('assets/images/10021-house-cleaning-services-NY-PristineGreen-House-Cleaning-UES-Branch-New-York-housekeeping-services.jpg') }}">
-    <meta itemprop="image"
-        content="{{ asset('assets/images/10021-house-cleaning-services-NY-PristineGreen-House-Cleaning-UES-Branch-New-York-housekeeping-services.jpg') }}">
-    <link rel="image_src"
-        href="{{ asset('assets/images/10021-house-cleaning-services-NY-PristineGreen-House-Cleaning-UES-Branch-New-York-housekeeping-services.jpg') }}">
+    <meta itemprop="thumbnailUrl" content="{{ asset('assets/images/NY-10021-New-York-PristineGreen-House-Cleaning-UES-Branch-apartment-cleaning-services-house-cleaning-services.jpg') }}">
+    <meta itemprop="image" content="{{ asset('assets/images/NY-10021-New-York-PristineGreen-House-Cleaning-UES-Branch-apartment-cleaning-services-house-cleaning-services.jpg') }}">
+    <link rel="image_src" href="{{ asset('assets/images/NY-10021-New-York-PristineGreen-House-Cleaning-UES-Branch-apartment-cleaning-services-house-cleaning-services.jpg') }}">
 
     <link rel="shortcut" type="image/png" href="{{ asset('assets/icons/site_icon_128x128.png') }}">
     <link rel="icon" type="image/png" href="{{ asset('assets/icons/site_icon_128x128.png') }}">
