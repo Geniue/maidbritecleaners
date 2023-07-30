@@ -133,8 +133,6 @@
                  text-decoration: none;
                  color: #fff;
                  display: inline-block;
-                 padding-top:4px; 
-                 padding-bottom:4px; 
             }
             .footer-1-container__Service-links > span > a:hover {
                 color: #2baf38;

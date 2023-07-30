@@ -157,7 +157,7 @@
             <div class="footer-1-container__Service">
                 <p class="footer-heading">GET IN TOUCH</p>
                 <div class="footer-1-container__Service-links flex flex-col gap-1">
-                    <span>
+                    {{-- <span>
                         <span>
 
                             <strong>Maidbrite Cleaning Services</strong>
@@ -173,7 +173,7 @@
                     <span><a href="https://goo.gl/maps/Ynfuj3goiLjx5hoa8"
                             target="_blank" rel="noreferrer">Maps &amp; Directions</a></span>
 
-                    <br />
+                    <br /> --}}
                     <span>
                         <span>
 
@@ -187,7 +187,7 @@
                         <span>Brooklyn, NY 11206</span>
                     </span>
                     <span><a class="" href="tel:212-951-0342">212-951-0342</a></span>
-                    <span><a href="https://goo.gl/maps/gB67Pmn3m8iN7to18"
+                    <span><a href="https://goo.gl/maps/qWoFZZLvdW63Zpzb8"
                             target="_blank" rel="noreferrer">Maps &amp; Directions</a></span>
                     <br />
 
