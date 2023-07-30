@@ -1184,10 +1184,10 @@ background-image : none !important;
                 $(this).toggleClass("up-icon");
                 $("#call_body").slideToggle();
 
-                toggleSlide('#cll', 255)
+                toggleSlide('#cll', 270)
             })
 
-            toggleSlide('#cll', 255);
+            toggleSlide('#cll', 270);
             $("#call_body").slideToggle();
         })
     </script>

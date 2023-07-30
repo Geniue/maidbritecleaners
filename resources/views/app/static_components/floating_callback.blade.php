@@ -10,11 +10,11 @@
 			<div style="display: none;"><input type="hidden" name="request-callback" value=""></div>
 			<div class="mb-2">
 				<label for="fyourname">Your phone number:</label>
-				<input id="fyourname" class="rounded-2" type="text" name="phone" placeholder="Phone" required="" style="border-color: #0087c9 !important; border: groove;">
+				<input id="fyourname" class="rounded-2 py-1" type="text" name="phone"  required="" style="padding-left:10px; border-color: #0087c9 !important; border: groove;">
 			</div>
 			<div class="mb-2">
 				<label for="fneedservice">What do you need detailed?</label>
-				<input id="fneedservice" class="rounded-2" type="text" name="item" placeholder="Specify your needs" required="" style="border-color: #0087c9 !important; border: groove;">
+				<input id="fneedservice" class="rounded-2 py-1" type="text" name="item"  required="" style="padding-left:10px;border-color: #0087c9 !important; border: groove;">
 			</div>
 			<div>
 				<button class="btn" type="submit" aria-label="Request callback" style="background-color: #0087c9 !important; color: white;">Request Callback</button>
