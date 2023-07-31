@@ -47,7 +47,7 @@ class BlogController extends Controller
     public function store(Request $request)
     {
         $validatedata = $request->validate([
-            'image' => 'required|image|mimes:jpeg,png,jpg,webp|max:2048',
+            'image' => 'required|image|mimes:jpeg,png,jpg,webp|max:6000',
         ]);
 
         $post=new BlogsModel;
@@ -124,7 +124,7 @@ class BlogController extends Controller
     {
 
         $validatedata = $request->validate([
-            'image' => 'image|mimes:jpeg,png,jpg,webp|max:2048',
+            'image' => 'image|mimes:jpeg,png,jpg,webp|max:6000',
         ]);
 
 

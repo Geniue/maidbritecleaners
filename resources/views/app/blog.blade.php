@@ -65,10 +65,14 @@
                     <div class="py-1">
                         <ul class="featured-post-lists flex flex-column gap-4 p-0">
                             @foreach($blogs as $bl)
+                            @php
+                                $path = public_path('storage'.explode('.', $bl->image)[0].'_thumb.'.explode('.', $bl->image)[1]); // replace with your image path
+                                $size = getimagesize($path);
+                            @endphp
                             <li>
                                 <div class="lptw-post-small-thumbnail abc-109 text-ellipsis-3">
                                     <a href="{{ route('blog01', $bl->slug) }}" class="lptw-thumbnail-link"><img
-                                            width="100" height="100"
+                                            width="100" height="{{100 * ($size[1] / $size[0])}}"
                                             class="attachment-100x100 size-100x100 wp-post-image  lozad"
                                              alt="indigo-rug-cleaning" title="Indigo-dye-rug-cleaning"
                                             data-src="{{ Storage::disk('public')->url(explode('.', $bl->image)[0].'_thumb.'.explode('.', $bl->image)[1]) }}" /></a>
