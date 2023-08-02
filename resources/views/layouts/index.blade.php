@@ -992,6 +992,12 @@ background-image : none !important;
         .offerservice-section-list-container > ul > li{
             gap: .2rem!important;
         }
+        .fa-chevron-right:before{
+            content: "" !important;
+        }
+        .fa-chevron-left:before{
+            content: "" !important;
+        }
     </style>
 
 

@@ -146,6 +146,9 @@
                     <span>
                         <a href="{{ route('faqs') }}">FAQ’s </a>
                     </span>
+                    <span>
+                        <a href="{{ route('blog') }}">Blogs </a>
+                    </span>
                     {{-- <span>
                         <a href="{{ route('blog') }}">Blog</a>
                     </span>
