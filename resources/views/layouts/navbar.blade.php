@@ -3,7 +3,7 @@
         <div class="row logo-res w-100">
             <div class="col-md-4 col-lg-6 d-flex justify-content-between logo-col">
                 <div class="navbar-logo">
-                    <a href="/" class="d-block">
+                    <a href="/" class="d-block ms-lg-5 ms-xl-4 ps-lg-3 ps-xl-2">
                     <img alt="Maidbrite Cleaners" class="responsive-image"
      src="{{ asset('assets/logo/maidbrite_logo_mob.png') }}"
      srcset="{{ asset('assets/logo/maidbrite_logo_mob.png') }} 480w,

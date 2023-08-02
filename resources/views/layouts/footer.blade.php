@@ -39,7 +39,7 @@
                 </div> --}}
                 <div>
                     <a href="/">
-                        <img rel="canonical" class="lozad logo-white   lazy" width="230" alt="MaidBrite  Cleaners"
+                        <img rel="canonical" class="lozad logo-white   lazy" width="265" alt="MaidBrite  Cleaners"
                         data-src="{{ asset('assets/logo/maidbrite_logo.png') }}" />
                     </a>
                 </div>
