@@ -80,10 +80,8 @@ a {
 
 .main-carpet-services-section {
     height: 600px;
-    background-image: url(../assets/images/10021-NY-house-cleaning-services-New-York-housekeeper-near-me-PristineGreen-House-Cleaning-UES-Branch.jpg);
     background-repeat: no-repeat;
     background-size: 100% 100%;
-    /* background-position: center; */
     background-size: cover !important;
 }
 

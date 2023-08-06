@@ -301,10 +301,10 @@
 <header>
     <h1>Invoice</h1>
     <address>
-        <p>sales@pristinegreencleaning.com </p>
-        <p>PristineGreen Upholstery and Carpet Cleaning 6705</p>
-        <p> Myrtle Ave #1015 Queens, NY 11385 </p>
-        <p> P: 1-347-871-6530</p>
+        <p>sales@maidbritecleaners.com </p>
+        <p>MaidBrite Cleaning Services</p>
+        <p> 7 Marcus Garvey Blvd #406, Brooklyn NY 11206 </p>
+        <p> P: 1-212-951-0342</p>
     </address>
     <span><img alt="it" height="50" width="225" src="https://pristinegreencleaning.com/assets/logo/PGUpholsteryAndCarpetCleaning.png"></span>
 </header>

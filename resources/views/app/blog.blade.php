@@ -31,7 +31,7 @@
     <meta name="abstract" content="Maidbrite Cleaning Services">
     <meta name="author" content="admin">
     <meta name="classification" content="Blog">
-    <meta name="copyright" content="Maidbrite Cleaning Services - All rights Reserved.">
+    <meta name="copyright" content="MaidBrite Cleaning Services">
     <meta name="distribution" content="Global">
     <meta name="language" content="en-GB">
     <meta name="publisher" content="Maidbrite Cleaning Services">

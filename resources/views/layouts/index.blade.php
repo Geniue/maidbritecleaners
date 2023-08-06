@@ -13,19 +13,20 @@
 
 
     <script type="application/ld+json">
-        [{
+        {
           "@context": "https://schema.org",
           "@type": "LocalBusiness",
           "name": "MaidBrite Cleaners",
           "address": {
           "@type": "PostalAddress",
-          "streetAddress": "34-18 Northern Blvd 3rd fl 7a",
-          "addressLocality": "Long Island City",
+          "streetAddress": "7 Marcus Garvey Blvd #406",
+          "addressLocality": "Brooklyn, NY 11206",
           "addressRegion": "NY",
-          "postalCode": "11101",
+          "postalCode": "11206",
           "addressCountry": "USA"
           },
-          "telephone": ["+1212-920-2154"],
+          "telephone": "212-951-0342",
+          "email" : "sales@maidbritecleaners.com",
           "openingHoursSpecification": {
           "@type": "OpeningHoursSpecification",
           "dayOfWeek": [
@@ -43,43 +44,9 @@
           "priceRange": "$$",
           "currenciesAccepted": "USD",
           "paymentAccepted": "Cash, Credit Card",
-          "description": "MaidBrite Cleaners is a professional cleaning service provider located in New York, NY. Our company specializes in delivering exceptional cleaning services to both homes and offices in the region. Our comprehensive range of services includes regular cleaning, deep cleaning, move-in/move-out cleaning, and many more, all performed with top-notch professionalism and expertise.",
+          "description": "MaidBrite Cleaning Services provides exceptional, top-notch commercial and residential cleaning services to the NYC area. We offer a variety of services including house cleaning services, post construction cleaning, move in/out cleaning, apartment cleaning, maid cleaning, house keeping, deep cleaning and more!",
           "url": "https://Maidbritecleaners.com"
-        },
-        {
-            "@context": "https://schema.org",
-            "@type": "LocalBusiness",
-            "name": "MaidBrite Cleaners",
-            "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "7 Marcus Garvey Blvd #406",
-            "addressLocality": "Brooklyn",
-            "addressRegion": "NY",
-            "postalCode": "11206",
-            "addressCountry": "USA"
-            },
-            "telephone": ["+1212-951-0342"],
-            "openingHoursSpecification": {
-            "@type": "OpeningHoursSpecification",
-            "dayOfWeek": [
-              "Monday",
-              "Tuesday",
-              "Wednesday",
-              "Thursday",
-              "Friday",
-              "Saturday",
-              "Sunday"
-            ],
-            "opens": "09:00",
-            "closes": "21:00"
-            },
-            "priceRange": "$$",
-            "currenciesAccepted": "USD",
-            "paymentAccepted": "Cash, Credit Card",
-            "description": "MaidBrite Cleaners is a professional cleaning service provider located in New York, NY. Our company specializes in delivering exceptional cleaning services to both homes and offices in the region. Our comprehensive range of services includes regular cleaning, deep cleaning, move-in/move-out cleaning, and many more, all performed with top-notch professionalism and expertise.",
-            "url": "https://Maidbritecleaners.com"
-          },
-        ]
+        }
     </script>
 
     @yield('schema')

@@ -23,20 +23,20 @@
         content="Looking for professional move out cleaning services? Maidbrite Cleaning Services  provides expert and affordable solutions to make your move stress-free. Our skilled cleaners offer comprehensive services tailored to your needs, leaving your previous home spotless and ready for the next occupants. Contact us today for a seamless transition to your new chapter.">
     <meta property="og:url" content="{{ url()->current() }}">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="{{ asset('assets/images/NY-10021-New-York-PristineGreen-House-Cleaning-UES-Branch-maid-cleaning-service-house-cleaning-services.jpg') }}">
+    <meta property="og:image" content="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Maid-Cleaning-maid-cleaning-near-me.jpg') }}">
     <meta property="fb:admins" content="admin">
     <meta name="twitter:title" content="Maidbrite Cleaning Services  House and Commercial Cleaning in NYC  | Maidbrite Cleaning Services  ">
     <meta name="twitter:description"
         content="Looking for professional move out cleaning services? Maidbrite Cleaning Services  provides expert and affordable solutions to make your move stress-free. Our skilled cleaners offer comprehensive services tailored to your needs, leaving your previous home spotless and ready for the next occupants. Contact us today for a seamless transition to your new chapter.">
-    <meta name="twitter:image" content="{{ asset('assets/images/NY-10021-New-York-PristineGreen-House-Cleaning-UES-Branch-maid-cleaning-service-house-cleaning-services.jpg') }}">
+    <meta name="twitter:image" content="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Maid-Cleaning-maid-cleaning-near-me.jpg') }}">
     <meta name="twitter:url" content="{{ url()->current() }}">
     <meta name="twitter:card" content="summary">
 
     <meta itemprop="name" content="Maidbrite Cleaning Services ">
     <meta itemprop="url" content="{{ url()->current() }}">
-    <meta itemprop="thumbnailUrl" content="{{ asset('assets/images/NY-10021-New-York-PristineGreen-House-Cleaning-UES-Branch-maid-cleaning-service-house-cleaning-services.jpg') }}">
-    <meta itemprop="image" content="{{ asset('assets/images/NY-10021-New-York-PristineGreen-House-Cleaning-UES-Branch-maid-cleaning-service-house-cleaning-services.jpg') }}">
-    <link rel="image_src" href="{{ asset('assets/images/NY-10021-New-York-PristineGreen-House-Cleaning-UES-Branch-maid-cleaning-service-house-cleaning-services.jpg') }}">
+    <meta itemprop="thumbnailUrl" content="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Maid-Cleaning-maid-cleaning-near-me.jpg') }}">
+    <meta itemprop="image" content="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Maid-Cleaning-maid-cleaning-near-me.jpg') }}">
+    <link rel="image_src" href="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Maid-Cleaning-maid-cleaning-near-me.jpg') }}">
 
     <link rel="shortcut" type="image/png" href="{{ asset('assets/icons/site_icon_128x128.png') }}">
     <link rel="icon" type="image/png" href="{{ asset('assets/icons/site_icon_128x128.png') }}">
@@ -60,11 +60,11 @@
         <!-- bg-img -->
         <picture class="lozad">
             <source media="(max-width: 878px)"
-                srcset="{{ asset('assets/images/NY-10021-New-York-PristineGreen-House-Cleaning-UES-Branch-maid-cleaning-service-house-cleaning-services.jpg') }}">
+                srcset="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Maid-Cleaning-maid-cleaning-near-me.jpg') }}">
             <source media="(min-width: 878px)"
-                srcset="{{ asset('assets/images/NY-10021-New-York-PristineGreen-House-Cleaning-UES-Branch-maid-cleaning-service-house-cleaning-services.jpg') }}">
+                srcset="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Maid-Cleaning-maid-cleaning-near-me.jpg') }}">
             <img class="service-bannner-img h-img-600"
-                src="{{ asset('assets/images/NY-10021-New-York-PristineGreen-House-Cleaning-UES-Branch-maid-cleaning-service-house-cleaning-services.jpg') }}"
+                src="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Maid-Cleaning-maid-cleaning-near-me.jpg') }}"
                 alt="cough cleaning">
         </picture>
         <div class="p-4 p-lg-5 position-absolute bottom-0 w-100 h-100 pb-120">
@@ -91,9 +91,9 @@
 
 
             <p><strong>
-                    We all have busy lives in NYC and the last th8ing we want to do when we come home from a hard day's
+                    We all have busy lives in NYC and the last thing we want to do when we come home from a hard day's
                     work is clean! Cleaning can be time consuming and we have more important things on our minds. Hire
-                    PristineGreen maid cleaning servides to take care of your housekeeping needs. From deep cleans to
+                    MaidBrite  maid cleaning servides to take care of your housekeeping needs. From deep cleans to
                     periodic freshenings, we have all the options you are looking for!
                 </strong></p>
             <p class="fs-3"><a href="{{ route('house_cleaning') }}"><strong>House Cleaning Services</strong></a></p>
@@ -104,7 +104,7 @@
                 hours after we leave.</p>
             <p class="fs-3"><a href="{{ route('apart_cleaning') }}"><strong>Apartment Cleaning Services</strong></a></p>
             <p>Our apartment is our life. We work in it, play it in, have movie nights in it, and more! Over time, it
-                can get messy and do we want to spend our precious time cleaning it? Hire PristineGreen's maid services
+                can get messy and do we want to spend our precious time cleaning it? Hire MaidBrite's maid services
                 to perform apartment cleanign at your home! We do everything from deep cleanign to regular cleaning so
                 whatever need you hae, we can accommodate you! </p>
             <p class="fs-3"><a href="{{ route('deep_cleaning') }}"><strong>Deep Cleaning Services</strong></a></p>
@@ -159,7 +159,7 @@
                         <div class="slide-content-wrapper">
                             <img class=" lazy lozad service-slider-imgs rounded-2" alt="MSocial" height="420"
                                 width="420"
-                                data-src="{{ Storage::disk('public')->url('gallery/services/couch-cleaning/10010-NY-sofa-cleaning-NYC-New-York-couch-cleaner-NYC-PristineGreen-Upholstery-and-Carpet-Cleaning-min.webp') }}"
+                                data-src="{{ Storage::disk('public')->url('gallery/services/couch-cleaning/10010-NY-sofa-cleaning-NYC-New-York-couch-cleaner-NYC-MaidBrite-Upholstery-and-Carpet-Cleaning-min.webp') }}"
                                 style>
 
                         </div>
@@ -170,7 +170,7 @@
                         <div class="slide-content-wrapper">
                             <img class=" lazy lozad service-slider-imgs rounded-2"
                                 alt="Green and non-toxic carpet cleaning services" height="420" width="420"
-                                data-src="{{ Storage::disk('public')->url('gallery/services/couch-cleaning/11105 couch cleaner nyc NY PristineGreen Upholstery and Carpet Cleaning Queens sofa cleaning nyc.jpg') }}"
+                                data-src="{{ Storage::disk('public')->url('gallery/services/couch-cleaning/11105 couch cleaner nyc NY MaidBrite Upholstery and Carpet Cleaning Queens sofa cleaning nyc.jpg') }}"
                                 style>
                         </div>
                     </div>
@@ -179,7 +179,7 @@
                     <div class="swiper-slide-inner border-0">
                         <div class="slide-content-wrapper"><img class=" lazy lozad service-slider-imgs rounded-2"
                                 alt="Office carpet cleaning" height="420" width="420"
-                                data-src="{{ Storage::disk('public')->url('gallery/services/couch-cleaning/11105-couch-cleaner-nyc-deep-clean-microfiber-couch-Queens-NY-PristineGreen-Upholstery-and-Carpet-Cleaning.jpg') }}"
+                                data-src="{{ Storage::disk('public')->url('gallery/services/couch-cleaning/11105-couch-cleaner-nyc-deep-clean-microfiber-couch-Queens-NY-MaidBrite-Upholstery-and-Carpet-Cleaning.jpg') }}"
                                 style>
                         </div>
                     </div>
@@ -189,7 +189,7 @@
                         <div class="slide-content-wrapper">
                             <img class=" lazy lozad service-slider-imgs rounded-2" alt="Office carpet cleaning"
                                 width="420" height="420"
-                                data-src="{{ Storage::disk('public')->url('gallery/services/couch-cleaning/11385 NY PristineGreen Upholstery and Carpet Cleaning Queens stanley steemer prices for couch cleaning sofa cleaning nyc.jpg') }}"
+                                data-src="{{ Storage::disk('public')->url('gallery/services/couch-cleaning/11385 NY MaidBrite Upholstery and Carpet Cleaning Queens stanley steemer prices for couch cleaning sofa cleaning nyc.jpg') }}"
                                 style>
                         </div>
                     </div>
@@ -198,7 +198,7 @@
                     <div class="swiper-slide-inner border-0">
                         <div class="slide-content-wrapper"><img class=" lazy lozad service-slider-imgs rounded-2"
                                 alt="Hotel Belleclaire" height="420" width="420"
-                                data-src="{{ Storage::disk('public')->url('gallery/services/couch-cleaning/carpet cleaner NYC upholstery cleaning Brooklyn Queens NY 11385 PristineGreen Upholstery and Carpet Cleaning.jpg') }}"
+                                data-src="{{ Storage::disk('public')->url('gallery/services/couch-cleaning/carpet cleaner NYC upholstery cleaning Brooklyn Queens NY 11385 MaidBrite Upholstery and Carpet Cleaning.jpg') }}"
                                 style>
                         </div>
                     </div>
@@ -207,7 +207,7 @@
                     <div class="swiper-slide-inner border-0">
                         <div class="slide-content-wrapper"><img class=" lazy lozad service-slider-imgs rounded-2"
                                 alt="Hotel Belleclaire" height="420" width="420"
-                                data-src="{{ Storage::disk('public')->url('gallery/services/couch-cleaning/carpet cleaning service PristineGreen Upholstery and Carpet Cleaning coronavirus steam cleaning prevention 10010 NY New York.jpg') }}"
+                                data-src="{{ Storage::disk('public')->url('gallery/services/couch-cleaning/carpet cleaning service MaidBrite Upholstery and Carpet Cleaning coronavirus steam cleaning prevention 10010 NY New York.jpg') }}"
                                 style>
                         </div>
                     </div>
@@ -225,7 +225,7 @@
                     <div class="swiper-slide-inner border-0">
                         <div class="slide-content-wrapper"><img class=" lazy lozad service-slider-imgs rounded-2"
                                 alt="Hotel Belleclaire" height="420" width="420"
-                                data-src="{{ Storage::disk('public')->url('gallery/services/couch-cleaning/sofa cleaning nyc Queens professional couch cleaning prices PristineGreen Upholstery and Carpet Cleaning 11105 NY.jpg') }}"
+                                data-src="{{ Storage::disk('public')->url('gallery/services/couch-cleaning/sofa cleaning nyc Queens professional couch cleaning prices MaidBrite Cleaning Services Upholstery and Carpet Cleaning 11105 NY.jpg') }}"
                                 style>
                         </div>
                     </div>

@@ -16,20 +16,20 @@
 <meta property="og:description"
     content="Discover Maidbrite Cleaning Services, a trusted provider of house cleaning services, offering deep cleaning, move in/out, and post construction cleaning. Committed to green, sanitizing solutions!">
 <meta property="og:type" content="website">
-<meta property="og:image" content="{{ asset('assets/images/NY-10021-New-York-PristineGreen-House-Cleaning-UES-Branch-cleaning-lady-house-cleaning-services.jpg') }}">
+<meta property="og:image" content="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Cleaning-Lady-cleaning-services-near-me-near-me.jpg') }}">
 <meta property="fb:admins" content="admin">
 <meta name="twitter:title" content="Maidbrite Cleaning ServicesHouse and Commercial Cleaning in NYC  | Maidbrite Cleaning Services">
 <meta name="twitter:description"
     content="Discover Maidbrite Cleaning Services, a trusted provider of house cleaning services, offering deep cleaning, move in/out, and post construction cleaning. Committed to green, sanitizing solutions!">
-<meta name="twitter:image" content="{{ asset('assets/images/NY-10021-New-York-PristineGreen-House-Cleaning-UES-Branch-cleaning-lady-house-cleaning-services.jpg') }}">
+<meta name="twitter:image" content="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Cleaning-Lady-cleaning-services-near-me-near-me.jpg') }}">
 <meta name="twitter:url" content="{{ url()->current() }}">
 <meta name="twitter:card" content="summary">
 
 <meta itemprop="name" content="Maidbrite Cleaning Services">
 <meta itemprop="url" content="{{ url()->current() }}">
-<meta itemprop="thumbnailUrl" content="{{ asset('assets/images/NY-10021-New-York-PristineGreen-House-Cleaning-UES-Branch-cleaning-lady-house-cleaning-services.jpg') }}">
-<meta itemprop="image" content="{{ asset('assets/images/NY-10021-New-York-PristineGreen-House-Cleaning-UES-Branch-cleaning-lady-house-cleaning-services.jpg') }}">
-<link rel="image_src" href="{{ asset('assets/images/NY-10021-New-York-PristineGreen-House-Cleaning-UES-Branch-cleaning-lady-house-cleaning-services.jpg') }}">
+<meta itemprop="thumbnailUrl" content="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Cleaning-Lady-cleaning-services-near-me-near-me.jpg') }}">
+<meta itemprop="image" content="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Cleaning-Lady-cleaning-services-near-me-near-me.jpg') }}">
+<link rel="image_src" href="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Cleaning-Lady-cleaning-services-near-me-near-me.jpg') }}">
 
 <link rel="shortcut" type="image/png" href="{{ asset('assets/icons/site_icon_128x128.png') }}">
 <link rel="icon" type="image/png" href="{{ asset('assets/icons/site_icon_128x128.png') }}">
@@ -37,7 +37,7 @@
 <meta name="abstract" content="Maidbrite Cleaning Services House and Commercial Cleaning in NYC">
 <meta name="author" content="admin">
 <meta name="classification" content="Blog">
-<meta name="copyright" content="Maidbrite Cleaning Services House and Commercial Cleaning - All rights Reserved.">
+<meta name="copyright" content="MaidBrite Cleaning Services">
 <meta name="distribution" content="Global">
 <meta name="language" content="en-GB">
 <meta name="publisher" content="Maidbrite Cleaning Services">

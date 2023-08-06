@@ -40,22 +40,22 @@
                                     <li class="list-inline-item">
                                         <div class="pl-3 d-flex">
                                             <i class="mdi mdi-web"></i>
-                                            <p class="text-muted mt-2">https://pristinegreencleaning.com/</p>
+                                            <p class="text-muted mt-2">https://maidbritecleaners.com/</p>
                                         </div>
                                     </li>
                                     <li class="list-inline-item">
                                         <div class="pl-3 d-flex">
                                             <i class="mdi mdi-phone"></i>
-                                            <p class="text-muted mt-2">347-871-6530</p>
+                                            <p class="text-muted mt-2">212-951-0342</p>
                                         </div>
                                     </li>
                                     <li class="list-inline-item">
                                         <div class="pl-3 d-flex">
                                             <i class="mdi mdi-map-marker"></i>
                                             <p class="text-muted mt-2">
-                                                PristineGreen Upholstery and Carpet Cleaning
-                                                6705 Myrtle Ave #1015
-                                                Queens, NY 11385
+                                                MaidBrite Cleaning Services
+                                                7 Marcus Garvey Blvd #406
+                                                Brooklyn, NY 11206
                                             </p>
                                         </div>
                                     </li>

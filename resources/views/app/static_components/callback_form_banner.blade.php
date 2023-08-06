@@ -3,7 +3,7 @@
        <div class="container mx-auto text-white row align-items-center p-0 py-3 gap-2 gap-lg-0">
            <!-- title -->
            <div class="col-12 col-lg-6">
-               <p class="text-lightgreen-1 fs-3">
+               <p class="text-lightgreen-1 fs-3 mb-0">
                    Request House Cleaning Now!
                </p>
            </div>

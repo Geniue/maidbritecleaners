@@ -4,13 +4,16 @@
             <div class="swiper-slide-inner">
                 <div class="slide-content-wrapper">
                     <img class="serivce-slider-img  lozad"
-                        data-src="{{ asset('assets/images/NY-house-cleaning-services-New-York-PristineGreen-House-Cleaning-UES-Branch-10021-post-construction-cleaning.jpg') }}"
+                        data-src="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Post-construction-cleaning-post-construction-cleaning-near-me.jpg') }}"
                         alt="Slide 2">
                     <div class="slide-content py-2 text-lightgray">
                         <p class="fw-semibold fs-3">Post Construction Cleaning</p>
-                        <p class="text-ellipsis-3">Construction work is always messy: dirt, dust, and grime everywhere!
-                            Our trained team knows
-                            how to quickly and effectively clean every nook and cranny of your new project!</p>
+                        <p class="text-ellipsis-3">
+                            we take pride in offering top-notch post construction cleaning services, turning any newly
+                built or renovated space into a clean and welcoming environment. We understand the importance of the details
+                and we're committed to leaving no stone unturned in our quest to provide you with a dust-free and
+                ready-to-use property.
+                        </p>
                         <a class="btn btn-primary px-2 px-md-5" href="{{ route('post_construct') }}">Learn More About
                             <br>
                             <strong>
@@ -26,14 +29,13 @@
             <div class="swiper-slide-inner">
                 <div class="slide-content-wrapper">
                     <img class="serivce-slider-img lozad"
-                        data-src="{{ asset('assets/images/NY-10021-New-York-PristineGreen-House-Cleaning-UES-Branch-move-in-cleaning-house-cleaning-services.jpg') }}"
+                        data-src="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Move-In-Cleaning-moving-cleaning-service-near-me.jpg') }}"
                         alt="Slide 5">
                     <div class="slide-content py-2 text-lightgray">
                         <p class="fw-semibold fs-3">Move In Cleaning</p>
-                        <p class="text-ellipsis-3">When we move to a new place, the last thing we want to think about it
-                            cleaniung it after we
-                            have just had the hassle of moving. Hire us to do a complete top to bottom clean of your new
-                            house or apartment! </p>
+                        <p class="text-ellipsis-3">Embarking on a new journey in a new home is thrilling, but can also be quite stressful, especially when it
+                            comes to cleaning. You need a fresh start and a spotlessly clean space. That's where our move in cleaning
+                            services come into play. </p>
                         <a class="btn btn-primary px-2 px-md-5" href="{{ route('move_in') }}">Learn More About
                             <br>
                             <strong>
@@ -48,14 +50,15 @@
             <div class="swiper-slide-inner">
                 <div class="slide-content-wrapper">
                     <img class="serivce-slider-img  lozad"
-                        data-src="{{ asset('assets/images/house-cleaning-services-New-York-move-out-cleaning-PristineGreen-House-Cleaning-UES-Branch-NY-10021.jpg') }}"
+                        data-src="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Move-Out-Cleaning-move-out-cleaning-services-near-me.jpg') }}"
                         alt="Slide 4">
                     <div class="slide-content py-2 text-lightgray">
                         <p class="fw-semibold fs-3">Move Out Cleaning</p>
-                        <p class="text-ellipsis-3">After we have packed up all our boxes, we are often too tired to
-                            clean the whole apartment
-                            before we move. That's why you should call us to do a complete and thorough clean of your
-                            old home to ensure no bills come in the mail from the landlord! </p>
+                        <p class="text-ellipsis-3">
+                            Finding reliable move out cleaners near you can be a daunting task. That's where we come in. Maidbrite Cleaning Services  House
+                Cleaning takes pride in offering highly trained and experienced professionals who understand the importance
+                of a thorough cleaning process.
+                        </p>
                         <a class="btn btn-primary px-2 px-md-5" href="{{ route('move_out') }}">Learn More About
                             <br>
                             <strong>
@@ -70,14 +73,15 @@
             <div class="swiper-slide-inner">
                 <div class="slide-content-wrapper">
                     <img class="serivce-slider-img  lozad serivce-green-slider-img"
-                        data-src="{{ asset('assets/images/NY-10021-New-York-PristineGreen-House-Cleaning-UES-Branch-apartment-cleaning-services-house-cleaning-services.jpg') }}"
+                        data-src="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Apartment-Cleaning--apartment-cleaning-services-near-me.jpg') }}"
                         alt="Slide 4">
                     <div class="slide-content py-2 text-lightgray">
                         <p class="fw-semibold fs-3">Apartment Cleaning </p>
-                        <p class="text-ellipsis-3">Our apartments are the center of our lives, but sometimes life is too
-                            busy for us to spend
-                            time cleaning it! Our services do the heavy lifting for you so you can keep on living life
-                            without worrying about cleaning! </p>
+                        <p class="text-ellipsis-3">
+                            where quality and convenience are the cornerstones of our professional apartment
+                cleaning services. Your comfort and satisfaction are paramount to us, and we strive to provide an
+                immaculate, rejuvenated living space that reflects your lifestyle and preferences. 
+                        </p>
                         <a class="btn btn-primary px-2 px-md-5" href="{{ route('apart_cleaning') }}">Learn More About
                             <br>
                             <strong>
@@ -92,16 +96,13 @@
             <div class="swiper-slide-inner">
                 <div class="slide-content-wrapper">
                     <img class="serivce-slider-img   lozad"
-                        data-src="{{ asset('assets/images/NY-10021-New-York-PristineGreen-House-Cleaning-UES-Branch-maid-cleaning-service-house-cleaning-services.jpg') }}"
+                        data-src="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Green-Cleaning-green-house-cleaning-near-me.jpg') }}"
                         alt="Slide 3">
                     <div class="slide-content py-2 text-lightgray">
                         <p class="fw-semibold fs-3">Green Cleaning </p>
-                        <p class="text-ellipsis-3">Our furry friends sometimes make accidents on our clean upholstery
-                            and carpet.
-                            Our pet odor
-                            removal and pet stain cleaning services in NYC remove those stains and smells
-                            safetly and
-                            effectively!
+                        <p class="text-ellipsis-3"> In an era where environmental consciousness is paramount, we at our company pride ourselves in offering
+                            green house cleaning as part of our diverse range of services. We are your green house cleaners with a
+                            mission to maintain the integrity of your home while minimizing our carbon footprint.
 
                         </p>
                         <a class="btn btn-primary px-2 px-md-5" href="{{ route('green_cleaning') }}">Learn More
@@ -120,17 +121,14 @@
             <div class="swiper-slide-inner">
                 <div class="slide-content-wrapper">
                     <img class="serivce-slider-img   lozad"
-                        data-src="{{ asset('assets/images/PristineGreen-House-Cleaning-UES-Branch-house-cleaning-services-10021-New-York-commercial-cleaning-services-NY.jpg') }}"
+                        data-src="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Commercial-Cleaning-commercial-cleaning-near-me.jpg') }}"
                         alt="Slide 3">
                     <div class="slide-content py-2 text-lightgray">
                         <p class="fw-semibold fs-3">Commercial Cleaning </p>
-                        <p class="text-ellipsis-3">Our furry friends sometimes make accidents on our clean upholstery
-                            and carpet.
-                            Our pet odor
-                            removal and pet stain cleaning services in NYC remove those stains and smells
-                            safetly and
-                            effectively!
-
+                        <p class="text-ellipsis-3">
+                            Commercial spaces often the get the most abuse. Whether it be customers coming in and out of the
+                    store all day, employees use the office sapce day and night, or a big dusty mess from after a
+                    construction project.
                         </p>
                         <a class="btn btn-primary px-2 px-md-5" href="{{ route('comm_cleaning') }}">Learn
                             More
@@ -149,16 +147,14 @@
             <div class="swiper-slide-inner">
                 <div class="slide-content-wrapper">
                     <img class="serivce-slider-img   lozad"
-                        data-src="{{ asset('assets/images/NY-10021-New-York-PristineGreen-House-Cleaning-UES-Branch-maid-cleaning-service-house-cleaning-services.jpg') }}"
+                        data-src="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Maid-Cleaning-maid-cleaning-near-me.jpg') }}"
                         alt="Slide 3">
                     <div class="slide-content py-2 text-lightgray">
                         <p class="fw-semibold fs-3">Maid Cleaning </p>
-                        <p class="text-ellipsis-3">Our furry friends sometimes make accidents on our clean upholstery
-                            and carpet.
-                            Our pet odor
-                            removal and pet stain cleaning services in NYC remove those stains and smells
-                            safetly and
-                            effectively!
+                        <p class="text-ellipsis-3">
+                            We all have busy lives in NYC and the last thing we want to do when we come home from a hard day's
+                    work is clean! Cleaning can be time consuming and we have more important things on our minds. Hire
+                    MaidBrite maid cleaning servides to take care of your housekeeping needs.
 
                         </p>
                         <a class="btn btn-primary px-2 px-md-5" href="{{ route('maid_cleaning') }}">Learn
@@ -178,20 +174,15 @@
             <div class="swiper-slide-inner">
                 <div class="slide-content-wrapper">
                     <img class="serivce-slider-img  lozad"
-                        data-src="{{ asset('assets/images/NY-10021-New-York-PristineGreen-House-Cleaning-UES-Branch-residential-cleaning-services-house-cleaning-services.jpg') }}"
+                        data-src="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Residential-Cleaning--one-time-house-cleaning-services-near-me.jpg') }}"
                         alt="Slide 4">
                     <div class="slide-content py-2 text-lightgray">
                         <p class="fw-semibold fs-3">Residential Cleaning</p>
-                        <p class="text-ellipsis-3">Car owners can spend hours every day in their vehicles, and slowly
-                            the car’s
-                            interior being
-                            its seats, trunk, carpets, mats, and even headliner gather dirt, odors,
-                            bacteria, and
-                            stains. Getting your car cleaned by an interior auto detailer will make your
-                            driving
-                            experience more hygienic, and guests will not feel uncomfortable with the
-                            dirty
-                            upholstery!
+                        <p class="text-ellipsis-3">
+                            Our residential house cleaning services provide thorough,
+                top-to-bottom cleaning, ensuring every corner of your home sparkles. Whether you require a one-time house
+                cleaning services or regular maintenance, our teams are fully equipped and ready to provide professional
+                cleaning services residential customers will love.
                         </p>
                         <a class="btn btn-primary px-2 px-md-5" href="{{ route('res_cleaning') }}">Learn
                             More About
@@ -209,18 +200,14 @@
             <div class="swiper-slide-inner">
                 <div class="slide-content-wrapper">
                     <img class="serivce-slider-img  lozad"
-                        data-src="{{ asset('assets/images/NY-10021-New-York-PristineGreen-House-Cleaning-UES-Branch-cleaning-lady-house-cleaning-services.jpg') }}"
+                        data-src="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Cleaning-Lady-cleaning-services-near-me-near-me.jpg') }}"
                         alt="Slide 4">
                     <div class="slide-content py-2 text-lightgray">
                         <p class="fw-semibold fs-3">Cleaning Lady</p>
-                        <p class="text-ellipsis-3">Keeping the office clean and hygienic is essential for a productive
-                            work
-                            environment. Having
-                            a professional upholstery steam cleaner and rug shampooer regularly maintain
-                            your office’s
-                            fabric and leather furniture and carpets will ensure a safe and clean work
-                            environment with
-                            happy employees!</p>
+                        <p class="text-ellipsis-3">
+                            There’s no place like home, especially when it's sparkling clean. At our cleaning company, we take great
+                            pride in providing top-tier cleaning lady services, offering you a fresh and vibrant living environment.
+                        </p>
                         <a class="btn btn-primary px-2 px-md-5" href="{{ route('cleaning_lady') }}">Learn More About
                             <br>
                             <strong>
@@ -239,18 +226,15 @@
             <div class="swiper-slide-inner">
                 <div class="slide-content-wrapper">
                     <img class="serivce-slider-img  lozad"
-                        data-src="{{ asset('assets/images/PristineGreen-House-Cleaning---UES-Branch-house-cleaning-services-10021-New-York-deep-cleaning-services-NY.jpg') }}"
+                        data-src="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Deep-Cleaning-same-day-cleaning-near-me.jpg') }}"
                         alt="Slide 4">
                     <div class="slide-content py-2 text-lightgray">
                         <p class="fw-semibold fs-3">Deep Cleaning</p>
-                        <p class="text-ellipsis-3">The couch is the centerpiece of the living room and over time gets
-                            covered in
-                            dirt, smells,
-                            and stains. Hiring a professional sofa cleaner is essential to keeping your home
-                            clean and
-                            hygienic. Our couch cleaning services include stain removal, odor removal,
-                            sanitizing,
-                            deodorizing, and more!!</p>
+                        <p class="text-ellipsis-3">
+                            We are a trusted professional deep cleaning services provider with a
+                commitment to excellence. Our wide range of services, from whole house deep cleaning to office deep cleaning
+                services, ensures that every corner of your space gleams with freshness and cleanliness.
+                        </p>
                         <a class="btn btn-primary px-2 px-md-5" href="{{ route('deep_cleaning') }}">Learn
                             More About
                             <br>
@@ -267,13 +251,16 @@
             <div class="swiper-slide-inner">
                 <div class="slide-content-wrapper">
                     <img class="serivce-slider-img  lozad"
-                        data-src="{{ asset('assets/images/NY-10021-New-York-PristineGreen-House-Cleaning-UES-Branch-housekeeping-services-house-cleaning-services.jpg') }}"
+                        data-src="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-House-Keeping-what-is-housekepping-near-me.jpg') }}"
                         alt="Slide 4">
                     <div class="slide-content py-2 text-lightgray">
                         <p class="fw-semibold fs-3">House Keeping</p>
-                        <p class="text-ellipsis-3">Having a house keeper saves you so much time! No need to worry about
-                            deep cleaning the
-                            ktichen or bathroom. Keep enjoying life and let us do the dirty work!</p>
+                        <p class="text-ellipsis-3">
+                            where your search for housekeeping cleaning services ends. We know what
+                    housekeeping means – it is a commitment to cleanliness, organization, and a harmonious living
+                    environment. We understand that when you're looking for a housekeeper, you want more than just a cleaner
+                    housekeeper.
+                        </p>
                         <a class="btn btn-primary px-2 px-md-5" href="{{ route('house_keeping') }}">Learn More About
                             <br>
                             <strong>
@@ -290,13 +277,15 @@
             <div class="swiper-slide-inner">
                 <div class="slide-content-wrapper">
                     <img class="serivce-slider-img  lozad"
-                        data-src="{{ asset('assets/images/10021-house-cleaning-services-NY-PristineGreen-House-Cleaning-UES-Branch-New-York-housekeeping-services.jpg') }}"
+                        data-src="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-House-Cleaning--cleaners-near-me-near-me.jpg') }}"
                         alt="Slide 1">
                     <div class="slide-content py-2 text-lightgray">
                         <p class="fw-semibold fs-3">House Cleaning</p>
-                        <p class="text-ellipsis-3">We use our homes for everything which is why its important to keep
-                            it clean from top to
-                            bottom. Our comprehensive house cleaning services will suite all your needs!</p>
+                        <p class="text-ellipsis-3">
+                            we understand that every home is a unique sanctuary. That's why we offer comprehensive and
+                            tailored house cleaning services designed to maintain the sparkle in your abode and complement your
+                            lifestyle.
+                        </p>
                         <a class="btn btn-primary px-2 px-md-5" href="{{ route('house_cleaning') }}">Learn More About
                             <br>
                             <strong>

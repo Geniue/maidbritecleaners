@@ -16,20 +16,20 @@
     <meta property="og:description"
         content="Ready for a spotless home? Request a quote from MaidBrite Cleanersfor professional cleaning services including house cleaning, deep cleaning, move in/out cleaning, and apartment cleaning.">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="{{ asset('assets/images/NY-10021-New-York-PristineGreen-House-Cleaning-UES-Branch-cleaning-lady-house-cleaning-services.jpg') }}">
+    <meta property="og:image" content="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Top-Commercial-and-House-Cleaning-Service-house-cleaning-services-near-me-near-me.jpg') }}">
     <meta property="fb:admins" content="admin">
     <meta name="twitter:title" content="MaidBrite Cleaners">
     <meta name="twitter:description"
         content="Ready for a spotless home? Request a quote from MaidBrite Cleanersfor professional cleaning services including house cleaning, deep cleaning, move in/out cleaning, and apartment cleaning.">
-    <meta name="twitter:image" content="{{ asset('assets/images/NY-10021-New-York-PristineGreen-House-Cleaning-UES-Branch-cleaning-lady-house-cleaning-services.jpg') }}">
+    <meta name="twitter:image" content="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Top-Commercial-and-House-Cleaning-Service-house-cleaning-services-near-me-near-me.jpg') }}">
     <meta name="twitter:url" content="{{ url()->current() }}">
     <meta name="twitter:card" content="summary">
 
     <meta itemprop="name" content="MaidBrite Cleaners">
     <meta itemprop="url" content="{{ url()->current() }}">
-    <meta itemprop="thumbnailUrl" content="{{ asset('assets/images/NY-10021-New-York-PristineGreen-House-Cleaning-UES-Branch-cleaning-lady-house-cleaning-services.jpg') }}">
-    <meta itemprop="image" content="{{ asset('assets/images/NY-10021-New-York-PristineGreen-House-Cleaning-UES-Branch-cleaning-lady-house-cleaning-services.jpg') }}">
-    <link rel="image_src" href="{{ asset('assets/images/NY-10021-New-York-PristineGreen-House-Cleaning-UES-Branch-cleaning-lady-house-cleaning-services.jpg') }}">
+    <meta itemprop="thumbnailUrl" content="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Top-Commercial-and-House-Cleaning-Service-house-cleaning-services-near-me-near-me.jpg') }}">
+    <meta itemprop="image" content="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Top-Commercial-and-House-Cleaning-Service-house-cleaning-services-near-me-near-me.jpg') }}">
+    <link rel="image_src" href="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Top-Commercial-and-House-Cleaning-Service-house-cleaning-services-near-me-near-me.jpg') }}">
 
     <link rel="shortcut" type="image/png" href="{{ asset('assets/icons/site_icon_128x128.png') }}">
     <link rel="icon" type="image/png" href="{{ asset('assets/icons/site_icon_128x128.png') }}">
@@ -37,7 +37,7 @@
     <meta name="abstract" content="MaidBrite Cleaners">
     <meta name="author" content="admin">
     <meta name="classification" content="Blog">
-    <meta name="copyright" content="MaidBrite Cleaners - All rights Reserved.">
+    <meta name="copyright" content="MaidBrite Cleaners">
     <meta name="distribution" content="Global">
     <meta name="language" content="en-GB">
     <meta name="publisher" content="MaidBrite Cleaners">
@@ -54,7 +54,7 @@
         <!-- bg-img -->
         <img class="img lazy lozad"
         alt="request quote"
-            data-src="{{ asset('assets/images/NY-10021-New-York-PristineGreen-House-Cleaning-UES-Branch-residential-cleaning-services-house-cleaning-services.jpg') }}"
+            data-src="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Commercial-and-House-Cleaning-Service-house-keeping-near-me.jpg') }}"
             width="100%" height="590"
             style="height: 560px !important;
                     background-size: cover;

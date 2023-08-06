@@ -1,36 +1,36 @@
 @extends('layouts.index')
 
 @section('title')
-    Top House Cleaning Service in NYC |{{ env('APP_NAME') }}
+    Top Commercial and House Cleaning Service in NYC |{{ env('APP_NAME') }}
 @endsection
 
 @section('meta')
-    <meta name="title" content="Top House Cleaning Service in NYC | Maidbrite Cleaning Services">
+    <meta name="title" content="Top Commercial and House Cleaning Service in NYC | Maidbrite Cleaning Services">
     <meta name="description"
-        content="Maidbrite Cleaning Services offers top-notch house cleaning services. From move in/out cleaning, apartment cleaning service, to post-construction cleaning, we ensure a spotless home.">
+        content="MaidBrite Cleaning Services provides exceptional, top-notch commercial and residential cleaning services to the NYC area. We offer a variety of services including house cleaning services, post construction cleaning, move in/out cleaning, apartment cleaning, maid cleaning, house keeping, deep cleaning and more!">
     <meta name="keywords"
         content="house cleaning services, cleaning lady, commercial cleaning, cleaning services near me, housekeeping, post construction cleaning, move out cleaning, apartment cleaning, green cleaning, home cleaning services, deep cleaning services, office cleaning, professional cleaning services, move in cleaning service, maid service, commercial cleaning company, same day cleaning, sanitization services, moving cleaning service, construction clean up, extreme cleaning, disinfecting services, cleaning agencies, construction cleanup service, move out cleaning checklist, hire a housekeeper, commercial cleaners near me, detailed cleaning services, declutter services near me, thorough cleaning, office cleaners near me, contracting cleaning services, disinfectant services, general cleaning, sanitize company, scrub cleaning, commercial office cleaners, sanitization company">
     <link rel="canonical" href="{{ url()->current() }}">
 
     <meta property="og:site_name" content="Maidbrite Cleaning Services">
-    <meta property="og:title" content="Top House Cleaning Service in NYC | Maidbrite Cleaning Services">
+    <meta property="og:title" content="Top Commercial and House Cleaning Service in NYC | Maidbrite Cleaning Services">
     <meta property="og:description"
-        content="Maidbrite Cleaning Services offers top-notch house cleaning services. From move in/out cleaning, apartment cleaning service, to post-construction cleaning, we ensure a spotless home.">
+        content="MaidBrite Cleaning Services provides exceptional, top-notch commercial and residential cleaning services to the NYC area. We offer a variety of services including house cleaning services, post construction cleaning, move in/out cleaning, apartment cleaning, maid cleaning, house keeping, deep cleaning and more!">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="{{ asset('assets/images/NY-10021-New-York-PristineGreen-House-Cleaning-UES-Branch-cleaning-lady-house-cleaning-services.jpg') }}">
+    <meta property="og:image" content="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Cleaning-Lady-cleaning-services-near-me-near-me.jpg') }}">
     <meta property="fb:admins" content="admin">
-    <meta name="twitter:title" content="Maidbrite Cleaning Services House and Commercial Cleaning in NYC  | Maidbrite Cleaning Services ">
+    <meta name="twitter:title" content="Top Commercial and House Cleaning Service in NYC  | Maidbrite Cleaning Services ">
     <meta name="twitter:description"
-        content="Maidbrite Cleaning Services offers top-notch house cleaning services. From move in/out cleaning, apartment cleaning service, to post-construction cleaning, we ensure a spotless home.">
-    <meta name="twitter:image" content="{{ asset('assets/images/NY-10021-New-York-PristineGreen-House-Cleaning-UES-Branch-cleaning-lady-house-cleaning-services.jpg') }}">
+        content="MaidBrite Cleaning Services provides exceptional, top-notch commercial and residential cleaning services to the NYC area. We offer a variety of services including house cleaning services, post construction cleaning, move in/out cleaning, apartment cleaning, maid cleaning, house keeping, deep cleaning and more!">
+    <meta name="twitter:image" content="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Cleaning-Lady-cleaning-services-near-me-near-me.jpg') }}">
     <meta name="twitter:url" content="{{ url()->current() }}">
     <meta name="twitter:card" content="summary">
 
     <meta itemprop="name" content="Maidbrite Cleaning Services">
     <meta itemprop="url" content="{{ url()->current() }}">
-    <meta itemprop="thumbnailUrl" content="{{ asset('assets/images/NY-10021-New-York-PristineGreen-House-Cleaning-UES-Branch-cleaning-lady-house-cleaning-services.jpg') }}">
-    <meta itemprop="image" content="{{ asset('assets/images/NY-10021-New-York-PristineGreen-House-Cleaning-UES-Branch-cleaning-lady-house-cleaning-services.jpg') }}">
-    <link rel="image_src" href="{{ asset('assets/images/NY-10021-New-York-PristineGreen-House-Cleaning-UES-Branch-cleaning-lady-house-cleaning-services.jpg') }}">
+    <meta itemprop="thumbnailUrl" content="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Cleaning-Lady-cleaning-services-near-me-near-me.jpg') }}">
+    <meta itemprop="image" content="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Cleaning-Lady-cleaning-services-near-me-near-me.jpg') }}">
+    <link rel="image_src" href="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Cleaning-Lady-cleaning-services-near-me-near-me.jpg') }}">
 
     <link rel="shortcut" type="image/png" href="{{ asset('assets/icons/site_icon_128x128.png') }}">
     <link rel="icon" type="image/png" href="{{ asset('assets/icons/site_icon_128x128.png') }}">
@@ -38,10 +38,10 @@
     <meta name="abstract" content="Maidbrite Cleaning Services House and Commercial Cleaning in NYC">
     <meta name="author" content="admin">
     <meta name="classification" content="Blog">
-    <meta name="copyright" content="Maidbrite Cleaning Services House and Commercial Cleaning - All rights Reserved.">
+    <meta name="copyright" content="Top Commercial and House Cleaning Service in NYC">
     <meta name="distribution" content="Global">
     <meta name="language" content="en-GB">
-    <meta name="publisher" content="Maidbrite Cleaning Services Cleaning">
+    <meta name="publisher" content="MaidBrite Cleaning Services">
     <meta name="rating" content="General">
     <meta name="resource-type" content="Document">
     <meta name="revisit-after" content="3">
@@ -53,7 +53,7 @@
 @section('preload')
     <!-- Preload the LCP image with a high fetchpriority so it starts loading with the stylesheet. -->
     <link rel="preload" fetchpriority="high" as="image"
-        href="{{ asset('assets/images/NY-10021-New-York-PristineGreen-House-Cleaning-UES-Branch-cleaning-lady-house-cleaning-services.jpg') }}"
+        href="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Cleaning-Lady-cleaning-services-near-me-near-me.jpg') }}"
         type="image/jpg">
 @endsection
 
@@ -102,7 +102,7 @@
         }
 
         .beforeAfterContainer .background-img {
-            background-image: url("{{ asset('assets/images/house-cleaning-services-NY-10021-PristineGreen-House-Cleaning-UES-Branch-professional-cleaners-New-York.jpg') }}");
+            background-image: url("{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Top-Commercial-and-House-Cleaning-Service-cleaning-services-near-me-near-me.jpg') }}");
             background-size: cover !important;
         }
 
@@ -369,13 +369,13 @@
           <!-- heading section -->
           <div class="text-center text-md-start" style="padding-top: 30px;">
               <h1 class=" text-blue home-ban-h1" style="font-family: latobold; font-size: 45px;">
-                Non-Toxic
-                  <br>
-                  House and Commercial
+                Premier  
                   <br>
                   Cleaning Services
+                  <br>
+                  in NYC
               </h1>
-              <p class="heading-2 home-ban-h3" style="font-family: latobold; font-size: 30px;">Top House Keeping Service in NYC</p>
+              <p class="heading-2 home-ban-h3" style="font-family: latobold; font-size: 30px;">Top Commercial and House Cleaning Near You</p>
           </div>
           <!-- Book now seciton -->
           <form action="{{ route('callback_number') }}" method="POST" class="row gap-3 p-3 p-sm-0 new-gap-1">
@@ -386,7 +386,7 @@
         </div>
         <div class="right-half position-relative w-100">
           <video disablePictureInPicture='true' class="lozad Bright-intro-video" autoplay muted loop id="custom-preload"
-                  data-poster="{{ asset('assets/images/NY-10021-New-York-PristineGreen-House-Cleaning-UES-Branch-cleaning-lady-house-cleaning-services.jpg') }}">
+                  data-poster="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Cleaning-Lady-cleaning-services-near-me-near-me.jpg') }}">
        
               Your browser does not support the video tag.
           </video>
@@ -815,7 +815,7 @@
 
     <!--  baby section -->
     <section
-        data-background-image="{{ asset('assets/images/NY-house-cleaning-services-New-York-PristineGreen-House-Cleaning-UES-Branch-10021-professional-cleaners.jpg') }}"
+        data-background-image="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Top-Commercial-and-House-Cleaning-Service-house-cleaning-services-near-me-near-me.jpg') }}"
         class="lozad baby-section d-flex align-items-center">
         <!-- tabs -->
         <div class="container-fluid d-flex flex-column py-5 p-md-5 justify-content-center h-100">

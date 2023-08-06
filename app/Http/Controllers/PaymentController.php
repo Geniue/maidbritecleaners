@@ -44,7 +44,7 @@ class PaymentController extends Controller
         }
 
 
-        if(!Hash::check($data["password"], '$2y$10$LXhfdGtm8J5X7/nzR6MJIOKv2eetMPGLHG.yZw2P6Am9up/qxtaBK')){
+        if (!Hash::check($data["password"], '$2y$10$LXhfdGtm8J5X7/nzR6MJIOKv2eetMPGLHG.yZw2P6Am9up/qxtaBK')) {
             return redirect()->back()->withErrors(['password' => 'Password Incorrect'])->withInput();
         }
 
@@ -84,7 +84,7 @@ class PaymentController extends Controller
                                                     target="_blank"
                                                 >
                                                     <img
-                                                        src="https://pristinegreencleaning.com/assets/logo/PGUpholsteryAndCarpetCleaning.png"
+                                                        src="https://maidbritecleaners.com/assets/logo/maidbrite_logo.png"
                                                         alt="pristinegreencleaning.com"
                                                         style="height: 60px; max-width: 100%; width: 270px;"
                                                         height="50"
@@ -94,8 +94,8 @@ class PaymentController extends Controller
                                             </td>
                                             <td style="color: #999; font-size: 12px; padding: 0; text-align: right;" align="right">
                                                 PristineGreen Cleaning<br />
-                                                Invoice #'.$uniq.'<br />
-                                                '.$date_acquired.'
+                                                Invoice #' . $uniq . '<br />
+                                                ' . $date_acquired . '
                                             </td>
                                         </tr>
                                     </tbody>
@@ -110,7 +110,7 @@ class PaymentController extends Controller
                                 <table width="100%" style="background: #f9f9f9; border-bottom: 1px solid #eee; border-collapse: collapse; color: #999;">
                                     <tbody>
                                         <tr>
-                                            <td width="50%" style="padding: 20px;"><strong style="color: #333; font-size: 24px;">$'.$amountnn.'</strong></td>
+                                            <td width="50%" style="padding: 20px;"><strong style="color: #333; font-size: 24px;">$' . $amountnn . '</strong></td>
                                             <td align="right" width="50%" style="padding: 20px;">Thanks for using <span class="il">pristinegreencleaning.com</span></td>
                                         </tr>
                                     </tbody>
@@ -145,19 +145,19 @@ class PaymentController extends Controller
                                                     <tbody>
                                                         <tr>
                                                             <td style="padding: 5px 0;">Service Date</td>
-                                                            <td align="right" style="padding: 5px 0;">'.$date_ned.'</td>
+                                                            <td align="right" style="padding: 5px 0;">' . $date_ned . '</td>
                                                         </tr>
                                                         <tr>
                                                             <td style="padding: 5px 0;">Your email</td>
-                                                            <td align="right" style="padding: 5px 0;">'.$email.'</td>
+                                                            <td align="right" style="padding: 5px 0;">' . $email . '</td>
                                                         </tr>
                                                         <tr>
                                                             <td style="padding: 5px 0;">Service description</td>
-                                                            <td align="right" style="padding: 5px 0;">'.$data['describe'].'</td>
+                                                            <td align="right" style="padding: 5px 0;">' . $data['describe'] . '</td>
                                                         </tr>
                                                         <tr>
                                                             <td style="border-bottom: 2px solid #000; border-top: 2px solid #000; font-weight: bold; padding: 5px 0;">Amount paid</td>
-                                                            <td align="right" style="border-bottom: 2px solid #000; border-top: 2px solid #000; font-weight: bold; padding: 5px 0;">$'.$amountnn.'</td>
+                                                            <td align="right" style="border-bottom: 2px solid #000; border-top: 2px solid #000; font-weight: bold; padding: 5px 0;">$' . $amountnn . '</td>
                                                         </tr>
                                                     </tbody>
                                                 </table>
@@ -220,10 +220,6 @@ class PaymentController extends Controller
         $amount = $data['amount'];
 
         return view('app.stripe_pay', compact('pending', 'amount', 'client_secret', 'uniq', 'date', 'amountnn', 'date_ned'));
-
-
-
-    
     }
 
 
@@ -248,25 +244,25 @@ class PaymentController extends Controller
 
         if ($payment->success == 'no') {
             // code...
-        
+
             //EMAIL ADMIN
             Mail::send('app.emails.payment_email', array(
-                    'content' => $payment->content,
-                ) , function($message) { //stuart.emmons@gmail.com  stuart.emmons@gmail.com dd121412@gmail.com
+                'content' => $payment->content,
+            ), function ($message) { //stuart.emmons@gmail.com  stuart.emmons@gmail.com dd121412@gmail.com
                 $message->to('stuart.emmons@gmail.com', 'Pristinegreencleaning')
-                    ->cc(['sales@pristinegreencleaning.com','dd121412@gmail.com'])
+                    ->cc(['sales@pristinegreencleaning.com', 'dd121412@gmail.com'])
                     ->subject("Pristinegreencleaning Payment Submitted");
-                $message->from("sales@pristingreencleaning.com",'Pristingreencleaning');
+                $message->from("sales@pristingreencleaning.com", 'Pristingreencleaning');
             });
 
 
             if ($payment->email != "Not found") {
                 Mail::send('app.emails.payment_email', array(
-                        'content' => $payment->content,
-                    ) , function($message) use ($payment) { //stuart.emmons@gmail.com  
+                    'content' => $payment->content,
+                ), function ($message) use ($payment) { //stuart.emmons@gmail.com  
                     $message->to($payment->email, 'Pristinegreencleaning')
                         ->subject("Pristinegreencleaning Payment Successfull");
-                    $message->from("sales@pristingreencleaning.com",'Pristingreencleaning');
+                    $message->from("sales@pristingreencleaning.com", 'Pristingreencleaning');
                 });
             }
 

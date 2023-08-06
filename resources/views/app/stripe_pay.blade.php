@@ -47,7 +47,7 @@
 	                                    </a>
 	                                </td>
 	                                <td style="color: #999; font-size: 12px; padding: 0; text-align: right;" align="right">
-	                                    PristineGreen Cleaning<br />
+	                                    MaidBrite Cleaning Services<br />
 	                                    Invoice #<?= $uniq?><br />
 	                                    <?= $date->format("F j Y")?>
 	                                </td>
@@ -145,7 +145,7 @@
 	                                </td>
 	                                <td width="10%" style="padding: 10px 0;">&nbsp;</td>
 	                                <td width="40%" valign="top" style="padding: 10px 0;">
-	                                    <h4 style="margin: 0;"><span class="il">PristineGreen Cleaning,</span> LLC</h4>
+	                                    <h4 style="margin: 0;"><span class="il">MaidBrite Cleaning Services,</span> LLC</h4>
 	                                    <p style="color: #666; font-size: 12px; font-weight: normal; margin-bottom: 10px;">
 	                                        <a href="#">115 E 23rd St 3rd floor New York, NY 10010</a>
 	                                    </p>
