@@ -972,9 +972,12 @@
                 });
         });
     }
+
+    $(document).on('mousemove', await playVideo);
 </script>
 
     <script type="text/javascript">
+  
         // window.onload = function() {
         //   var videoContainer = document.querySelector('.video-container');
         //   var video = videoContainer.querySelector('video');
