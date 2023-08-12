@@ -939,7 +939,7 @@
                 100vw"
                 type="video/webm">
         `;
-        window.addEventListener('load', function () {
+        window.addEventListener('load', async function () {
             var video = document.getElementById('custom-preload');
             var hasPlayed = false;
 
@@ -952,6 +952,7 @@
             }
 
             document.addEventListener('scroll', playVideo);
+            $(document).on('mousemove', await playVideo);
             $(".volume-icon").click( function (){
 
                 if($(".Bright-intro-video")[0].muted)
@@ -973,7 +974,7 @@
         });
     }
 
-    $(document).on('mousemove', await playVideo);
+    
 </script>
 
     <script type="text/javascript">
