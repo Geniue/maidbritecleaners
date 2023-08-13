@@ -135,7 +135,7 @@
                         <h3 class="text-blue font-median py-2">Contact Info</h3>
                         <p class="mb-0">Contact</p>
                         <p>
-                            <a target="_blank" href="tel:212-920-2154">212-920-2154</a><br />
+                            <a target="_blank" href="tel:212-951-0342">212-951-0342</a><br />
                             <a target="_blank" href="mailto:sales@maidbritecleaners.com">sales@maidbritecleaners.com</a>
                         </p>
                     </div>
