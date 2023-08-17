@@ -74,7 +74,7 @@
                                     <a href="{{ route('blog01', $bl->slug) }}" class="lptw-thumbnail-link"><img
                                             width="100" height="{{100 * ($size[1] / $size[0])}}"
                                             class="attachment-100x100 size-100x100 wp-post-image  lozad"
-                                             alt="indigo-rug-cleaning" title="Indigo-dye-rug-cleaning"
+                                             alt="Cleaning" title="cleaning"
                                             data-src="{{ Storage::disk('public')->url(explode('.', $bl->image)[0].'_thumb.'.explode('.', $bl->image)[1]) }}" /></a>
                                     <div class="lptw-post-header abc-110">
                                         <span class="text-ellipsis-3">

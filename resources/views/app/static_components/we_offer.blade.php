@@ -11,33 +11,33 @@
                 <!-- services-1 -->
                 <ul>
                     <li>
-                        <img class="lozad" alt="Carpet Cleaning Services NYC" height="50" width="50"
+                        <img class="lozad" alt="House Cleaning" height="50" width="50"
                             data-src="{{ asset('assets/images/icons/v1/house_clean.png') }}" style />
                         <a href="{{ route('house_cleaning') }}"> House Cleaning </a>
                     </li>
                     <li>
-                        <img class="lozad" alt="Upholstery Cleaning NYC" height="50" width="50"
+                        <img class="lozad" alt="Post Construction Cleaning" height="50" width="50"
                             data-src="{{ asset('assets/images/icons/v1/post_cont.png') }}" style />
                         <a href="{{ route('post_construct') }}">Post Construction Cleaning</a>
                     </li>
                     <li>
-                        <img class="lozad" alt="Rug Cleaner NYC" height="50" width="50"
+                        <img class="lozad" alt="Move in Cleaning Services" height="50" width="50"
                             data-src="{{ asset('assets/images/icons/v1/move_in.png') }}" style />
                         <a href="{{ route('move_in') }}">Move in Cleaning Services</a>
                     </li>
                     <li>
-                        <img class="lozad" alt="Mattress Cleaning NYC" height="50" width="50"
+                        <img class="lozad" alt="Move out Cleaning Services" height="50" width="50"
                             data-src="{{ asset('assets/images/icons/v1/move_out.png') }}"
                             style />
                         <a href="{{ route('move_out') }}">Move out Cleaning Services</a>
                     </li>
                     <li>
-                        <img class="lozad" alt="Oriental and Persian Rug Cleaning NYC" height="50" width="50"
+                        <img class="lozad" alt="Apartment Cleaning Services" height="50" width="50"
                             data-src="{{ asset('assets/images/icons/v1/apart_clean.png') }}" style />
                         <a href="{{ route('apart_cleaning') }}">Apartment Cleaning Services</a>
                     </li>
                     <li>
-                        <img rel="canonical" class="lozad" alt="Pet Odor Removal and Pet Urine Removal Services"
+                        <img rel="canonical" class="lozad" alt="House Keeping"
                             height="50" width="50"
                             data-src="{{ asset('assets/images/icons/v1/house_keep.png') }}"
                             style />
@@ -47,36 +47,36 @@
                 <!-- services-2 -->
                 <ul>
                     <li>
-                        <img rel="canonical" class="lozad" alt="Green Carpet Cleaner NYC" height="50" width="50"
+                        <img rel="canonical" class="lozad" alt="Green Cleaning" height="50" width="50"
                             data-src="{{ asset('assets/images/icons/v1/green_clean.png') }}" style />
                         <a href="{{ route('green_cleaning') }}">Green Cleaning</a>
                     </li>
                     <li>
                         <img rel="canonical" class="lozad"
-                            alt="Professional Office and Commercial Carpet Cleaning Services" height="50"
+                            alt="Commercial Cleaning" height="50"
                             width="50" data-src="{{ asset('assets/images/icons/v1/com_clean.png') }}" style />
                         <a href="{{ route('comm_cleaning') }}">Commercial Cleaning</a>
                     </li>
                     <li>
-                        <img rel="canonical" class="lozad" alt="Sofa Cleaning NYC" height="50" width="50"
+                        <img rel="canonical" class="lozad" alt="Maid Cleaning" height="50" width="50"
                             data-src="{{ asset('assets/images/icons/v1/maid.png') }}" style />
                         <a href="{{ route('maid_cleaning') }}">Maid Cleaning</a>
                     </li>
                     <li>
-                        <img rel="canonical" class="lozad" alt="Vehicle and Auto Cleaning" height="50"
+                        <img rel="canonical" class="lozad" alt=" Residential Cleaning Services" height="50"
                             width="50" data-src="{{ asset('assets/images/icons/v1/reside_clean.png') }}"
                             style />
                         <a href="{{ route('res_cleaning') }}"> Residential Cleaning Services </a>
                     </li>
                     <li>
-                        <img rel="canonical" class="lozad" alt="Pet Odor Removal and Pet Urine Removal Services"
+                        <img rel="canonical" class="lozad" alt="Deep Cleaning Services"
                             height="50" width="50"
                             data-src="{{ asset('assets/images/icons/v1/deep_clean.png') }}"
                             style />
                         <a href="{{ route('deep_cleaning') }}"> Deep Cleaning Services </a>
                     </li>
                     <li>
-                        <img rel="canonical" class="lozad" alt="Pet Odor Removal and Pet Urine Removal Services"
+                        <img rel="canonical" class="lozad" alt="Cleaning Lady "
                             height="50" width="50"
                             data-src="{{ asset('assets/images/icons/v1/clean_lady.png') }}"
                             style />

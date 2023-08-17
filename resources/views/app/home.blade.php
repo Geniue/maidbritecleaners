@@ -922,7 +922,7 @@
 
 @section('js')
 
-<script>
+{{-- <script>
     isVideoExist = document.getElementById('custom-preload');
     if (isVideoExist) {
         var innerVideo = `
@@ -975,9 +975,9 @@
     }
 
     
-</script>
+</script> --}}
 
-    <script type="text/javascript">
+    {{-- <script type="text/javascript">
   
         // window.onload = function() {
         //   var videoContainer = document.querySelector('.video-container');
@@ -1005,5 +1005,5 @@
         // //     };
         // }
   
-    </script>
+    </script> --}}
 @endsection

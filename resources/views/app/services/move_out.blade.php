@@ -68,7 +68,7 @@
                 srcset="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Move-Out-Cleaning-move-out-cleaning-services-near-me.jpg') }}">
             <img class="service-bannner-img h-img-600"
                 src="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Move-Out-Cleaning-move-out-cleaning-services-near-me.jpg') }}"
-                alt="Area Rug cleaning">
+                alt="Move Out Cleaning">
         </picture>
 
 

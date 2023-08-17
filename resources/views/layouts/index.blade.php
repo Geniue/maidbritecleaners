@@ -1106,22 +1106,22 @@ background-image : none !important;
             e.preventDefault();
         })
 
-        function Sliddde(o) {
-            console.log('slide')
-            const e = o.target.value;
-            $(".foreground-img").css("width", e + "%"), $(".slider-button").css("left", `calc(${e}% - 18px)`);
-        }
+        // function Sliddde(o) {
+        //     console.log('slide')
+        //     const e = o.target.value;
+        //     $(".foreground-img").css("width", e + "%"), $(".slider-button").css("left", `calc(${e}% - 18px)`);
+        // }
 
-        // for video banner
-        $('.pri-vid-wrapper').click(function() {
-            if ($(this).children(".pri-info-video").get(0).paused) {
-                $(this).children(".pri-info-video").get(0).play();
-                $(this).children(".pri-playpause").fadeOut();
-            } else {
-                $(this).children(".pri-info-video").get(0).pause();
-                $(this).children(".pri-playpause").fadeIn();
-            }
-        });
+        // // for video banner
+        // $('.pri-vid-wrapper').click(function() {
+        //     if ($(this).children(".pri-info-video").get(0).paused) {
+        //         $(this).children(".pri-info-video").get(0).play();
+        //         $(this).children(".pri-playpause").fadeOut();
+        //     } else {
+        //         $(this).children(".pri-info-video").get(0).pause();
+        //         $(this).children(".pri-playpause").fadeIn();
+        //     }
+        // });
     </script>
     <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
     <script type="text/javascript">

@@ -66,7 +66,7 @@
                 srcset="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Move-In-Cleaning-moving-cleaning-service-near-me.jpg') }}">
             <img class="service-bannner-img h-img-600"
                 src="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Move-In-Cleaning-moving-cleaning-service-near-me.jpg') }}"
-                alt="upholstery cleaning">
+                alt="Move In Cleaning Services">
         </picture>
 
 

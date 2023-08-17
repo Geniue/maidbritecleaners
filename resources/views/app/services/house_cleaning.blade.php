@@ -70,7 +70,7 @@
             <source media="(max-width: 878px)" srcset="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-House-Cleaning--cleaners-near-me-near-me.jpg') }}">
             <source media="(min-width: 878px)" srcset="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-House-Cleaning--cleaners-near-me-near-me.jpg') }}">
             <img class="service-bannner-img h-img-600" src="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-House-Cleaning--cleaners-near-me-near-me.jpg') }}"
-                alt="carpet cleaning">
+                alt="House Cleaning">
         </picture>
         <div class="p-4 p-lg-5 pb-120  position-absolute bottom-0 w-100 h-100">
             <div class="d-flex flex-col justify-content-end gap-4 h-100 py-4">

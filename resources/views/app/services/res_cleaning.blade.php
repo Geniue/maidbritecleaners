@@ -66,13 +66,13 @@
                 srcset="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Residential-Cleaning--one-time-house-cleaning-services-near-me.jpg') }}">
             <img class="service-bannner-img h-img-600"
                 src="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Residential-Cleaning--one-time-house-cleaning-services-near-me.jpg') }}"
-                alt="Pet Stains and Odor cleaning">
+                alt="Residential Cleaning">
         </picture>
 
 
         <div class="p-4 p-lg-5 position-absolute bottom-0 w-100 h-100 pb-120">
             <div class="d-flex flex-col justify-content-end gap-4 h-100 py-4">
-                <h1 class="text-green">RESIDENTIAL CLEANING</h1>
+                <h1 class="text-green">Residential Cleaning</h1>
                 <p class="tex-white text-center text-lg-start fs-3">
                     Top-rated and trusted residential cleaning service in NYC
                 </p>

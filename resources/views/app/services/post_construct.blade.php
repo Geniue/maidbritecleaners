@@ -67,11 +67,11 @@
                 srcset="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Post-construction-cleaning-post-construction-cleaning-near-me.jpg') }}">
             <img class="service-bannner-img h-img-600"
                 src="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Post-construction-cleaning-post-construction-cleaning-near-me.jpg') }}"
-                alt="Pet Stains and Odor cleaning">
+                alt="Post Construction Cleaning">
         </picture>
         <div class="p-4 p-lg-5 position-absolute bottom-0 w-100 h-100 pb-120">
             <div class="d-flex flex-col justify-content-end gap-4 h-100 py-4">
-                <h1 class="text-green">POST CONSTRUCTION CLEANING</h1>
+                <h1 class="text-green">Post Construction Cleaning</h1>
                 <p class="tex-white text-center text-lg-start fs-3">
                     Professional and Trusted Post Construction Cleaning Service in NYC
                 </p>
