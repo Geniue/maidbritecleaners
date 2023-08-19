@@ -12,7 +12,7 @@
     <meta name="description"
         content="Experience exceptional house cleaning services with Maidbrite Cleaning Services . From deep cleaning to move in and move out cleaning services, our professional team is dedicated to keeping your home spotless and comfortable. Trust us for reliable, high-quality and affordable cleaning solutions near you.">
     <meta name="keywords"
-        content="cleaning services near me, house cleaning services, house cleaners near me, home cleaning services near me, cleaning company near me, deep cleaning services, move out cleaning services, apartment cleaning services, deep cleaning house, house keeping services, same day cleaning service, house cleaning cost, cleaning services, house cleaning services near me, house cleaning, house cleaners near me, home cleaning services, cleaning company, professional cleaning services, deep cleaning house, residential cleaning services">
+        content="cleaners near me, cleaning services near me, cleaning services, house cleaning services, house cleaning services near me, house cleaning, house cleaners near me, house cleaning near me, maid service, home cleaning services near me, cleaning company near me, cleaning company, cleaning companies near me, home cleaning services, cleaning service near me, home cleaning, house cleaning service, deep cleaning house, professional cleaning services, housekeeping services near me, cleaners, residential cleaning services, housekeeping services">
     <link rel="canonical" href="{{ url()->current() }}">
 
     <meta property="og:site_name" content="Maidbrite Cleaning Services ">
@@ -60,6 +60,18 @@
             background-size: 100% 100%;
         }
     }
+    .main-content-section h3 {
+      font-family: "latobold" !important;
+      font-size: 1rem;
+    }
+
+    @media (min-width: 1000px) {
+        .main-content-section h3{
+          padding-left: 18rem;
+          padding-right: 16rem;
+        }
+        
+    }
     </style>
     @endsection
 @section('content')
@@ -93,81 +105,54 @@
         <div class="container py-5 main-content-section text-lightgray">
             <h1 class="text-center text-green fs-1 py-5">HOUSE CLEANING</h1>
 
+            <p>
+                <strong>
+                 Looking for “cleaners near me”? Now the quest is over as you have found us, MaidBrite Cleaners, a professional and reliable house cleaning company that can provide service in most areas of NYC. We do high-quality work and our team is able to deliver the highest level of service when cleaning your home. We make sure you enjoy a healthy and pleasant environment at home, free of harmful germs and harsh chemicals.   
+                </strong>
+            </p>
+
             <h2>
-                Exceptional House Cleaning Services by Maidbrite Cleaning Services 
+                Why choose us and our cleaning services?
             </h2>
             <p>
-                At Maidbrite Cleaning Services , we understand that every home is a unique sanctuary. That's why we offer comprehensive and
-                tailored house cleaning services designed to maintain the sparkle in your abode and complement your
-                lifestyle. Whether you are looking for an occasional spruce-up or recurring, scheduled cleaning, we are the
-                cleaning company near you that is ready to get down to the nitty-gritty.
+                We know that there are hundreds of home cleaning services ready to pop up when you search “cleaning services near me.” However, we also know that we are some of the best in our industry and our services provide you real value for money. Here is why you should stop looking for “house cleaners near me” and call our team to clean your home:
 
             </p>
-            <h2>
-                A Variety of Cleaning Services to Suit Every Home
-            </h2>
+            <h3>
+                Peace of mind
+            </h3>
             <p>
-                Our services encompass a broad spectrum of cleaning tasks. From regular home cleaning services, deep
-                cleaning services, move out cleaning services to specialized apartment cleaning services, we have got it
-                covered. Our team of dedicated housekeepers are well-versed in maintaining a pristine environment in your
-                living spaces.
+                Feeling worried about someone going through your beloved possessions? No need to worry with our house cleaning services. We understand that each home is someone’s sanctuary and retreat after a hard day’s work, so we will treat it most respectfully and carefully. You will find every item in its place and we will be aware of no-go areas if applicable.
+            </p>
 
+            <h3>
+                Saving time and money
+            </h3>
+            <p>
+                Why spend long hours cleaning your home when you already have a busy schedule? By delegating your home cleaning tasks to professionals, you will be enjoying better results while you will be able to focus on what is important to you (work, hobbies, rest). You save money for sure because you don’t need to spend $$ on cleaning equipment and solutions. At the same time, regular professional cleaning helps you preserve your property value and expand the lifespan of your physical assets, which translates to more money saving!
             </p>
-            <h2>
-                Trusted and Professional House Cleaners Near You
 
-            </h2>
+            <h3>
+                Custom house cleaning
+            </h3>
             <p>
-                Our house cleaners are not only reliable but also trained to deliver professional cleaning services. At
-                Maidbrite Cleaning Services , we ensure that our cleaning ladies and housekeepers go through rigorous training to provide
-                services that surpass your expectations. Our team is devoted to maintaining a clean and comfortable
-                environment for you and your loved ones.
+                Not only do we cater to your particular needs, but we also provide specialized house cleaning service: deep cleaning, move in cleaning services, same day cleaning. Whether you want your new place thoroughly cleaned or you need to clean after the wild party last night, we are there for you.
+            </p>
 
-            </p>
-            <h2>
-                Move In and Move Out Cleaning Services
-            </h2>
+            <h3>
+                Trusted and professional house cleaners
+            </h3>
             <p>
-                Whether you are moving into a new home or moving out of your apartment, Maidbrite Cleaning Services  is here to assist you
-                with exceptional cleaning. Our move in cleaning service ensures that your new residence is welcoming and
-                spotless, setting the stage for delightful memories. On the other hand, our move out cleaning services are
-                designed to leave your old home in immaculate condition, ensuring a smooth transition.
+                Our team of diligent maids is specialized in residential cleaning services and undergoes regular training. The experience of our staff combined with modern cleaning equipment and effective and safe cleaning products enable us to provide for you a truly hygienic and safe home.
             </p>
-            <h2>
-                Deep Cleaning Services for Comprehensive Cleanliness
-            </h2>
-            <p>
-                At times, your home may need more than a regular cleaning touch. This is where our deep cleaning house
-                services come into play. We dive deep into every nook and corner, ensuring that every inch of your home is
-                gleaming. Our deep cleaners are equipped with the skills and tools to eliminate stubborn dirt and grime,
-                guaranteeing a refreshing living space.
 
-            </p>
-            <h2>
-                Reliable Same Day Cleaning Service
-            </h2>
+            <h3>
+                Competitive prices
+            </h3>
             <p>
-                Do you need cleaning services at short notice? Look no further. Our same day cleaning service is designed to
-                cater to your immediate cleaning needs. Whether it's an unexpected visitor or a sudden event, our house
-                keeping services are there for you, even at the eleventh hour.
+                Saving time with home cleaning is only possible when the service price is fair and affordable. Our clients appreciate us for our transparent pricing policy, meaning there are no hidden costs. Before we begin providing our professional cleaning services, we offer a free quote based on information sourced from our clients (surface, type of services required, photos if necessary).
             </p>
-            <h2>
-                Affordable and Fair House Cleaning Cost
-            </h2>
-            <p>
-                Quality does not always have to come at a high cost. At Maidbrite Cleaning Services , we strive to provide the best cleaning
-                services at competitive rates. We believe that everyone deserves a clean and comfortable home, and we ensure
-                that our house cleaning cost remains affordable without compromising on quality.
-            </p>
-            <h2>
-                Why Choose Maidbrite Cleaning Services ?
-            </h2>
-            <p>
-                As a professional cleaning company, we are dedicated to providing high-quality house cleaning services near
-                you. Our team of professionals is always ready to deliver the highest level of service to meet your cleaning
-                needs. We believe in creating a clean, healthy and comfortable living environment for you and your family.
-                Choose Maidbrite Cleaning Services  for a spotless, sparkling home!
-            </p>
+            <p>The best result for “house cleaning services near me” is MaidBrite Cleaners – by calling to our services you will enjoy benefits such as personalized cleaning services, competitive rates, a high standard of cleanliness and having more time to relax!</p>
         </div>
 
     </section>

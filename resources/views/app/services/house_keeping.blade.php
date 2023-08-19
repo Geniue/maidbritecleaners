@@ -54,6 +54,30 @@
     <meta name="subject" content="Blog">
 @endsection
 
+@section('css')
+<style type="text/css">
+    .main-content-section h3 {
+      font-family: "latobold" !important;
+      font-size: 1rem;
+    }
+
+    @media (min-width: 1000px) {
+        .main-content-section h3{
+          padding-left: 18rem;
+          padding-right: 16rem;
+        }
+        .main-content-section ul{
+          padding-left: 20rem;
+          padding-right: 18rem;
+        }
+        .main-content-section ul {
+          font-family: "latobold" !important;
+          font-size: 1rem;
+        }
+        
+    }
+</style>
+@endsection
 
 @section('content')
     <!-- main section -->
@@ -90,53 +114,50 @@
 
             <h1 class="text-center text-green fs-1 py-5">HOUSE KEEPING</h1>
 
-
-
-            <p><strong>
-                    Welcome to Maidbrite Cleaning Services , where your search for housekeeping cleaning services ends. We know what
-                    housekeeping means – it is a commitment to cleanliness, organization, and a harmonious living
-                    environment. We understand that when you're looking for a housekeeper, you want more than just a cleaner
-                    housekeeper. You want someone who will care for your home as much as you do, a good housekeeper who goes
-                    above and beyond. That’s where Maidbrite Cleaning Services  steps in.
-                </strong></p>
-            <h2><strong>Housekeeping Procedures You Can Rely On
-                </strong></h2>
-            <p>Our housekeeping services are based on time-tested housekeeping procedures. These aren't simply a list of
-                housekeeping things or housekeeping stuff that need to be done. Instead, our procedures are a detailed
-                approach to ensuring your home is meticulously cleaned and cared for, each and every time. The housekeeping
-                items meaning extends beyond physical objects; it's a complete system that our housekeeping contractor
-                follows to deliver exceptional results.</p>
-            <h2><strong>A Housekeeping Company That Puts You First</strong></h2>
-            <p>In Maidbrite Cleaning Services , you will find a housekeeping company that prioritizes your needs. With our professional
-                housekeeping services, you can trust us to handle every aspect of your home's cleanliness. From the types of
-                housekeeping tasks you detest to the ones you simply don't have time for, we have you covered. The good
-                housekeeping current issue shouldn't be your concern anymore; leave it to us, the experts in the field.</p>
-            <h2><strong>Housekeeping Services Near Me? Look No Further!</strong></h2>
-            <p>We understand how important it is for our clients to have housekeeping services near them. That’s why we’ve
-                expanded our reach to serve as many neighborhoods as possible. Just type "housekeeping services near me" or
-                "housekeeper near me", and you'll find Maidbrite Cleaning Services  at your service. With our dedicated team, finding a
-                housekeeper has never been easier.</p>
-            <h2><strong>Private Housekeeper Services for Your Peace of Mind
-                </strong>
-            </h2>
-            <p>When you hire a housekeeper from Maidbrite Cleaning Services , you're engaging private housekeeper services that respect your
-                home and your privacy. Our team members are not just housekeepers in your area; they are professionals who
-                uphold the highest standards of integrity and discretion. We ensure every housekeeper cost is justified by
-                our unwavering attention to detail and commitment to your satisfaction.
+            <h2>What is housekeeping?</h2>
+            <p>Housekeeping services near me” is one of the most common searches online. If you too are looking for a reliable home cleaning company with a team of trained and experienced maids, MaidBrite Cleaners is the best choice. We can adjust to your schedule and are able to provide full service to almost any area in NYC. All you need is to simply give us a phone call or contact us via our online form and tell us how we can help.</p>
+            <h2>Why housekeeping is vital for your comfort peace of mind</h2>
+            <p>Cleaning your home regularly is very important for various reasons. What is housekeeping and why is it necessary? Here’s what you should know about our services:</p>
+            <h3>
+                A clean home increases productivity and enables you to sleep well
+            </h3>
+            <p>
+                Keeping your home organized is vital if you work for home, but is also necessary in order to enjoy a pleasant and relaxing environment. There is nothing like a good night’s rest in a clean and fresh home!
             </p>
-            <h2><strong>Unbeatable Housekeeping Prices
-                </strong>
-            </h2>
-            <p>One of the standout qualities of Maidbrite Cleaning Services  is our transparent and affordable housekeeping prices. Regardless
-                of whether you’re looking for housekeeping or you need a housekeeper for a larger property, we offer rates
-                that provide excellent value for your money. So, stop your "housekeeper needed" search and connect with us
-                to experience unmatched housekeeping services.
 
+            <h3>
+                Less stress
+            </h3>
+            <p>
+                Reducing clutter helps to minimize stress as you are no longer bothered by all the misplaced or useless items in your home. When your home is clean and organized, your home seems bigger and you instantly get into a good mood.
             </p>
-            <p>Join the Maidbrite Cleaning Services  family today and discover the difference that professional care housekeeping can make in
-                your home. Maidbrite Cleaning Services  – the perfect solution when you're looking for a housekeeper.</p>
 
+            <h3>
+                Keeping out pests
+            </h3>
+            <p>
+                The best way to keep pests out is not by using deterrents, traps or poisonous chemicals – it is by keeping your home clean. Bugs and rodents are attracted by food leftovers and spills. Cleaning your place and eliminating all sources of food greatly reduces the risk of attracting pests.
+            </p>
 
+            <h3>
+                Staying healthy
+            </h3>
+            <p>
+                Housekeeping jobs such as cleaning up spills, vacuuming carpets, cleaning the kitchen and the bathroom are paramount if you want to reduce the multiplication of germs and avoid getting sick.
+            </p>
+            <h2>Competitive prices for reliable housekeeping</h2>
+            <p>
+                Many people are reluctant when it comes to outsourcing their housekeeping because they fear the possibly high prices. MaidBrite Cleaners provides excellent value for money and can be the best solution for you housekeeping needs if:
+                <ul>
+                    <li>You lack the time and energy needed to clean your home regularly.</li>
+                    <li>You have a busy schedule or you do not enjoy housekeeping tasks.</li>
+                    <li>You need special cleaning services such as deep cleaning, pet stain and odor removal, carpet and upholstery cleaning etc.</li>
+                    <li>Your time and rest are worth more money than the rate you pay to your home cleaning service.</li>
+                </ul>
+            </p>
+            <p>
+                Rest assured that the quote we provide is the same we will charge at the end of service. We have a transparent pricing strategy and we do not charge extra, blaming it on additional costs. Contact us today and let us know how we can help to obtain a firm quote for our housekeeping services.
+            </p>
 
         </div>
     </section>

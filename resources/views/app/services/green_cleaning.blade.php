@@ -15,7 +15,7 @@
     <meta name="description"
         content="Explore our green cleaning services, combining environmental consciousness with impeccable housekeeping. From organic cleaning services to using eco-friendly commercial cleaning products, we are leading the green revolution in cleaning. Dive into the world of green house cleaning with us - where cleanliness meets sustainability.">
     <meta name="keywords"
-        content="green house cleaning, organic cleaning services, green house cleaners, eco-friendly commercial cleaning products, greener cleaners, green clean services, today's green cleaning, green commercial cleaning products, green home cleaning services, greenwashing cleaning products, healthy cleaning services, green cleaning near me, environmentally friendly industrial cleaning products, green housekeeping services, environmentally friendly commercial cleaning products, green cleaning program, green cleaning, simple green cleaner, bissell big green, eco cleaning, clean green, green and clean, green cleaning services, eco cleaning services, eco-friendly cleaning, non-toxic cleaners, green & clean, clean & green, eco cleaning company, green cleaners near me, go green go clean, greenworks cleaner, eco-friendly cleaning services, eco cleaners near me">
+        content="green house cleaning, organic cleaning services, green house cleaners, green house cleaning service, green house cleaning services, eco-friendly maid service, green clean services, eco green house cleaning, green janitorial supplies, today's green cleaning, green commercial cleaning products, green cleaning nyc, green home cleaning services, green cleaning certification">
     <link rel="canonical" href="{{ url()->current() }}">
 
     <meta property="og:site_name" content="Maidbrite Cleaning Services ">
@@ -54,7 +54,20 @@
     <meta name="revisit-after" content="3">
     <meta name="subject" content="Blog">
 @endsection
-
+@section('css')
+<style>
+@media (min-width: 1000px) {
+    .main-content-section ul{
+      padding-left: 20rem;
+      padding-right: 18rem;
+    }
+    .main-content-section ul {
+      font-family: "latobold" !important;
+      font-size: 1rem;
+    }
+}
+</style>
+@endsection
 @section('content')
     <!-- main section -->
     <main class="position-relative">
@@ -92,52 +105,33 @@
 
             <h1 class="text-center text-green fs-1 py-5">GREEN CLEANING</h1>
 
-            <h2>Going Green: Embracing the Power of Eco-Friendly Cleaning</h2>
+            <p><strong>Taking care to protect the environment, no matter what activity you are doing, is considered vital these days. We have been aware of our negative impact on the planet for decades and measures to prevent and minimize pollution are already underway. One of those strategies is represented by green house cleaning, which is ensured by companies with green cleaning certification and using environmentally-friendly products.</strong></p>
+
+            <h2>Going green with organic cleaning services – a must for any cleaning company</h2>
             <p>
-                In an era where environmental consciousness is paramount, we at our company pride ourselves in offering
-                green house cleaning as part of our diverse range of services. We are your green house cleaners with a
-                mission to maintain the integrity of your home while minimizing our carbon footprint.
+                At MaidBrite Cleaners we provide you with a clean and sanitized home while also taking care to reduce the carbon footprint of our company and of our customers. We have been offering green home cleaning services since this shift in consumer trends emerged and we are already experienced in the use of green janitorial supplies and cleaning techniques.
+            </p>
+            <p>
+                We have ditched the conventional cleaning methods wherever possible and replaced harmful chemicals with green cleaning products and cleaning methods (steam cleaning, using natural substances, opting for reusable cleaning cloths, etc.) Being able to provide green house cleaning services is a huge differentiator and one of the criteria that an increasing number of consumers use when choosing a cleaning company.
+            </p>
+            <h2>How we achieve superior cleaning with our eco-friendly maid service</h2>
+            <p>
+                Worried that green cleaning may not be as effective as conventional cleaning methods? Today's green cleaning is reliable and well-established, so your home or workplace benefits from the highest standards of cleanliness without polluting the environment or contributing significantly to the carbon footprint.
+            </p>
+            <h2>Avoiding harsh cleaning chemicals</h2>
+            <p>
+                By cleaning your home regularly, you will not need very strong cleaning chemicals because there will be no hardened dirt and grime to eliminate. Although we provide deep cleaning as well, we advise you to use regular housekeeping services that help to keep your home in good condition and prevent the situation from getting out of control.
+            </p>
+
+            <h2>Green cleaning methods</h2>
+            <p>
+                One of the ways to eliminate the need for harsh chemical is using green cleaning methods, such as steam cleaning, hot water extractors (with green cleaning solutions), air drying, etc.
             </p>
             <h2>
-                The Revolution of Organic Cleaning Services
-
+                Using genuinely green cleaning products
             </h2>
             <p>
-                Understanding the shift in consumer trends and needs, we have dedicated our efforts to providing organic
-                cleaning services. We believe in delivering a top-notch cleaning experience that is not only effective but
-                also respects and protects the environment. Unlike conventional cleaning methods, our approach to green
-                cleaning isn't tied to harmful chemicals. Instead, we opt for environmentally friendly industrial cleaning
-                products and green commercial cleaning products that are safe for you, your family, and our planet.
-
-            </p>
-            <h2>
-                Eco-Friendly Commercial Cleaning Products: A Sustainable Choice
-
-            </h2>
-            <p>
-
-                A unique aspect of our service is our use of eco-friendly commercial cleaning products. These products are
-                designed to be tough on dirt and grime, yet gentle on the environment. Our greener cleaners bring about
-                sparkling clean surfaces without the unpleasant chemical residue, making us a favorite for those searching
-                for green cleaning near me.
-
-            </p>
-
-            <h2>Achieving a Greener Clean</h2>
-            <p>
-                As a part of our green cleaning program, we offer comprehensive green housekeeping services. These services
-                not only clean but also help to create a healthier living space. We are cautious of greenwashing cleaning
-                products, so you can be assured that our green clean services only use genuinely green products.
-
-            </p>
-            <h2>
-                Adapting to Today's Green Cleaning Methods
-            </h2>
-            <p>
-                In tune with today's green cleaning trends, we constantly update our green cleaning methods and products.
-                Our commitment to providing healthy cleaning services goes hand in hand with our commitment to
-                sustainability. Our company is known for its green home cleaning services that are beneficial for you and
-                the environment.
+                Not every product that has a green logo on its label is truly a green cleaning supply. MaidBrite Cleaners is a professional green cleaning NYC company and we are not fooled by greenwashing tricks. We know our products, how they work and how they help to maintain a healthy and safe environment in your home.
             </p>
             <h2>
                 Eco Green House Cleaning: The Future of Cleaning
@@ -148,22 +142,19 @@
                 environmental stewardship. The eco cleaning methods we use leave your house clean and green.
             </p>
             <h2>
-                The Way Forward with Green & Clean Services
+                Benefits of using a green house cleaning service
             </h2>
             <p>
-                Our commitment to green cleaning services isn’t just about being eco-friendly; it’s about providing a
-                cleaning service that you can trust. We are your reliable eco cleaning company always ready to provide
-                excellent eco-friendly cleaning. If you're wondering, "where are the green cleaners near me?", we are just
-                one call away, eager to bring our non-toxic cleaners to your doorstep.
+                Have you decided to switch to green house cleaners? This is an excellent decision as you will be enjoying the following advantages:
+                <ul>
+                    <li>Reducing pollution and energy consumption.</li>
+                    <li>Enjoying a healthier environment at home, free from residue from harmful chemicals.</li>
+                    <li>Achieving high standards of hygiene without harming your health and physical assets, while also ensuring a healthier working environment for people in the cleaning industry.</li>
+                    <li>Supporting the green commercial cleaning products industry and enabling it to occupy a larger share of the market, thus making a lasting impact on consumer habits and preferences.</li>
+                </ul>
             </p>
-            <h2>
-                Endnote: Clean & Green
-            </h2>
             <p>
-                In a world where the future is green, our clean & green services are just what you need. We stand against
-                the notion of using harsh chemicals and firmly stand for the use of greenworks cleaner and other
-                eco-friendly cleaning products. With our eco-friendly cleaning services, your search for the best eco
-                cleaners near me ends here. We invite you to join us in the green revolution: Go green, go clean!
+                Choose green clean services from <strong>MaidBrite Cleaners</strong> today and the planet will thank you later!
             </p>
         </div>
     </section>

@@ -10,12 +10,14 @@
     </script>
 @endsection
 
+
+
 @section('meta')
     <meta name="title" content="Cleaning Lady | Maidbrite Cleaning Services ">
     <meta name="description"
         content="Discover superior quality cleaning lady services near you. From regular house cleaning to deep cleaning, our lady maids provide unmatched professionalism and attention to detail.">
     <meta name="keywords"
-        content="cleaning lady near me, cleaning lady services, independent cleaning lady near me, house cleaning lady near me, house cleaning lady, hire a cleaning lady, cleaning ladies in my area, find a cleaning lady near me, best cleaning lady near me, need a cleaning lady, lady maids cleaning service, cleaners near me, cleaning services near me, house cleaning services, deep cleaning house, professional cleaning services, house cleaning services near me, cleaning company">
+        content="cleaners near me, cleaning services near me, cleaning services, house cleaning services, house cleaning services near me, house cleaning, house cleaners near me, house cleaning near me, home cleaning services near me, cleaning company near me, cleaning company, cleaning companies near me, cleaning service, home cleaning services, cleaning service near me, home cleaning, house cleaning service, deep cleaning house, professional cleaning services, residential cleaning services">
     <link rel="canonical" href="{{ url()->current() }}">
 
     <meta property="og:site_name" content="Maidbrite Cleaning Services ">
@@ -54,7 +56,30 @@
     <meta name="revisit-after" content="3">
     <meta name="subject" content="Blog">
 @endsection
+@section('css')
+<style type="text/css">
+    .main-content-section h3 {
+      font-family: "latobold" !important;
+      font-size: 1rem;
+    }
 
+    @media (min-width: 1000px) {
+        .main-content-section h3{
+          padding-left: 18rem;
+          padding-right: 16rem;
+        }
+        .main-content-section ul{
+          padding-left: 20rem;
+          padding-right: 18rem;
+        }
+        .main-content-section ul {
+          font-family: "latobold" !important;
+          font-size: 1rem;
+        }
+        
+    }
+</style>
+@endsection
 @section('content')
     <!-- main section -->
     <main class="position-relative">
@@ -91,62 +116,42 @@
             <h1 class="text-center text-green fs-1 py-5">CLEANING LADY </h1>
 
 
-            <h2>Cleaning Lady Services: Your Home's Best Friend</h2>
+            <h2>Cleaning services – the best investment in your home</h2>
             <p>
-                There’s no place like home, especially when it's sparkling clean. At our cleaning company, we take great
-                pride in providing top-tier cleaning lady services, offering you a fresh and vibrant living environment.
+                Using house cleaning services is one of the best decisions you will ever make. Benefits of using the services of a cleaning company include: enjoying a sparkling clean home with no effort, living in a clean and safe environment, having more time for rest and relaxation, and maintaining the value of your property. MaidBrite Cleaners is a professional cleaning services company that provides the best result to your “cleaning services near me” search – we offer a high standard of services, competitive prices and adjusting to your preferences and schedule. After our visit, your place will look as fresh and clean as the day you moved in!
             </p>
             <h2>
-                Highly Trusted Cleaning Lady Services Near You
+                The Cleaning Lady – Your home’s best friend
+            </h2>
+            <p>
+                Every place needs the touch of a cleaning lady that is trained, experienced, and careful with each task, no matter how big or small. Knowing you can count on someone to provide a complete cleaning service and leave your place impeccable makes you feel like home, whether you own or rent the property. At MaidBrite Cleaners, our house cleaning service includes more than just basic cleaning and extends to whatever is needed to restore your home to its original glory: deep cleaning services, housekeeping, post construction cleaning, carpet and upholstery cleaning, and many others.
+            </p>
+            <p>Typing “house cleaning services near me”? No need to search the Internet for a home cleaning service anymore, as our team of diligent and experienced cleaning ladies can come to any area in NYC to provide detail-oriented and custom cleaning services, regardless of your schedule.</p>
 
-            </h2>
-            <p>
-                Have you been frequently searching for "cleaning lady near me" or "independent cleaning lady near me"? Rest
-                assured, your search ends here. With our cleaning lady services in your local area, you can always expect a
-                clean home. We cater to your unique needs, making sure every corner of your space shines and sparkles.
-            </p>
-            <h2>
-                Hire a Cleaning Lady to Rejuvenate Your Home
-            </h2>
-            <p>
-                If you're looking to hire a cleaning lady who is skilled, experienced, and diligent, you're at the right
-                place. Our cleaning ladies take immense pride in their work, ensuring every task, big or small, is handled
-                with utmost care. Their work goes beyond basic cleaning services, offering deep cleaning house services that
-                leave every room gleaming.
-            </p>
-            <h2>
-                Cleaning Ladies in Your Area: Unmatchable Precision and Quality
-            </h2>
-            <p>
-                Often, people find themselves typing "find a cleaning lady near me" or "best cleaning lady near me" into
-                search engines. With us, you need not look further. We have a robust team of skilled cleaning ladies in your
-                area who are dedicated to providing meticulous and personalized cleaning services.
-            </p>
-            <h2>
-                Professional House Cleaning Lady Services
 
-            </h2>
-            <p>
-                Whether you're looking for a house cleaning lady or a private cleaning lady, our company offers the best.
-                Our cleaning lady services are designed to accommodate your every need, from house cleaning to more specific
-                tasks. Forget the days of struggling to find a "house cleaning lady near me" - our experts are always at
-                your service.
-
-            </p>
             <h2>
-                Why Choose Our Lady Maids Cleaning Service?
+                Why choose our residential cleaning services?
             </h2>
             <p>
-                Not all cleaning services near you offer the personal touch of a cleaning lady. With our lady maids cleaning
-                service, you get the benefit of an individual cleaner dedicated to maintaining your home's cleanliness.
-                Every one of our lady maids is a specialist in providing superior house cleaning services, and they are just
-                a call away!
-
+                The need to maintain work-life balance and use those free hours for rest or hobbies has spurred the emergence of thousands of home cleaning services everywhere, and especially in the NYC area. However, not all house cleaning companies are created the same – it is vital that you opt for the services of a reliable cleaner. When looking for “house cleaners near me”, look no further than MaidBrite Cleaners. We provide cleaning services at an unparalleled level and ensure the following benefits:
             </p>
+            <h3>
+                Professional services
+            </h3>
             <p>
-                In conclusion, if you need a cleaning lady, be it for regular house cleaning, deep cleaning, or other
-                professional cleaning services, look no further. Get in touch with us, and experience a new standard of
-                cleanliness in your home.
+                Our experienced cleaning ladies can handle anything from basic cleaning to specific tasks such as upholstery cleaning or deep cleaning due to their extensive training and access to professional cleaning equipment.
+            </p>
+            <h3>
+                Personal touch
+            </h3>
+            <p>
+                Whether you require deep cleaning house services or housekeeping, you are assigned a specialist in providing excellent cleaning services. Our standards are way beyond what the generic cleaning company has to offer and you will notice the difference from our very first visit.
+            </p>
+            <h3>
+                Accessibility
+            </h3>
+            <p>
+                Our services are available in all five boroughs of NYC – you just need to contact us online or give us a phone call and let us know what kind of cleaning services you need. In return, we will provide you with a free quote for your house cleaning services and an appointment at your most convenient time!
             </p>
 
 

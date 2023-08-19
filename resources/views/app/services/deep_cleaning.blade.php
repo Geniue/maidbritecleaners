@@ -15,7 +15,7 @@
     <meta name="description"
         content="Experience unparalleled deep cleaning services with Maidbrite Cleaning Services . From whole house deep cleaning to emergency cleaning services, we guarantee a spotless, comfortable environment.">
     <meta name="keywords"
-        content="deep cleaning services, professional deep cleaning services, deep cleaning companies near me, deep house cleaning services, home deep cleaning services, kitchen deep cleaning services, bathroom deep cleaning services, deep steam carpet cleaning, office deep cleaning services, deep cleaning cost per hour, same day cleaning services, move in deep cleaning service, apartment deep cleaning services, same day cleaning, professional cleaners, same day cleaning services, emergency cleaning services, apartment deep clean, move in cleaning services near me">
+        content="same day cleaning, professional cleaners, apartment cleaning service near me, same day cleaning services, same day cleaning service, extreme house cleaning services near me, detailed cleaning services, detail cleaning service, how much is deep cleaning, declutter services near me, detail cleaning services, move out cleaning cost, molly maid service, general cleaning, move out cleaning services near me, maid to clean, regular cleaning vs deep cleaning, how much does deep cleaning cost, heavy duty cleaning, same day house cleaners, emergency cleaning services, apartment deep clean, move in cleaning services near me, emergency cleaning service, new home cleaning service, house cleaning same day, one time cleaning">
     <link rel="canonical" href="{{ url()->current() }}">
 
     <meta property="og:site_name" content="Maidbrite Cleaning Services ">
@@ -54,7 +54,30 @@
     <meta name="revisit-after" content="3">
     <meta name="subject" content="Blog">
 @endsection
+@section('css')
+<style type="text/css">
+    .main-content-section h3 {
+      font-family: "latobold" !important;
+      font-size: 1rem;
+    }
 
+    @media (min-width: 1000px) {
+        .main-content-section h3{
+          padding-left: 18rem;
+          padding-right: 16rem;
+        }
+        .main-content-section ul{
+          padding-left: 20rem;
+          padding-right: 18rem;
+        }
+        .main-content-section ul {
+          font-family: "latobold" !important;
+          font-size: 1rem;
+        }
+        
+    }
+</style>
+@endsection
 @section('content')
     <!-- main section -->
     <main class="position-relative">
@@ -95,75 +118,51 @@
             <h1 class="text-center text-green fs-1 py-5">Deep Cleaning</h1>
 
             <h2>
-                Deep Cleaning Services by Maidbrite Cleaning Services 
+                Deep Cleaning Services by MaidBrite Cleaners
             </h2>
             <p>
-                Welcome to Maidbrite Cleaning Services ! We are a trusted professional deep cleaning services provider with a
-                commitment to excellence. Our wide range of services, from whole house deep cleaning to office deep cleaning
-                services, ensures that every corner of your space gleams with freshness and cleanliness.
+                Welcome to MaidBrite Cleaners, the best place to arrive when looking for “extreme house cleaning services near me” or same day cleaning! Excellence is our main value, and our commitment to leaving our customers’ homes impeccable have made our name synonymous with freshness and cleanliness. We provide all kinds of cleaning services, such as regular cleaning vs deep cleaning, and we complete every task with utmost care, no matter how big or small it is.
+            </p>
+            <p>
+                We understand the importance of a meticulously sanitized space at home or at work and we spare no efforts when doing our job, whether it is regular housekeeping or the deep cleaning of various areas in your home.
             </p>
             <h2>
-                Reliable Deep Cleaning Services Near You
+                Professional detailed cleaning services in your area
             </h2>
             <p>
-                Finding reliable deep cleaning companies near you is no longer a hassle with Maidbrite Cleaning Services . Our
-                comprehensive deep house cleaning services are designed to meet all your cleaning needs. Our team of
-                professional cleaners meticulously ensures every inch of your home sparkles.
+                Our detail cleaning service includes a variety of jobs: kitchen deep cleaning, bathroom deep cleaning, steam carpet cleaning, and cleaning of areas that are touched frequently but overlooked during regular cleaning (door knobs and electric switches). We perform all these tasks using green products that are safe for your health while also ensuring a high standard of cleanliness and freshness.
             </p>
             <h2>
-                Deep Cleaning House and Home Deep Cleaning Services
+                Benefits of our apartment deep clean services
             </h2>
             <p>
-                We understand the importance of a clean, comfortable home. Our home deep cleaning services are thorough,
-                ensuring not just surface cleanliness, but also a deep-down, comprehensive clean. With our services, we
-                transform your home into a neat, organized space, providing an environment where you can relax and enjoy.
-            </p>
-            <h2>
-                Specialized Cleaning Services
-
-            </h2>
-            <p>
-                We specialize in offering kitchen deep cleaning services, bathroom deep cleaning services, and deep steam
-                carpet cleaning. Our cleaning techniques and non-toxic, eco-friendly products ensure your kitchen, bathroom,
-                and carpets are immaculate, safe, and hygienic.
-            </p>
-            <h2>
-                Deep Cleaning Services for Offices and Commercial Spaces
-            </h2>
-            <p>
-                We understand the importance of a clean workspace in boosting productivity. Our office deep cleaning
-                services create a clean, tidy, and welcoming environment in your office or commercial space. With our
-                specialized cleaning approach, we ensure your workplace is conducive to productivity and success.
-            </p>
-            <h2>
-                Affordable Deep Cleaning Cost Per Hour
-            </h2>
-            <p>
-                At Maidbrite Cleaning Services , we believe in providing value for money. Our deep cleaning cost per hour is
-                competitively priced to ensure high-quality services that fit your budget.
-            </p>
-            <h2>
-                Same Day Cleaning and Emergency Cleaning Services
-            </h2>
-            <p>
-                We understand that emergencies can arise unexpectedly. This is why we offer same day cleaning services and
-                emergency cleaning services. Our professional cleaners are prepared to handle any cleaning emergency
-                promptly and efficiently.
-
-            </p>
-            <h2>
-                Move In Deep Cleaning Service and Apartment Deep Cleaning Services
-            </h2>
-            <p>
-                Moving into a new place or looking for apartment deep cleaning services? Maidbrite Cleaning Services  has you
-                covered! Our move in deep cleaning service ensures your new home is spotless and ready for you to settle in
-                comfortably.
-            </p>
-            <p>
-                From us at Maidbrite Cleaning Services , we assure you of unmatched deep cleaning services near you. Experience
-                a truly clean environment today!
+                Deep cleaning or detail cleaning services is a thorough cleaning that eliminates all visible dirt as well as a large percentage of bacteria and germs. This type of cleaning is recommended for commonly touched surfaces as well as less frequently used areas like bookcases. Why call to this service provided by professional cleaners when your place looks clean, anyway? Here are the top reasons:
             </p>
 
+            <h3>
+                Also available for offices and commercial spaces
+            </h3>
+            <p>
+                One of the most effective ways of boosting productivity at the workplace is looking for “declutter services near me” and calling them to clean the spot. When you work in a clean and organized environment, your brain is not busy trying to make a sense of all the mess. As a result, you will find it easier to concentrate on your tasks.
+            </p>
+            <h3>
+                Competitive prices
+            </h3>
+            <p>
+                “How much does deep cleaning cost?” is a common question among our customers. At MaidBrite Cleaners you can rest assured that you will get the best value for money. Deep cleaning is an investment in your home or workspace as it extends the lifespan of your physical assets and helps to preserve your health.
+            </p>
+            <h3>
+                Emergency services
+            </h3>
+            <p>
+                Same day cleaning services are vital whenever you are dealing with the aftermath of a flood or another incident in your home. We all know that the sooner you clean, the less damage you will have to deal with. Our same day house cleaners will help you mitigate the negative effects of any event that has caused mess at your place.
+            </p>
+            <h3>
+                Move in deep cleaning services
+            </h3>
+            <p>
+                Who doesn’t like a spotless new home where they can make new memories? The truth is that moving out is a stressful time and you will be exhausted cleaning the old place, packing and unpacking your belongings, and making sure the new home is sanitized and safe. There is no need to type “move in cleaning services near me” on your phone, as MaidBrite Cleaners can help with the deep cleaning needed when moving places, too. Contact us today and secure your excellent and affordable deep cleaning services!
+            </p>
         </div>
 
     </section>
