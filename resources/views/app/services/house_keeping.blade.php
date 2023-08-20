@@ -113,7 +113,7 @@
         <div class="container py-5 main-content-section text-lightgray">
 
             <h1 class="text-center text-green fs-1 py-5">HOUSE KEEPING</h1>
-            <p>Housekeeping services near me” is one of the most common searches online. If you too are looking for a housekeeper or a reliable home cleaning company with a team of trained and experienced maids, MaidBrite Cleaners is the best choice. We can adjust to your schedule and are able to provide full service to almost any area in NYC. All you need is to simply give us a phone call or contact us via our online form and tell us how we can help.</p>
+            <p>"Housekeeping services near me” is one of the most common searches online. If you too are looking for a housekeeper or a reliable home cleaning company with a team of trained and experienced maids, MaidBrite Cleaners is the best choice. We can adjust to your schedule and are able to provide full service to almost any area in NYC. All you need is to simply give us a phone call or contact us via our online form and tell us how we can help.</p>
             <h2>Why housekeeping is vital for your comfort peace of mind</h2>
             <p>Cleaning your home regularly is very important for various reasons. What is housekeeping and why are care cleaning services necessary? Here’s what you should know about our services:</p>
             <h3>A clean home increases productivity and enables you to sleep well</h3>
