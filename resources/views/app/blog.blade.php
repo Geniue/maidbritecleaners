@@ -78,7 +78,7 @@
                                             data-src="{{ Storage::disk('public')->url(explode('.', $bl->image)[0].'_thumb.'.explode('.', $bl->image)[1]) }}" /></a>
                                     <div class="lptw-post-header abc-110">
                                         <span class="text-ellipsis-3">
-                                            <a href="{{route('blog', $bl->slug)}}"
+                                            <a href="{{route('blog01', $bl->slug)}}"
                                                 class="lptw-header-link w-100">{{$bl->summary}}</a>
                                         </span>
                                         {{$bl->created_at->diffForHumans()}}
