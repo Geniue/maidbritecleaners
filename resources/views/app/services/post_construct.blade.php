@@ -4,30 +4,30 @@
 @endsection
 
 @section('schema')
-    <script type="application/ld+json">
+    {{-- <script type="application/ld+json">
         {!! file_get_contents('post-construct-faqs.json') !!}
-    </script>
+    </script> --}}
 @endsection
 
 @section('meta')
     <meta name="title" content="Post Construction Cleaning  | Maidbrite Cleaning Services ">
     <meta name="description"
-        content="Experience the Maidbrite Cleaning Services  difference with our post construction cleaning services. Offering comprehensive and detailed cleaning solutions at competitive rates, we ensure your new or renovated space is spotless and ready to enjoy. From construction site clean up to post renovation cleaning, trust us for all your construction cleaning needs.">
+        content="Looking for reliable post-construction cleaning services? MaidBrite specializes in construction clean up, post renovation cleaning, and more. Fully insured and eco-friendly, we're the trusted choice for construction cleanup service near you!">
     <meta name="keywords"
-        content="post construction cleaning, construction cleaning services, post renovation cleaning, construction clean up, after builders cleaning, post construction cleaning rates, after construction cleaning, construction cleanup service near me, cleaning after renovation, construction site cleaning, new construction cleaning, post construction cleaning services, construction clean up services, construction cleanup service, after construction cleaning, new construction cleaning services, post construction clean up, construction cleanup service near me, post renovation cleaning, construction cleaning services near me, construction cleaning company, house cleaning after construction">
+        content="post-construction cleaning services, construction cleaning services, post renovation cleaning, construction clean up, construction cleanup service near me, post-construction cleaning rates, after construction cleaning, new construction cleaning services, construction site clean up, construction cleaning services near me, construction clean up pricing, construction cleaning company, post construction cleaning near me, construction cleaning, after builders cleaning, cleaning after renovation, construction site cleaning, new construction cleaning, post construction clean up, construction cleaning services near me, post-construction cleaning services near me, commercial construction cleaning, how to clean construction dust, house cleaning after construction, 3 phases of post-construction cleaning, new construction home cleaning, construction cleaning companies, post-construction cleanup, post-construction cleaning service, construction cleanup services, new construction cleaning service, cleaning after construction, post renovation cleaning services, post construction cleaning checklist, construction cleanup, construction clean up services">
     <link rel="canonical" href="{{ url()->current() }}">
 
     <meta property="og:site_name" content="Maidbrite Cleaning Services ">
     <meta property="og:title" content="Post Construction Cleaning | Maidbrite Cleaning Services ">
     <meta property="og:description"
-        content="Experience the Maidbrite Cleaning Services  difference with our post construction cleaning services. Offering comprehensive and detailed cleaning solutions at competitive rates, we ensure your new or renovated space is spotless and ready to enjoy. From construction site clean up to post renovation cleaning, trust us for all your construction cleaning needs.">
+        content="Looking for reliable post-construction cleaning services? MaidBrite specializes in construction clean up, post renovation cleaning, and more. Fully insured and eco-friendly, we're the trusted choice for construction cleanup service near you!">
     <meta property="og:url" content="{{ url()->current() }}">
     <meta property="og:type" content="website">
     <meta property="og:image" content="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Post-construction-cleaning-post-construction-cleaning-near-me.jpg') }}">
     <meta property="fb:admins" content="admin">
     <meta name="twitter:title" content="Maidbrite Cleaning Services  House and Commercial Cleaning in NYC  | Maidbrite Cleaning Services  ">
     <meta name="twitter:description"
-        content="Experience the Maidbrite Cleaning Services  difference with our post construction cleaning services. Offering comprehensive and detailed cleaning solutions at competitive rates, we ensure your new or renovated space is spotless and ready to enjoy. From construction site clean up to post renovation cleaning, trust us for all your construction cleaning needs.">
+        content="Looking for reliable post-construction cleaning services? MaidBrite specializes in construction clean up, post renovation cleaning, and more. Fully insured and eco-friendly, we're the trusted choice for construction cleanup service near you!">
     <meta name="twitter:image" content="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Post-construction-cleaning-post-construction-cleaning-near-me.jpg') }}">
     <meta name="twitter:url" content="{{ url()->current() }}">
     <meta name="twitter:card" content="summary">
@@ -53,7 +53,21 @@
     <meta name="revisit-after" content="3">
     <meta name="subject" content="Blog">
 @endsection
+@section('css')
+<style>
+@media (min-width: 1000px) {
+    .main-content-section ul{
+      padding-left: 20rem;
+      padding-right: 18rem;
+    }
 
+    .main-content-section ul {
+      font-family: "latobold" !important;
+      font-size: 1rem;
+    }
+}
+</style>
+@endsection
 @section('content')
     <!-- main section -->
     <main class="position-relative">
@@ -88,79 +102,61 @@
     <!-- main content section  -->
     <section id="main-content-cleaning" class="py-7 main-content-cleaning-service">
         <div class="container py-5 main-content-section text-lightgray">
-            <h1 class="text-center text-green fs-1 py-5">POST CONSTRUCTION CLEANING</h1>
+            <h1 class="text-center text-green fs-1 py-5">Post-Construction Cleaning</h1>
+            <p><strong>After the hammering, drilling, and painting are all wrapped up, you're left with a beautiful new space. But there's one more crucial step to complete your project: the post construction cleaning. We get it, after all the hard work of construction, the last thing you want to do is clean. That's where we come in with our specialized construction cleaning services!</strong></p>
 
-            <h2>
-                Introduction to Maidbrite Cleaning Services  Post Construction Cleaning Services
-            </h2>
-            <p>
-                At Maidbrite Cleaning Services , we take pride in offering top-notch post construction cleaning services, turning any newly
-                built or renovated space into a clean and welcoming environment. We understand the importance of the details
-                and we're committed to leaving no stone unturned in our quest to provide you with a dust-free and
-                ready-to-use property.
-            </p>
-            <h2>
-                Experience the Difference with our Construction Cleaning Services
-            </h2>
-            <p>
-                Our comprehensive construction cleaning services are designed to meet the unique needs of each construction
-                site. We take an exhaustive approach to clean every corner of your property, making sure the only thing you
-                need to worry about is enjoying your new or renovated space. We provide a swift construction clean up,
-                taking care of all the debris, dust, and residues that can linger after construction work.
-            </p>
-            <h2>
-                Post Renovation Cleaning - The Maidbrite Cleaning Services ' Way
-            </h2>
-            <p>
-                We don't just specialize in new builds; our post renovation cleaning services are also a key part of what we
-                do. We understand that renovations can leave behind a lot of mess and we are here to take care of it. With
-                our post renovation cleaning services, we ensure your newly transformed space is pristine and ready for you
-                to enjoy immediately.
-            </p>
-            <h2>
-                After Builders Cleaning - Unmatched Excellence
-            </h2>
-            <p>
-                Maidbrite Cleaning Services ' after builders cleaning is another service we proudly offer. We understand that once the
-                builders leave, you want to enjoy your new space as soon as possible. Our trained and dedicated team takes
-                the stress away by meticulously removing all leftover dust, debris, and residues.
-            </p>
-            <h2>
-                Transparent Post Construction Cleaning Rates
-            </h2>
-            <p>
-                We believe that our clients deserve the best value for their investment. That's why we offer competitive
-                post construction cleaning rates, ensuring our clients receive the highest quality service without breaking
-                the bank. We maintain a transparent pricing structure, offering affordable construction clean up pricing
-                without compromising on service quality.
 
+            <p class="fs-3"><strong>Why Choose MaidBrite for Post-Construction Cleaning Services?</strong></p>
+            <p> 
+                <ul>
+                    <li><strong>Expert Staff</strong>: Our trained team specializes in post renovation cleaning and knows how to handle all types of surfaces and materials found in new builds or renovations.</li>
+                    <li><strong>Tailored Solutions</strong>: Whether you need construction clean up or after builders cleaning, we offer customized services to meet your specific needs.</li>
+                    <li><strong>Eco-Friendly</strong>: Our construction cleaning approach is green, using eco-friendly products that are tough on dirt but gentle on the environment.</li>
+                    <li><strong>Fully Insured</strong>: We provide added peace of mind with insurance, especially essential for construction cleanup services.</li>
+                </ul>
             </p>
-            <h2>
-                Top-tier Construction Cleanup Service Near You
-            </h2>
-            <p>
-                Are you looking for a reliable construction cleanup service near me? Look no further than Maidbrite Cleaning Services . Our
-                teams are conveniently located and ready to provide prompt and efficient services in your locality. Whether
-                it's a large commercial project or a residential renovation, we have you covered.
-            </p>
-            <h2>
-                A Leading Construction Cleaning Company
-            </h2>
-            <p>
-                At Maidbrite Cleaning Services , we have earned a reputation as a leading construction cleaning company. Our commitment to
-                excellence, matched with our experience and knowledge of post construction cleaning, sets us apart from our
-                competitors. We are dedicated to ensuring complete client satisfaction, making us the go-to construction
-                cleaning services provider in your area.
-            </p>
-            <h2>
-                Conclusion
 
-            </h2>
+
+            <p class="fs-3"><strong>Our Comprehensive Post-Construction Cleaning Checklist</strong></p>
+            <p> 
+                <strong>Interior Cleaning</strong>
+                <ul>
+                    <li><strong>Dusting and Wiping</strong>: We remove dust from fixtures, ceiling fans, and air ducts to give you the clean slate you deserve after a renovation.</li>
+                    <li><strong>Floor Cleaning</strong>: Special attention is given to cleaning after renovation with suitable methods for hardwood, tile, or carpet.</li>
+                    <li><strong>Windows</strong>: Your windows will sparkle, including sills, ledges, and frames—perfect for construction site cleaning.</li>
+                    <li><strong>Kitchen and Bathrooms</strong>: We'll sanitize all surfaces, including the often-overlooked spots in your new or renovated spaces.</li>
+                </ul>
+            </p>
             <p>
-                Maidbrite Cleaning Services  is your trusted partner for all your post construction cleaning needs. From initial construction
-                site cleaning to detailed post construction cleanup, we provide a comprehensive suite of services designed
-                to make your life easier. Choose Maidbrite Cleaning Services  for a sparkling clean, dust-free, and inviting space that you
-                can be proud of.
+                <strong>Exterior Cleaning</strong>
+                <ul>
+                    <li><strong>Debris Removal</strong>: Our new construction cleaning services include responsibly removing all leftover construction debris.</li>
+                    <li><strong>Pressure Washing</strong>: Our high-powered wash is perfect for construction site clean up.</li>
+                    <li><strong>Gutter Cleaning</strong>: Part of our post-construction clean up package to ensure your gutters are free from construction waste.</li>
+                </ul>
+            </p>
+
+
+            <p class="fs-3"><strong>The MaidBrite Process</strong></p>
+            <p> 
+                <ul>
+                    <li><strong>Consultation</strong>: We offer a walk-through service, particularly beneficial for those who are searching for post-construction cleaning near me.</li>
+                    <li><strong>Custom Quote</strong>: We'll provide you with a tailored post renovation cleaning services plan and transparent pricing.</li>
+                    <li><strong>Scheduling</strong>: Our construction cleaning services near me are available around the clock to fit into your tight schedule.</li>
+                    <li><strong>The Big Clean</strong>: Our expert team will arrive on time for your after construction cleaning.</li>
+                    <li><strong>Final Walk-Through</strong>: We guarantee you'll be 100% satisfied with our new construction cleaning efforts.</li>
+                </ul>
+            </p>
+
+
+            <p class="fs-3"><strong>Pricing and Packages</strong></p>
+            <p> 
+                We believe in fair and transparent pricing. Whether you are looking for "post-construction cleaning services near me" or a commercial construction cleaning company, our rates are competitive. Specifically, our post-construction cleaning rates are designed to provide value for the level of service we offer. To understand our construction clean-up pricing, contact us today for a free quote.
+            </p>
+
+            <p class="fs-3"><strong>Ready to Transform Your Space?</strong></p>
+            <p> 
+                Don’t let post-construction cleanup stress you out. Whether you need new construction home cleaning or construction cleaning companies for a larger commercial project, MaidBrite has you covered. Contact us today for your commercial or house cleaning after construction and step into a cleaner, brighter tomorrow!
             </p>
         </div>
 
@@ -236,7 +232,7 @@
     @include('app.static_components.callback_form_submit')
 
     {{-- faqs --}}
-    @include('app.static_components.faq-section')
+    {{-- @include('app.static_components.faq-section') --}}
 
     @include('app.static_components.callus_banner')
 @endsection

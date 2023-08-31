@@ -133,10 +133,7 @@
                                     Post Construction Cleaning
                                 </h3>
                                 <p class="paragraph text-lightgray text-ellipsis-3">
-                                    we take pride in offering top-notch post construction cleaning services, turning any newly
-                                    built or renovated space into a clean and welcoming environment. We understand the importance of the details
-                                    and we're committed to leaving no stone unturned in our quest to provide you with a dust-free and
-                                    ready-to-use property.
+                                    MaidBrite Cleaning Services offers comprehensive post-construction cleaning services to make your newly built or renovated space spotless and move-in ready. Whether it's interior cleaning, exterior cleaning, or specialized services, we've got you covered. Our expert staff is trained in post renovation cleaning, construction clean up, and construction site cleaning. We offer tailored solutions with competitive post-construction cleaning rates, making us a leading construction cleaning company in your area. Fully insured and eco-friendly, MaidBrite is your go-to for all things related to cleaning after construction.
                                 </p>
                             </a>
                         </div>
@@ -244,9 +241,8 @@
                                     Maid Cleaning
                                 </h3>
                                 <p class="paragraph text-lightgray text-ellipsis-3">
-                                    We all have busy lives in NYC and the last thing we want to do when we come home from a hard day's
-                                    work is clean! Cleaning can be time consuming and we have more important things on our minds. Hire
-                                    MaidBrite maid cleaning servides to take care of your housekeeping needs.
+                                    Welcome to MaidBrite, your ultimate choice for maid cleaning services that span from regular cleaning to specialized tasks like apartment cleaning services and move-in/move-out cleaning. Our professional team, background-checked for your safety, excels in deep house cleaning using eco-friendly products. With flexible scheduling, competitive pricing, and a 100% satisfaction guarantee, MaidBrite stands out as the maid cleaning service near me you can fully trust. Whether you need a professional house cleaning or are in search of house cleaners near me, we offer an array of options to meet your specific needs.
+
                                 </p>
                             </a>
                         </div>
@@ -262,10 +258,7 @@
                                     Residential Cleaning
                                 </h3>
                                 <p class="paragraph text-lightgray text-ellipsis-3">
-                                    Our residential house cleaning services provide thorough,
-                top-to-bottom cleaning, ensuring every corner of your home sparkles. Whether you require a one-time house
-                cleaning services or regular maintenance, our teams are fully equipped and ready to provide professional
-                cleaning services residential customers will love.
+                                    MaidBrite Cleaning Services is your ultimate destination for high-quality residential cleaning services. Whether you're searching for "residential cleaning services near me," interested in residential deep cleaning, or in need of specialized residential house cleaning services, we've got you covered. With a focus on customer satisfaction and safety, our vetted and trained staff provide a variety of services including residential home cleaning, one-time deep cleans, and even move-in house cleaning services. Check out our house cleaning reviews and book an appointment to experience the MaidBrite difference today!
                                 </p>
                             </a>
                         </div>

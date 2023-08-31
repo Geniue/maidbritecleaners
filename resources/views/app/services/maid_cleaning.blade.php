@@ -12,22 +12,22 @@
 @section('meta')
     <meta name="title" content="Move Out Cleaning  | Maidbrite Cleaning Services ">
     <meta name="description"
-        content="Looking for professional move out cleaning services? Maidbrite Cleaning Services  provides expert and affordable solutions to make your move stress-free. Our skilled cleaners offer comprehensive services tailored to your needs, leaving your previous home spotless and ready for the next occupants. Contact us today for a seamless transition to your new chapter.">
+        content="Looking for a reliable maid cleaning service near me? MaidBrite offers top-notch house cleaning services, deep cleaning maid service, and move out cleaning service to keep your home spotless. Flexible scheduling and affordable cleaning services available.">
     <meta name="keywords"
-        content="move out cleaning services, move out cleaners near me, move out cleaning near me, moving out cleaning service, move out cleaning cost, move out cleaning services near me, move out house cleaning services near me, moving out cleaning services, move out cleaning prices, professional move out cleaning, move out cleaning service near me, move out house cleaning services, move out services, average cost of move out cleaning, apartment move out cleaning, move out cleaning services cost, how much does move out cleaning cost, how long does a move out cleaning take, move out cleaning rates, apartment move out cleaning cost, move out deep cleaning, best move out cleaning service, move out cleaning services prices">
+        content="maid cleaning service, maid cleaning service near me, cleaning maid service, house cleaning services, deep cleaning maid service, house deep cleaning service, apartment cleaning services, home cleaners service, deep house cleaning, move out cleaning service, move in cleaning, moving cleaning service, deep clean service, residential cleaning services near me, house cleaners near me, housekeeper near me, home cleaners near me, professional house cleaning, private house cleaners near me, house keeping services near me, one time cleaning service, local house cleaning services, best house cleaning services near me, weekly house cleaning cost, affordable cleaning services, and home deep cleaning services">
     <link rel="canonical" href="{{ url()->current() }}">
 
     <meta property="og:site_name" content="Maidbrite Cleaning Services ">
     <meta property="og:title" content="Move Out Cleaning  | Maidbrite Cleaning Services ">
     <meta property="og:description"
-        content="Looking for professional move out cleaning services? Maidbrite Cleaning Services  provides expert and affordable solutions to make your move stress-free. Our skilled cleaners offer comprehensive services tailored to your needs, leaving your previous home spotless and ready for the next occupants. Contact us today for a seamless transition to your new chapter.">
+        content="Looking for a reliable maid cleaning service near me? MaidBrite offers top-notch house cleaning services, deep cleaning maid service, and move out cleaning service to keep your home spotless. Flexible scheduling and affordable cleaning services available.">
     <meta property="og:url" content="{{ url()->current() }}">
     <meta property="og:type" content="website">
     <meta property="og:image" content="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Maid-Cleaning-maid-cleaning-near-me.jpg') }}">
     <meta property="fb:admins" content="admin">
     <meta name="twitter:title" content="Maidbrite Cleaning Services  House and Commercial Cleaning in NYC  | Maidbrite Cleaning Services  ">
     <meta name="twitter:description"
-        content="Looking for professional move out cleaning services? Maidbrite Cleaning Services  provides expert and affordable solutions to make your move stress-free. Our skilled cleaners offer comprehensive services tailored to your needs, leaving your previous home spotless and ready for the next occupants. Contact us today for a seamless transition to your new chapter.">
+        content="Looking for a reliable maid cleaning service near me? MaidBrite offers top-notch house cleaning services, deep cleaning maid service, and move out cleaning service to keep your home spotless. Flexible scheduling and affordable cleaning services available.">
     <meta name="twitter:image" content="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Maid-Cleaning-maid-cleaning-near-me.jpg') }}">
     <meta name="twitter:url" content="{{ url()->current() }}">
     <meta name="twitter:card" content="summary">
@@ -53,7 +53,20 @@
     <meta name="revisit-after" content="3">
     <meta name="subject" content="Blog">
 @endsection
-
+@section('css')
+<style>
+@media (min-width: 1000px) {
+    .main-content-section ul{
+      padding-left: 20rem;
+      padding-right: 18rem;
+    }
+    .main-content-section ul {
+      font-family: "latobold" !important;
+      font-size: 1rem;
+    }
+}
+</style>
+@endsection
 @section('content')
     <!-- main section -->
     <main class="position-relative">
@@ -87,39 +100,39 @@
     <section id="main-content-cleaning" class="py-7 main-content-cleaning-service">
         <div class="container py-5 main-content-section text-lightgray">
 
-            <h1 class="text-center text-green fs-1 py-5">MAID CLEANING</h1>
+            <h1 class="text-center text-green fs-1 py-5">Maid Cleaning Service</h1>
 
 
             <p><strong>
-                    We all have busy lives in NYC and the last thing we want to do when we come home from a hard day's
-                    work is clean! Cleaning can be time consuming and we have more important things on our minds. Hire
-                    MaidBrite  maid cleaning servides to take care of your housekeeping needs. From deep cleans to
-                    periodic freshenings, we have all the options you are looking for!
+                    We understand that your home is your sanctuary, a place where you unwind and make cherished memories with your family. In today's fast-paced world, finding a reliable maid cleaning service near you can be a challenge. That's where we come in. We are your go-to maid cleaning service, designed to make your life easier and your home impeccably clean.
                 </strong></p>
-            <p class="fs-3"><a href="{{ route('house_cleaning') }}"><strong>House Cleaning Services</strong></a></p>
-            <p>In order to be productive, we need our surroundings clean and hygienic. Our house cleaning services
-                provide your this service without you lifting a finger! We clean thoroughly all surfaces, from the
-                kitchen to the bedroom to the bathroom so you can feel clean and refresehd in your new space. We also
-                use only green and non-toxic products in our cleaning so no harsh fragrances that will bother you for
-                hours after we leave.</p>
-            <p class="fs-3"><a href="{{ route('apart_cleaning') }}"><strong>Apartment Cleaning Services</strong></a></p>
-            <p>Our apartment is our life. We work in it, play it in, have movie nights in it, and more! Over time, it
-                can get messy and do we want to spend our precious time cleaning it? Hire MaidBrite's maid services
-                to perform apartment cleanign at your home! We do everything from deep cleanign to regular cleaning so
-                whatever need you hae, we can accommodate you! </p>
-            <p class="fs-3"><a href="{{ route('deep_cleaning') }}"><strong>Deep Cleaning Services</strong></a></p>
-            <p>With all the people and pets going in and out of our apartments and houses, they can get pretty dirty.
-                Grime, oil, dust, and more eventually builds up in all the nooks and crannies throughout your home. As
-                part of our maid services, we offer deep cleaning where we inspect and clean all parts of your home.
-                After our work, it will feel like you are walking into a completely new refreshing space! From caked
-                dirty ovens, to stinky bathrooms, to damaged hardwood floors, we can clean it all! </p>
-            <p class="fs-3"><a href="{{ route('res_cleaning') }}"><strong>Residential Cleaning Services</strong></a></p>
-            <p>As part of our maid services, we offer a variety of residential cleaning services to th residents of NYC.
-                Whether you live in an apartment, house, or townhouse, we have the cleaning services you need. OUr maid
-                cleaning services offer residential cleaning so if you need just your kitchen cleaned, your garage, or
-                your whole house, one of our proessional maids, using only non-toxic products will come and transform
-                your space!</p>
+            <p class="fs-3"><strong>Services We Offer</strong></p>
+            <p>
+                Our services are as diverse as the needs of our clients. Whether it’s house deep cleaning service, one-time deep cleaning, ongoing weekly or monthly service, or specialized cleaning tasks like apartment cleaning services, we've got you covered. Here are some of the services we offer: 
+                <ul>
+                    <li><strong>Regular Cleaning</strong>: Regular dusting, vacuuming, and mopping are the cornerstones of this service. This is home cleaners service at its finest. Bathrooms, kitchens, living rooms, and bedrooms will all get our meticulous attention. No surface goes uncleaned!</li>
+                    <li><strong>Deep Cleaning</strong>: Our deep cleaning maid service goes beyond the surface to clean those often-overlooked areas. Think baseboards, door frames, light fixtures, and even that awkward space behind the toilet. This is deep house cleaning at its best.</li>
+                    <li><strong>Move-In/Move-Out Cleaning</strong>: Moving is stressful enough without having to worry about cleaning. Our move out cleaning service ensures your old home is spotless for the next occupants, while our move in cleaning makes your new space welcoming.</li>
 
+                    <li><strong>Specialized Cleaning</strong>: Need your oven cleaned or your carpets shampooed? We offer moving cleaning service, deep clean service, and more to address those difficult-to-clean areas.</li>
+
+                    <li><strong>Environmentally Friendly Cleaning</strong>: We offer residential cleaning services near you that are eco-friendly. Our non-toxic cleaning supplies are safe for your family and pets.</li>
+
+                    <li><strong>Flexible Scheduling and Easy Booking</strong>: Looking for house cleaners near me or a housekeeper near me? Our local house cleaning services offer flexible scheduling options, including weekends and evenings. You can easily book us through our website, phone, or app.</li>
+                </ul>
+            </p>
+
+            <p class="fs-3"><strong>Why Choose MaidBrite?</strong></p>
+            <p>
+                <ul>
+                    <li><strong>Quality You Can See and Feel</strong>: We offer the best house cleaning services with exceptional quality.</li>
+                    <li><strong>Trained and Professional Staff</strong>: Our home cleaners undergo intensive training, covering cleaning techniques, customer service, and safety protocols.</li>
+                    <li><strong>Competitive Pricing</strong>: Our affordable cleaning services come with transparent pricing and no hidden fees.</li>
+                </ul>
+            </p>
+            <p class="fs-3"><strong>Contact Us</strong></p>
+            <p>Ready for a professional house cleaning or perhaps looking for private house cleaners near me? Maybe you need house keeping services near me or one time cleaning service? Get in touch with us for a free consultation. Our weekly house cleaning cost packages are designed to suit different budgets and needs.</p>
+            <p>The MaidBrite promise is not just about maid cleaning services; it's about enhancing your quality of life. Experience our home deep cleaning services and see for yourself. We look forward to serving you soon!</p>
 
         </div>
     </section>

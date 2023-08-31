@@ -4,30 +4,30 @@
 @endsection
 
 @section('schema')
-    <script type="application/ld+json">
+    {{-- <script type="application/ld+json">
         {!! file_get_contents('res-faqs.json') !!}
-    </script>
+    </script> --}}
 @endsection
 
 @section('meta')
     <meta name="title" content="Residential Cleaning  | Maidbrite Cleaning Services ">
     <meta name="description"
-        content="Discover our comprehensive residential cleaning services that cater to your home's every need, from deep cleaning to sanitization. Offering a blend of convenience, professionalism, and quality, we are the residential cleaning company you can trust for a spotlessly clean and comfortable home.">
+        content="Looking for top-notch residential cleaning services near you? MaidBrite offers a comprehensive range of residential cleaning options, from general house cleaning to specialized deep cleaning services. Discover the difference of professional residential cleaning services today!">
     <meta name="keywords"
-        content=" residential cleaning services, residential house cleaning services, professional residential cleaning services, residential cleaners near me, residential cleaning company, residential deep cleaning services, residential home cleaning services near me, residential exterior cleaning, professional cleaning services residential, residential cleaning companies near me, residential cleaning business, residential home cleaning,high end house cleaning services, one-time house cleaning services, residential oven cleaning service, residential disinfection services, residential sanitizing services near me, house cleaning reviews, residential cleaning services description, cleaning services near me residential">
+        content="residential cleaning services, residential cleaning services near me, residential cleaning, residential house cleaning services, residential house cleaning services near me, residential house cleaning, residential deep cleaning services, residential cleaners near me, residential cleaning company, residential deep cleaning services near me, professional residential cleaning services, residential home cleaning, residential home cleaning services, residential floor cleaning services near me, cleaning services near me residential, residential cleaning companies near me, residential exterior cleaning, professional cleaning services residential, residential cleaning business, residential home cleaning services near me, move in house cleaning services, what is residential cleaning, house cleaning reviews, residential cleaning meaning, one time house cleaning services, residential cleaner, residential disinfection services, residential cleaning description, house cleaning services reviews, residential oven cleaning service, residential cleaning services description, clean residential services, high end house cleaning services, residential sanitizing services, residential oven cleaning service near me, residential sanitizing services near me, house cleaning services near me hiring, top residential cleaning companies, house cleaning and sanitizing services near me, individual house cleaning">
     <link rel="canonical" href="{{ url()->current() }}">
 
     <meta property="og:site_name" content="Maidbrite Cleaning Services ">
     <meta property="og:title" content="Residential Cleaning  | Maidbrite Cleaning Services ">
     <meta property="og:description"
-        content="Discover our comprehensive residential cleaning services that cater to your home's every need, from deep cleaning to sanitization. Offering a blend of convenience, professionalism, and quality, we are the residential cleaning company you can trust for a spotlessly clean and comfortable home.">
+        content="Looking for top-notch residential cleaning services near you? MaidBrite offers a comprehensive range of residential cleaning options, from general house cleaning to specialized deep cleaning services. Discover the difference of professional residential cleaning services today!">
     <meta property="og:url" content="{{ url()->current() }}">
     <meta property="og:type" content="website">
     <meta property="og:image" content="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Residential-Cleaning--one-time-house-cleaning-services-near-me.jpg') }}">
     <meta property="fb:admins" content="admin">
     <meta name="twitter:title" content="Maidbrite Cleaning Services  House and Commercial Cleaning in NYC  | Maidbrite Cleaning Services  ">
     <meta name="twitter:description"
-        content="Discover our comprehensive residential cleaning services that cater to your home's every need, from deep cleaning to sanitization. Offering a blend of convenience, professionalism, and quality, we are the residential cleaning company you can trust for a spotlessly clean and comfortable home.">
+        content="Looking for top-notch residential cleaning services near you? MaidBrite offers a comprehensive range of residential cleaning options, from general house cleaning to specialized deep cleaning services. Discover the difference of professional residential cleaning services today!">
     <meta name="twitter:image" content="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Residential-Cleaning--one-time-house-cleaning-services-near-me.jpg') }}">
     <meta name="twitter:url" content="{{ url()->current() }}">
     <meta name="twitter:card" content="summary">
@@ -54,6 +54,21 @@
     <meta name="subject" content="Blog">
 @endsection
 
+@section('css')
+<style>
+@media (min-width: 1000px) {
+    .main-content-section ul{
+      padding-left: 20rem;
+      padding-right: 18rem;
+    }
+
+    .main-content-section ul {
+      font-family: "latobold" !important;
+      font-size: 1rem;
+    }
+}
+</style>
+@endsection
 
 @section('content')
     <!-- main section -->
@@ -89,67 +104,73 @@
     <!-- main content section  -->
     <section id="main-content-cleaning" class="py-7 main-content-cleaning-service">
         <div class="container py-5 main-content-section text-lightgray">
-            <h1 class="text-center text-green fs-1 py-5">Residential Cleaning
+            <h1 class="text-center text-green fs-1 py-5">Residential Cleaning Services
             </h1>
-            <h2><strong>Welcome to our Residential Cleaning Services</strong></h2>
 
-            <p>Your home is your sanctuary, your retreat and a reflection of your lifestyle. Our professional residential
-                cleaning services are designed to keep it looking its best. We pride ourselves on our dedicated staff, our
-                high end house cleaning services, and our ability to offer a residential cleaning company that can take care
-                of all your home needs.</p>
-            <h2><strong>Quality Residential House Cleaning Services
-                </strong></h2>
-            </p>
-            <p>It’s often said that a clean home is a happy home. Our residential house cleaning services provide thorough,
-                top-to-bottom cleaning, ensuring every corner of your home sparkles. Whether you require a one-time house
-                cleaning services or regular maintenance, our teams are fully equipped and ready to provide professional
-                cleaning services residential customers will love. </p>
-            <h2><strong>Professional Residential Cleaning Services
-                </strong></h2>
-            </p>
-            <p>With our professional residential cleaning services, you get more than just a clean house. Our residential
-                cleaners near me are trained professionals who provide personalized attention and meticulous care. Our
-                commitment to delivering superior results is what sets us apart from other residential cleaning companies
-                near me.
-            </p>
-            <h2><strong>Comprehensive Residential Home Cleaning Services
-                </strong></h2>
-            </p>
-            <p>From residential deep cleaning services to basic tidying, we've got it covered. Our residential home cleaning
-                services near me cater to every corner of your house. That includes offering a unique residential oven
-                cleaning service, ensuring your kitchen is in top-notch condition.</p>
-            <h2><strong>Residential Exterior Cleaning
+            <p><strong>We MaidBrite Cleaning Services are your  trusted source for top-notch residential cleaning services. We get it, searching for “residential cleaning services near me” can be a tedious task. That's why we're here to put your search to an end. We know your home is more than just four walls; it's a sanctuary, a personal space where you seek comfort, relaxation, and well-being. Here at MaidBrite, we specialize in residential cleaning, ensuring every corner of your space radiates freshness and cleanliness. We offer a wide range of residential house cleaning services designed to transform your living space into a sparkling haven. And the best part? We're one of the best residential house cleaning services near you that you'll find.</strong></p>
+            
 
-                </strong></h2>
+            <p class="fs-3"><strong>Why Choose MaidBrite?</strong></p>
+            <p> 
+                <ul>
+                    <li><strong>Unmatched Quality</strong>: Wondering what is residential cleaning done right? At MaidBrite, we set ourselves apart with our meticulous attention to detail and unyielding commitment to quality. Forget your typical 'in-and-out' services; we offer thorough, exhaustive residential deep cleaning services. Our well-trained, highly skilled cleaning professionals use premium-grade equipment and eco-friendly products to meet your residential cleaning needs.</li>
+                    <li><strong>100% Customer Satisfaction</strong>:You're not just another client to us; you're a valued member of the MaidBrite family. As a leading residential cleaning company, our goal is to understand your specific cleaning needs and preferences. Our professional residential cleaning services come with a 100% Satisfaction Guarantee. If you're not completely satisfied, we'll make it right—no questions asked.</li>
+                    <li><strong>Safety First</strong>: Looking for residential cleaners near me who are trustworthy and reliable? Our staff are all vetted, trained, and insured. With MaidBrite, you're not just getting a residential cleaning business; you're choosing peace of mind.</li>
+                </ul>
             </p>
-            <p>Our residential exterior cleaning services provide the same level of quality and care as our interior
-                services. From power washing to window cleaning, our residential cleaning business ensures the exterior of
-                your home looks as good as the interior.
-            </p>
-            <h2><strong>Specialized Residential Disinfection and Sanitizing Services
 
-                </strong></h2>
+            <p class="fs-3"><strong>Our Range of Services</strong></p>
+            <p> 
+                <strong>General House Cleaning</strong>
+                <ul>
+                    <li>
+                        Dusting, sweeping, and mopping
+                    </li>
+                    <li>Residential home cleaning of appliances, counters, and fixtures</li>
+                    <li>Trash removal and recycling </li>
+                </ul>
             </p>
-            <p>In today’s world, cleanliness goes beyond just removing dust and clutter. It’s about creating a healthier
-                living space. Our residential disinfection services and residential sanitizing services near me offer a
-                detailed cleaning approach that not only cleans your home but also eliminates germs and bacteria, providing
-                a safe environment for you and your family.</p>
-            <h2><strong>Convenience and Reliability
 
-
-                </strong></h2>
+            <p> 
+                <strong>Kitchen Deep Cleaning</strong>
+                <ul>
+                    <li>Degreasing stoves and ovens</li>
+                    <li>Residential home cleaning services for microwaves, refrigerators, and dishwashers</li>
+                    <li>Sanitizing countertops and sinks</li>
+                    <li><strong>Residential floor cleaning services</strong>: yes, we do floors too!</li>
+                </ul>
             </p>
-            <p>Our residential cleaning services near me take the stress out of keeping your home clean. We're committed to
-                ensuring our clients receive the best residential cleaning services, along with an easy and convenient
-                booking process. We invite you to read our house cleaning reviews and check out our residential cleaning
-                services description to get a better sense of what we offer.</p>
+
+            <p> 
+                <strong>Bathroom Bliss</strong>
+                <ul>
+                    <li>
+                        Disinfecting toilets, tubs, and showers
+                    </li>
+                    <li>Residential disinfection services for all your bathroom needs</li>
+                    <li>Mirror and faucet polishing</li>
+                </ul>
+            </p>
+
+            <p> 
+                <strong>Special Services</strong>
+                <ul>
+                    <li>Move in house cleaning services</li>
+                    <li>One time house cleaning services</li>
+                    <li>Residential exterior cleaning</li>
+                    <li>Residential oven cleaning service</li>
+                </ul>
+            </p>
+
             <p>
-                Let our residential cleaning services handle your cleaning needs, while you sit back and enjoy your clean,
-                comfortable home. Choose us for cleaning services near me residential owners can trust. Remember, we're not
-                just cleaning houses; we're taking care of homes.
+                <strong>Custom Plans</strong>
+                <p>Have unique needs or looking for high end house cleaning services? We offer custom plans to fit your lifestyle.</p>
             </p>
-
-
+            <p class="fs-3"><strong>Flexible Scheduling</strong></p>
+            <p>We know life can get busy. That's why we offer residential  cleaning services with flexible scheduling options, whether you're looking for a one-time deep clean or regular maintenance cleaning.</p>
+            <p class="fs-3"><strong>Get Started Today</strong></p>
+            <p>Ready for the MaidBrite difference? Check out our house cleaning reviews and house cleaning services reviews to see what our satisfied customers have to say. And if you're worried about finding residential sanitizing services, fret not—we've got you covered. Our professional cleaning services are designed to exceed your expectations.</p>
+            <p>So what are you waiting for? Contact us now to book your first appointment. We're one of the top residential cleaning companies you'll find. Trust MaidBrite for all your individual house cleaning needs and let us transform your home into the sanctuary you deserve. We look forward to bringing brightness into your life, one clean room at a time!</p>
         </div>
     </section>
 
@@ -257,7 +278,7 @@
     @include('app.static_components.callback_form_submit')
 
     {{-- faqs --}}
-    @include('app.static_components.faq-section')
+    {{-- @include('app.static_components.faq-section') --}}
 
     @include('app.static_components.callus_banner')
 @endsection

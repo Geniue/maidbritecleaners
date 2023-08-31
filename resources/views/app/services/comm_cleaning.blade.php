@@ -15,7 +15,7 @@
     <meta name="description"
         content="Looking for professional move out cleaning services? Maidbrite Cleaning Services  provides expert and affordable solutions to make your move stress-free. Our skilled cleaners offer comprehensive services tailored to your needs, leaving your previous home spotless and ready for the next occupants. Contact us today for a seamless transition to your new chapter.">
     <meta name="keywords"
-        content="move out cleaning services, move out cleaners near me, move out cleaning near me, moving out cleaning service, move out cleaning cost, move out cleaning services near me, move out house cleaning services near me, moving out cleaning services, move out cleaning prices, professional move out cleaning, move out cleaning service near me, move out house cleaning services, move out services, average cost of move out cleaning, apartment move out cleaning, move out cleaning services cost, how much does move out cleaning cost, how long does a move out cleaning take, move out cleaning rates, apartment move out cleaning cost, move out deep cleaning, best move out cleaning service, move out cleaning services prices">
+        content="commercial cleaning, commercial cleaning services, office cleaning, office cleaning services, commercial cleaning services near me, restaurant cleaning services, janitorial cleaning services, medical office cleaning, commercial office cleaning, commercial janitorial services, office cleaning companies">
     <link rel="canonical" href="{{ url()->current() }}">
 
     <meta property="og:site_name" content="Maidbrite Cleaning Services ">
@@ -54,7 +54,20 @@
     <meta name="revisit-after" content="3">
     <meta name="subject" content="Blog">
 @endsection
-
+@section('css')
+<style>
+@media (min-width: 1000px) {
+    .main-content-section ul{
+      padding-left: 20rem;
+      padding-right: 18rem;
+    }
+    .main-content-section ul {
+      font-family: "latobold" !important;
+      font-size: 1rem;
+    }
+}
+</style>
+@endsection
 @section('content')
     <!-- main section -->
     <main class="position-relative">
@@ -93,31 +106,28 @@
 
 
             <p><strong>
-                    Commercial spaces often the get the most abuse. Whether it be customers coming in and out of the
-                    store all day, employees use the office sapce day and night, or a big dusty mess from after a
-                    construction project. Whatever it is, we have your back! Best of all, we only use non-toxic cleaning
-                    products to deep and effectively clean all surfaces so you can be assured that no sensitive employee
-                    or customer will be turned off by our work.
+                    Every commercial space needs professional cleaning. Unlike residential spaces, public areas are more susceptible to dirt and germs accumulation. We know that keeping those areas sanitized is difficult, especially for large spaces like office buildings, fitness centers and shopping malls. This is why MaidBrite Cleaners provides various types of dependable commercial cleaning services, including restaurant cleaning services, medical office cleaning, industrial spaces cleaning and many others.
                 </strong></p>
-            <p><a class="fs-3" href="{{ route('post_construct') }}"><strong>Post-Construction Cleaning</strong></a></p>
-            <p>Construction can be a messay job! Dust and dirt seem to make their way into every crevice after a project
-                and post-project cleanup is essential for the presentation of your work as well as the safety of the
-                customer. Let us do the hard work and take care of your post construction cleaning jobs! We have
-                specific processes to capture all the dirt and dust without damaging possibly delicate pieces like
-                hardwood floors and glass mirrors. You can be assured that your new projec will look spotless after our
-                work and your customer will be impressed!</p>
-            <p class="fs-3"><strong>Office Cleaning</strong></p>
-            <p>Over time, office spaces can become dirty just from daily wear and tear from employees using it during
-                their daily tasks. The kitchen, the bathroom, the desks, and more need attention. Let MaidBrite take
-                care of office cleaning for you on a one-time or regular basis! We deep clean all areas and surfaces
-                with only non-toxic cleaning products so you can be assured that the result will be excellent and safe!
-                Enhance your productivity and keep your employees happy and safe with our office cleaning services!</p>
-            <p class="fs-3"><strong>Store Cleaning</strong></p>
-            <p>Custaomers are constantly coming in and out of your store and over time, things can look a little dingy
-                and dull. Keep your store pristine with our commerical store cleaning services! From cleaning displays
-                to carpet cleaning to upholstery cleaning, we have you covered at every angle. Our non-toxic products
-                ensure a great clean as well as one that doesn't upset sensitive customers with unpleasant smells.
-                Impress your customers with our commercial store cleaning services!</p>
+            <p class="fs-3"><strong>Benefits of commercial janitorial services</strong></p>
+            <p>
+                It goes without saying that cleanliness makes it easier to see the details, which is vital at the workplace. However, there are many other reasons why you should ensure proper janitorial cleaning services for your office or commercial space:
+                <ul>
+                    <li><strong>Increasing productivity</strong>: maintaining cleanliness in an office environment helps to achieve maximum employee productivity by boosting morale and reducing sick leaves.</li>
+                    <li><strong>Attracting business</strong>: the state of your workplace tells a lot about your business and customers will avoid places that are cluttered and dusty.</li>
+                    <li><strong>Preserving the value of your workplace and saving money</strong>: a professional commercial office cleaning service can do a lot more than the regular cleaning (i.e., deep cleaning, disinfection), which all help to lengthen the lifespan of your office items and reduce the need for redecoration and replacing physical assets.</li>
+                </ul>
+            </p>
+            <p class="fs-3"><strong>Why outsource your office cleaning services to us?</strong></p>
+            <p>
+            Keeping your workplace clean should be top priority. Office cleaning involves more than taking out the trash and mopping the floor, and can pose different challenges every day. Thus, your inhouse cleaning staff may find it difficult to adapt to the fluctuations in the cleaning workload. If you are researching „commercial cleaning services near me” in an effort to find the best office cleaning companies in your area, look no further than MaidBrite Cleaners. Here’s what we have to offer if you call to our commercial cleaning services:
+            <ul>
+                <li><strong>Saving money</strong>: outsourcing your commercial cleaning is more cost effective as you will be reducing your spending with cleaning supplies and equipment and hiring/training cleaning staff. Moreover, an external commercial cleaning service will adapt to your cleaning needs, which means you pay exactly what you get.</li>
+                <li><strong>Dependability</strong>: your cleaning employees may be unavailable at some times due to sickness or vacation time. Cleaning companies have staff available all the time, accomplish tasks and report to you as required.</li>
+                <li><strong>Accommodating specific requests</strong>: office cleaning companies are able to accommodate all kinds of requests and provide customized solutions to your business, no matter what industry you work in.</li>
+            </ul>
+            </p>
+            <p class="fs-3"><strong>Types of commercial cleaning we provide</strong></p>
+            <p>MaidBrite Cleaners can provide any type of commercial cleaning service, such as: office regular and deep cleaning, carpet cleaning, window cleaning, kitchen cleaning, industrial cleaning, warehouse cleaning, restaurant cleaning, gym cleaning, church cleaning, childcare center cleaning, factory cleaning and niche cleaning services. Our staff is trained and experienced and will tackle with professionalism even the most difficult and demanding cleaning jobs. We are available in the NYC area every day – contact us today for all your commercial cleaning needs!</p>
 
 
         </div>
