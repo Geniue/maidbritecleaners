@@ -9,6 +9,18 @@
     {{-- <meta name="robots" content="noindex,nofollow,nocrawl"> --}}
     <meta name="csrf-token" content="{{ csrf_token() }}">
     <meta name="google-site-verification" content="Sx17A6_E5qrIxU4_cWyFWfB_P5tWo3D1fKUo3MQEjGQ" />
+    
+
+    <link rel="apple-touch-icon" sizes="180x180" href="{{asset('assets/images/favicon/apple-touch-icon.png')}}">
+    <link rel="icon" type="image/png" sizes="128x128" href="{{asset('assets/images/favicon/favicon-150x150.png')}}">
+    {{-- <link rel="icon" type="image/png" sizes="32x32" href="{{asset("assets/images/favicon/favicon-32x32.png")}}"> --}}
+    {{-- <link rel="icon" type="image/png" sizes="16x16" href="{{asset('assets/images/favicon/favicon-16x16.png')}}"> --}}
+    <link rel="manifest" href="{{asset("assets/images/favicon/site.webmanifest")}}">
+    <link rel="mask-icon" href="{{asset('assets/images/favicon/safari-pinned-tab.svg')}}" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+
+
     @yield('meta')
 
 
@@ -16,7 +28,7 @@
         {
           "@context": "https://schema.org",
           "@type": "LocalBusiness",
-          "name": "MaidBrite Cleaners",
+          "name": "MaidBrite Cleaning Services",
           "address": {
           "@type": "PostalAddress",
           "streetAddress": "7 Marcus Garvey Blvd #406",

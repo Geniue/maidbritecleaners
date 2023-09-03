@@ -87,9 +87,12 @@
                                 a
                                 Quote</a>
                         </li>
+                  
                         <li class="ms-lg-0"><a class="nav-link custom-nav-link  nav-link-ltr"
-                                href="{{ route('contact-us') }}">Contact
-                                Us</a></li>
+                                href="{{ route('gallery') }}">Gallery</a></li>
+                                <li class="ms-lg-0"><a class="nav-link custom-nav-link  nav-link-ltr"
+                                    href="{{ route('contact-us') }}">Contact
+                                    Us</a></li>
                         {{-- <li class="dropdown-mega position-static no-border social-mobile">
                             <p style="padding-bottom: 0px!important;">Our socials</p>
                             <div class="our-socials">

@@ -39,8 +39,7 @@
     <meta itemprop="image" content="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Deep-Cleaning-same-day-cleaning-near-me.jpg') }}">
     <link rel="image_src" href="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Deep-Cleaning-same-day-cleaning-near-me.jpg') }}">
 
-    <link rel="shortcut" type="image/png" href="{{ asset('assets/icons/site_icon_128x128.png') }}">
-    <link rel="icon" type="image/png" href="{{ asset('assets/icons/site_icon_128x128.png') }}">
+ 
 
     <meta name="abstract" content="Maidbrite Cleaning Services  House and Commercial Cleaning in NYC">
     <meta name="author" content="admin">

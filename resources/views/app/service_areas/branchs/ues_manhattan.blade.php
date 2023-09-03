@@ -32,8 +32,7 @@
     <meta itemprop="image" content="{{ asset('assets/images/NY-10021-New-York-PristineGreen-House-Cleaning-UES-Branch-cleaning-lady-house-cleaning-services.jpg') }}">
     <link rel="image_src" href="{{ asset('assets/images/NY-10021-New-York-PristineGreen-House-Cleaning-UES-Branch-cleaning-lady-house-cleaning-services.jpg') }}">
 
-    <link rel="shortcut" type="image/png" href="{{ asset('assets/icons/site_icon_128x128.png') }}">
-    <link rel="icon" type="image/png" href="{{ asset('assets/icons/site_icon_128x128.png') }}">
+
 
     <meta name="abstract" content="Maidbrite Cleaning Services House and Commercial Cleaning in NYC">
     <meta name="author" content="admin">

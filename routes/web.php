@@ -177,7 +177,7 @@ Auth::routes();
 
 
 
-// Route::get("/gallery", [App\Http\Controllers\GalleryController::class, 'index'])->name("gallery");
+Route::get("/gallery", [App\Http\Controllers\GalleryController::class, 'index'])->name("gallery");
 
 
 
