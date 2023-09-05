@@ -24,20 +24,20 @@
         content="Experience unparalleled deep cleaning services with Maidbrite Cleaning Services . From whole house deep cleaning to emergency cleaning services, we guarantee a spotless, comfortable environment.">
     <meta property="og:url" content="{{ url()->current() }}">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Deep-Cleaning-same-day-cleaning-near-me.jpg') }}">
+    <meta property="og:image" content="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-Deep-Cleaning--Deep-Cleaning--details-cleaning-services.jpg') }}">
     <meta property="fb:admins" content="admin">
     <meta name="twitter:title" content="Maidbrite Cleaning Services  House and Commercial Cleaning in NYC  | Maidbrite Cleaning Services  ">
     <meta name="twitter:description"
         content="Experience unparalleled deep cleaning services with Maidbrite Cleaning Services . From whole house deep cleaning to emergency cleaning services, we guarantee a spotless, comfortable environment.">
-    <meta name="twitter:image" content="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Deep-Cleaning-same-day-cleaning-near-me.jpg') }}">
+    <meta name="twitter:image" content="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-Deep-Cleaning--Deep-Cleaning--details-cleaning-services.jpg') }}">
     <meta name="twitter:url" content="{{ url()->current() }}">
     <meta name="twitter:card" content="summary">
 
     <meta itemprop="name" content="Maidbrite Cleaning Services ">
     <meta itemprop="url" content="{{ url()->current() }}">
-    <meta itemprop="thumbnailUrl" content="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Deep-Cleaning-same-day-cleaning-near-me.jpg') }}">
-    <meta itemprop="image" content="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Deep-Cleaning-same-day-cleaning-near-me.jpg') }}">
-    <link rel="image_src" href="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Deep-Cleaning-same-day-cleaning-near-me.jpg') }}">
+    <meta itemprop="thumbnailUrl" content="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-Deep-Cleaning--Deep-Cleaning--details-cleaning-services.jpg') }}">
+    <meta itemprop="image" content="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-Deep-Cleaning--Deep-Cleaning--details-cleaning-services.jpg') }}">
+    <link rel="image_src" href="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-Deep-Cleaning--Deep-Cleaning--details-cleaning-services.jpg') }}">
 
  
 
@@ -83,11 +83,11 @@
         <!-- bg-img -->
         <picture class="lozad">
             <source media="(max-width: 878px)"
-                srcset="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Deep-Cleaning-same-day-cleaning-near-me.jpg') }}">
+                srcset="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-Deep-Cleaning--Deep-Cleaning--details-cleaning-services.jpg') }}">
             <source media="(min-width: 878px)"
-                srcset="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Deep-Cleaning-same-day-cleaning-near-me.jpg') }}">
+                srcset="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-Deep-Cleaning--Deep-Cleaning--details-cleaning-services.jpg') }}">
             <img class="service-bannner-img h-img-600"
-                src="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Deep-Cleaning-same-day-cleaning-near-me.jpg') }}"
+                src="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-Deep-Cleaning--Deep-Cleaning--details-cleaning-services.jpg') }}"
                 alt="DEEP CLEANING">
         </picture>
 

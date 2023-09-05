@@ -23,20 +23,20 @@
         content="Looking for reliable post-construction cleaning services? MaidBrite specializes in construction clean up, post renovation cleaning, and more. Fully insured and eco-friendly, we're the trusted choice for construction cleanup service near you!">
     <meta property="og:url" content="{{ url()->current() }}">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Post-construction-cleaning-post-construction-cleaning-near-me.jpg') }}">
+    <meta property="og:image" content="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-Post-Construction-Cleaning-Post-Construction-Cleaning-post-construction-cleaning.jpg') }}">
     <meta property="fb:admins" content="admin">
     <meta name="twitter:title" content="Maidbrite Cleaning Services  House and Commercial Cleaning in NYC  | Maidbrite Cleaning Services  ">
     <meta name="twitter:description"
         content="Looking for reliable post-construction cleaning services? MaidBrite specializes in construction clean up, post renovation cleaning, and more. Fully insured and eco-friendly, we're the trusted choice for construction cleanup service near you!">
-    <meta name="twitter:image" content="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Post-construction-cleaning-post-construction-cleaning-near-me.jpg') }}">
+    <meta name="twitter:image" content="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-Post-Construction-Cleaning-Post-Construction-Cleaning-post-construction-cleaning.jpg') }}">
     <meta name="twitter:url" content="{{ url()->current() }}">
     <meta name="twitter:card" content="summary">
 
     <meta itemprop="name" content="Maidbrite Cleaning Services ">
     <meta itemprop="url" content="{{ url()->current() }}">
-    <meta itemprop="thumbnailUrl" content="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Post-construction-cleaning-post-construction-cleaning-near-me.jpg') }}">
-    <meta itemprop="image" content="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Post-construction-cleaning-post-construction-cleaning-near-me.jpg') }}">
-    <link rel="image_src" href="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Post-construction-cleaning-post-construction-cleaning-near-me.jpg') }}">
+    <meta itemprop="thumbnailUrl" content="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-Post-Construction-Cleaning-Post-Construction-Cleaning-post-construction-cleaning.jpg') }}">
+    <meta itemprop="image" content="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-Post-Construction-Cleaning-Post-Construction-Cleaning-post-construction-cleaning.jpg') }}">
+    <link rel="image_src" href="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-Post-Construction-Cleaning-Post-Construction-Cleaning-post-construction-cleaning.jpg') }}">
 
 
 
@@ -75,11 +75,11 @@
 
         <picture class="lozad">
             <source media="(max-width: 878px)"
-                srcset="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Post-construction-cleaning-post-construction-cleaning-near-me.jpg') }}">
+                srcset="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-Post-Construction-Cleaning-Post-Construction-Cleaning-post-construction-cleaning.jpg') }}">
             <source media="(min-width: 878px)"
-                srcset="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Post-construction-cleaning-post-construction-cleaning-near-me.jpg') }}">
+                srcset="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-Post-Construction-Cleaning-Post-Construction-Cleaning-post-construction-cleaning.jpg') }}">
             <img class="service-bannner-img h-img-600"
-                src="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Post-construction-cleaning-post-construction-cleaning-near-me.jpg') }}"
+                src="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-Post-Construction-Cleaning-Post-Construction-Cleaning-post-construction-cleaning.jpg') }}"
                 alt="Post Construction Cleaning">
         </picture>
         <div class="p-4 p-lg-5 position-absolute bottom-0 w-100 h-100 pb-120">

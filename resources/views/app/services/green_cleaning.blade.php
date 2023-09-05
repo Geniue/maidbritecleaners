@@ -24,20 +24,20 @@
         content="Explore our green cleaning services, combining environmental consciousness with impeccable housekeeping. From organic cleaning services to using eco-friendly commercial cleaning products, we are leading the green revolution in cleaning. Dive into the world of green house cleaning with us - where cleanliness meets sustainability.">
     <meta property="og:url" content="{{ url()->current() }}">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Green-Cleaning-green-house-cleaning-near-me.jpg') }}">
+    <meta property="og:image" content="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-Green-Cleaning--Green-Cleaning--green-house-cleaning.jpg') }}">
     <meta property="fb:admins" content="admin">
     <meta name="twitter:title" content="Maidbrite Cleaning Services  House and Commercial Cleaning in NYC  | Maidbrite Cleaning Services  ">
     <meta name="twitter:description"
         content="Explore our green cleaning services, combining environmental consciousness with impeccable housekeeping. From organic cleaning services to using eco-friendly commercial cleaning products, we are leading the green revolution in cleaning. Dive into the world of green house cleaning with us - where cleanliness meets sustainability.">
-    <meta name="twitter:image" content="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Green-Cleaning-green-house-cleaning-near-me.jpg') }}">
+    <meta name="twitter:image" content="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-Green-Cleaning--Green-Cleaning--green-house-cleaning.jpg') }}">
     <meta name="twitter:url" content="{{ url()->current() }}">
     <meta name="twitter:card" content="summary">
 
     <meta itemprop="name" content="Maidbrite Cleaning Services ">
     <meta itemprop="url" content="{{ url()->current() }}">
-    <meta itemprop="thumbnailUrl" content="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Green-Cleaning-green-house-cleaning-near-me.jpg') }}">
-    <meta itemprop="image" content="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Green-Cleaning-green-house-cleaning-near-me.jpg') }}">
-    <link rel="image_src" href="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Green-Cleaning-green-house-cleaning-near-me.jpg') }}">
+    <meta itemprop="thumbnailUrl" content="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-Green-Cleaning--Green-Cleaning--green-house-cleaning.jpg') }}">
+    <meta itemprop="image" content="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-Green-Cleaning--Green-Cleaning--green-house-cleaning.jpg') }}">
+    <link rel="image_src" href="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-Green-Cleaning--Green-Cleaning--green-house-cleaning.jpg') }}">
 
 
 
@@ -73,11 +73,11 @@
         <!-- bg-img -->
         <picture class="lozad">
             <source media="(max-width: 878px)"
-                srcset="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Green-Cleaning-green-house-cleaning-near-me.jpg') }}">
+                srcset="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-Green-Cleaning--Green-Cleaning--green-house-cleaning.jpg') }}">
             <source media="(min-width: 878px)"
-                srcset="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Green-Cleaning-green-house-cleaning-near-me.jpg') }}">
+                srcset="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-Green-Cleaning--Green-Cleaning--green-house-cleaning.jpg') }}">
             <img class="service-bannner-img h-img-600"
-                src="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Green-Cleaning-green-house-cleaning-near-me.jpg') }}"
+                src="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-Green-Cleaning--Green-Cleaning--green-house-cleaning.jpg') }}"
                 alt="cough cleaning">
         </picture>
         <div class="p-4 p-lg-5 position-absolute bottom-0 w-100 h-100 pb-120">

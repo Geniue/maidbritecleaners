@@ -5,10 +5,7 @@
                 Rated 5-Stars House Cleaning Service in NYC, Brooklyn, & Queens
             </h2>
             <p class="call-us-banner-para">
-                Whatever house cleaning service or commercial service you need, our technicians have your back in
-                Manhattan, Queens , BK, Long Island, & the Bronx. Our professional services offer you the best in a
-                variety of residential cleaning and commercial cleaning services. Our customers have spoken with our
-                only 5-Star reviews at all our locations across NYC!
+                Whatever house cleaning service or commercial service you need, our technicians have your back in Manhattan, Queens, BK, Long Island, & the Bronx. Our professional services offer you the best in a variety of residential cleaning and commercial cleaning services. Our customers have spoken with our only 5-Star reviews at all our locations across NYC!
             </p>
             <p class="call-us-banner-para">
                 Maidbrite Cleaning Services takes pride in its customer satisfaction and high ratings offering a variety of deep

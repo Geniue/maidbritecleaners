@@ -23,20 +23,20 @@
         content="Discover our comprehensive residential cleaning services that cater to your home's every need, from deep cleaning to sanitization. Offering a blend of convenience, professionalism, and quality, we are the residential cleaning company you can trust for a spotlessly clean and comfortable home.">
     <meta property="og:url" content="{{ url()->current() }}">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-House-Keeping-what-is-housekepping-near-me.jpg') }}">
+    <meta property="og:image" content="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-House-Keeping-House-Keeping-what-is-housekepping.jpg') }}">
     <meta property="fb:admins" content="admin">
     <meta name="twitter:title" content="Maidbrite Cleaning Services  House and Commercial Cleaning in NYC  | Maidbrite Cleaning Services  ">
     <meta name="twitter:description"
         content="Discover our comprehensive residential cleaning services that cater to your home's every need, from deep cleaning to sanitization. Offering a blend of convenience, professionalism, and quality, we are the residential cleaning company you can trust for a spotlessly clean and comfortable home.">
-    <meta name="twitter:image" content="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-House-Keeping-what-is-housekepping-near-me.jpg') }}">
+    <meta name="twitter:image" content="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-House-Keeping-House-Keeping-what-is-housekepping.jpg') }}">
     <meta name="twitter:url" content="{{ url()->current() }}">
     <meta name="twitter:card" content="summary">
 
     <meta itemprop="name" content="Maidbrite Cleaning Services ">
     <meta itemprop="url" content="{{ url()->current() }}">
-    <meta itemprop="thumbnailUrl" content="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-House-Keeping-what-is-housekepping-near-me.jpg') }}">
-    <meta itemprop="image" content="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-House-Keeping-what-is-housekepping-near-me.jpg') }}">
-    <link rel="image_src" href="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-House-Keeping-what-is-housekepping-near-me.jpg') }}">
+    <meta itemprop="thumbnailUrl" content="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-House-Keeping-House-Keeping-what-is-housekepping.jpg') }}">
+    <meta itemprop="image" content="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-House-Keeping-House-Keeping-what-is-housekepping.jpg') }}">
+    <link rel="image_src" href="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-House-Keeping-House-Keeping-what-is-housekepping.jpg') }}">
 
 
 
@@ -84,11 +84,11 @@
         <!-- bg-img -->
         <picture class="lozad">
             <source media="(max-width: 878px)"
-                srcset="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-House-Keeping-what-is-housekepping-near-me.jpg') }}">
+                srcset="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-House-Keeping-House-Keeping-what-is-housekepping.jpg') }}">
             <source media="(min-width: 878px)"
-                srcset="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-House-Keeping-what-is-housekepping-near-me.jpg') }}">
+                srcset="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-House-Keeping-House-Keeping-what-is-housekepping.jpg') }}">
             <img class="service-bannner-img h-img-600"
-                src="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-House-Keeping-what-is-housekepping-near-me.jpg') }}"
+                src="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-House-Keeping-House-Keeping-what-is-housekepping.jpg') }}"
                 alt="House Keeping">
         </picture>
         <div class="p-4 p-lg-5 position-absolute bottom-0 w-100 h-100 pb-120">

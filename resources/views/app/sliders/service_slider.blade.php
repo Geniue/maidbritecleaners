@@ -4,7 +4,7 @@
             <div class="swiper-slide-inner">
                 <div class="slide-content-wrapper">
                     <img class="serivce-slider-img  lozad"
-                        data-src="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Post-construction-cleaning-post-construction-cleaning-near-me.jpg') }}"
+                        data-src="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-Post-Construction-Cleaning-Post-Construction-Cleaning-post-construction-cleaning.jpg') }}"
                         alt="Slide 2">
                     <div class="slide-content py-2 text-lightgray">
                         <p class="fw-semibold fs-3">Post Construction Cleaning</p>
@@ -29,7 +29,7 @@
             <div class="swiper-slide-inner">
                 <div class="slide-content-wrapper">
                     <img class="serivce-slider-img lozad"
-                        data-src="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Move-In-Cleaning-moving-cleaning-service-near-me.jpg') }}"
+                        data-src="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-Move-In-Cleaning-Services-Move-In-Cleaning-Services-moving-cleaning-service.jpg') }}"
                         alt="Slide 5">
                     <div class="slide-content py-2 text-lightgray">
                         <p class="fw-semibold fs-3">Move In Cleaning</p>
@@ -50,7 +50,7 @@
             <div class="swiper-slide-inner">
                 <div class="slide-content-wrapper">
                     <img class="serivce-slider-img  lozad"
-                        data-src="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Move-Out-Cleaning-move-out-cleaning-services-near-me.jpg') }}"
+                        data-src="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-Move-Out-Cleaning-Services-Move-Out-Cleaning-Services-move-out-cleaning-services.jpg') }}"
                         alt="Slide 4">
                     <div class="slide-content py-2 text-lightgray">
                         <p class="fw-semibold fs-3">Move Out Cleaning</p>
@@ -73,7 +73,7 @@
             <div class="swiper-slide-inner">
                 <div class="slide-content-wrapper">
                     <img class="serivce-slider-img  lozad serivce-green-slider-img"
-                        data-src="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Apartment-Cleaning--apartment-cleaning-services-near-me.jpg') }}"
+                        data-src="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-Apartment-Cleaning--Apartment-Cleaning--apartment-cleaning-services.jpg') }}"
                         alt="Slide 4">
                     <div class="slide-content py-2 text-lightgray">
                         <p class="fw-semibold fs-3">Apartment Cleaning </p>
@@ -96,7 +96,7 @@
             <div class="swiper-slide-inner">
                 <div class="slide-content-wrapper">
                     <img class="serivce-slider-img   lozad"
-                        data-src="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Green-Cleaning-green-house-cleaning-near-me.jpg') }}"
+                        data-src="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-Green-Cleaning--Green-Cleaning--green-house-cleaning.jpg') }}"
                         alt="Slide 3">
                     <div class="slide-content py-2 text-lightgray">
                         <p class="fw-semibold fs-3">Green Cleaning </p>
@@ -121,7 +121,7 @@
             <div class="swiper-slide-inner">
                 <div class="slide-content-wrapper">
                     <img class="serivce-slider-img   lozad"
-                        data-src="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Commercial-Cleaning-commercial-cleaning-near-me.jpg') }}"
+                        data-src="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-Commercial-Cleaning-Commercial-Cleaning-commercial-cleaning.jpg') }}"
                         alt="Slide 3">
                     <div class="slide-content py-2 text-lightgray">
                         <p class="fw-semibold fs-3">Commercial Cleaning </p>
@@ -147,7 +147,7 @@
             <div class="swiper-slide-inner">
                 <div class="slide-content-wrapper">
                     <img class="serivce-slider-img   lozad"
-                        data-src="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Maid-Cleaning-maid-cleaning-near-me.jpg') }}"
+                        data-src="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-Maid-Cleaning-Maid-Cleaning-the-cleaning-lady.jpg') }}"
                         alt="Slide 3">
                     <div class="slide-content py-2 text-lightgray">
                         <p class="fw-semibold fs-3">Maid Cleaning </p>
@@ -174,7 +174,7 @@
             <div class="swiper-slide-inner">
                 <div class="slide-content-wrapper">
                     <img class="serivce-slider-img  lozad"
-                        data-src="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Residential-Cleaning--one-time-house-cleaning-services-near-me.jpg') }}"
+                        data-src="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-Residential-Cleaning-Residential-Cleaning-residential-cleaner.jpg') }}"
                         alt="Slide 4">
                     <div class="slide-content py-2 text-lightgray">
                         <p class="fw-semibold fs-3">Residential Cleaning</p>
@@ -200,7 +200,7 @@
             <div class="swiper-slide-inner">
                 <div class="slide-content-wrapper">
                     <img class="serivce-slider-img  lozad"
-                        data-src="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Cleaning-Lady-cleaning-services-near-me-near-me.jpg') }}"
+                        data-src="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-Cleaning-Lady-Cleaning-Lady-cleaning-services-near-me.jpg') }}"
                         alt="Slide 4">
                     <div class="slide-content py-2 text-lightgray">
                         <p class="fw-semibold fs-3">Cleaning Lady</p>
@@ -226,7 +226,7 @@
             <div class="swiper-slide-inner">
                 <div class="slide-content-wrapper">
                     <img class="serivce-slider-img  lozad"
-                        data-src="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Deep-Cleaning-same-day-cleaning-near-me.jpg') }}"
+                        data-src="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-Deep-Cleaning--Deep-Cleaning--details-cleaning-services.jpg') }}"
                         alt="Slide 4">
                     <div class="slide-content py-2 text-lightgray">
                         <p class="fw-semibold fs-3">Deep Cleaning</p>
@@ -251,7 +251,7 @@
             <div class="swiper-slide-inner">
                 <div class="slide-content-wrapper">
                     <img class="serivce-slider-img  lozad"
-                        data-src="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-House-Keeping-what-is-housekepping-near-me.jpg') }}"
+                        data-src="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-House-Keeping-House-Keeping-what-is-housekepping.jpg') }}"
                         alt="Slide 4">
                     <div class="slide-content py-2 text-lightgray">
                         <p class="fw-semibold fs-3">House Keeping</p>
@@ -277,7 +277,7 @@
             <div class="swiper-slide-inner">
                 <div class="slide-content-wrapper">
                     <img class="serivce-slider-img  lozad"
-                        data-src="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-House-Cleaning--cleaners-near-me-near-me.jpg') }}"
+                        data-src="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-House-Cleaning-House-Cleaning-cleaners-near-me.jpg') }}"
                         alt="Slide 1">
                     <div class="slide-content py-2 text-lightgray">
                         <p class="fw-semibold fs-3">House Cleaning</p>

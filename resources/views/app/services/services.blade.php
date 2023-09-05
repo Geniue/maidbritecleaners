@@ -106,7 +106,7 @@
                                         <img alt="post" class="img img-fluid lazy rounded-3 lozad" width="295"
                                             height="295"
                                             alt="House Cleaning"
-                                            data-src="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-House-Cleaning--cleaners-near-me-near-me.jpg') }}" />
+                                            data-src="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-House-Cleaning-House-Cleaning-cleaners-near-me.jpg') }}" />
                                     </div>
                                 </div>
                                 <h3 class="text-green-1 fw-bold fs-3 fs-md-5 lh-1-3 lh-md-auto" text-lightgray>
@@ -124,7 +124,7 @@
                                 <div class="top-holder">
                                     <div class="img-holder">
                                         <img class="img img-fluid lazy rounded-3 lozad" alt="Post Construction " width="295" height="295"
-                                            data-src="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Post-construction-cleaning-post-construction-cleaning-near-me.jpg') }}" />
+                                            data-src="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-Post-Construction-Cleaning-Post-Construction-Cleaning-post-construction-cleaning.jpg') }}" />
                                     </div>
                                 </div>
                                 <h3 class="heading fw-bold fs-3 fs-md-5 lh-1-3 lh-md-auto text-green-1">
@@ -140,7 +140,7 @@
                                 <div class="top-holder">
                                     <div class="img-holder">
                                         <img class="img img-fluid lazy rounded-3 lozad" alt="Move In Cleaning" width="295" height="295"
-                                            data-src="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Move-In-Cleaning-moving-cleaning-service-near-me.jpg') }}" />
+                                            data-src="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-Move-In-Cleaning-Services-Move-In-Cleaning-Services-moving-cleaning-service.jpg') }}" />
                                     </div>
                                 </div>
                                 <h3 class="heading fw-bold fs-3 fs-md-5 lh-1-3 lh-md-auto text-green-1">
@@ -158,7 +158,7 @@
                                 <div class="top-holder">
                                     <div class="img-holder lozad">
                                         <img alt="Move Out Cleaning" class="img img-fluid lazy rounded-3 lozad" width="295" height="295"
-                                            data-src="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Move-Out-Cleaning-move-out-cleaning-services-near-me.jpg') }}" />
+                                            data-src="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-Move-Out-Cleaning-Services-Move-Out-Cleaning-Services-move-out-cleaning-services.jpg') }}" />
                                     </div>
                                 </div>
                                 <h3 class="heading fw-bold fs-3 fs-md-5 lh-1-3 lh-md-auto text-green-1">
@@ -176,7 +176,7 @@
                                 <div class="top-holder">
                                     <div class="img-holder">
                                         <img class="img img-fluid lazy rounded-3 lozad" alt="Apartment Cleaning" width="295" height="295"
-                                            data-src="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Apartment-Cleaning--apartment-cleaning-services-near-me.jpg') }}" />
+                                            data-src="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-Apartment-Cleaning--Apartment-Cleaning--apartment-cleaning-services.jpg') }}" />
                                     </div>
                                 </div>
                                 <h3 class="heading fw-bold fs-3 fs-md-5 lh-1-3 lh-md-auto text-green-1">
@@ -195,7 +195,7 @@
                                     <div class="img-holder">
                                         <img class="img img-fluid lazy rounded-3 lozad" alt="Green Cleaning"  width="295" height="295"
                                             alt="green carpet cleaner service"
-                                            data-src="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Green-Cleaning-green-house-cleaning-near-me.jpg') }}" />
+                                            data-src="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-Green-Cleaning--Green-Cleaning--green-house-cleaning.jpg') }}" />
                                     </div>
                                 </div>
                                 <h3 class="heading fw-bold fs-3 fs-md-5 lh-1-3 lh-md-auto text-green-1">
@@ -214,7 +214,7 @@
                                 <div class="top-holder">
                                     <div class="img-holder">
                                         <img class="img img-fluid lazy rounded-3 lozad" alt="Commercial Cleaning" width="295" height="295"
-                                            data-src="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Commercial-Cleaning-commercial-cleaning-near-me.jpg') }}" />
+                                            data-src="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-Commercial-Cleaning-Commercial-Cleaning-commercial-cleaning.jpg') }}" />
                                     </div>
                                 </div>
                                 <h3 class="heading fw-bold fs-3 fs-md-5 lh-1-3 lh-md-auto text-green-1">
@@ -232,7 +232,7 @@
                                 <div class="top-holder">
                                     <div class="img-holder">
                                         <img class="img img-fluid lazy rounded-3 lozad" alt="Maid Cleaning" width="295" height="295"
-                                            data-src="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Maid-Cleaning-maid-cleaning-near-me.jpg') }}" />
+                                            data-src="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-Maid-Cleaning-Maid-Cleaning-the-cleaning-lady.jpg') }}" />
                                     </div>
                                 </div>
                                 <h3 class="heading fw-bold fs-3 fs-md-5 lh-1-3 lh-md-auto text-green-1">
@@ -249,7 +249,7 @@
                                 <div class="top-holder">
                                     <div class="img-holder">
                                         <img class="img img-fluid lazy rounded-3 lozad" alt="Residential Cleaning" width="295" height="295"
-                                            data-src="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Residential-Cleaning--one-time-house-cleaning-services-near-me.jpg') }}" />
+                                            data-src="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-Residential-Cleaning-Residential-Cleaning-residential-cleaner.jpg') }}" />
                                     </div>
                                 </div>
                                 <h3 class="heading fw-bold fs-3 fs-md-5 lh-1-3 lh-md-auto text-green-1">
@@ -265,7 +265,7 @@
                                 <div class="top-holder">
                                     <div class="img-holder">
                                         <img class="img img-fluid lazy rounded-3 lozad" alt="Cleaning Lady" width="295" height="295"
-                                            data-src="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Cleaning-Lady-cleaning-services-near-me-near-me.jpg') }}" />
+                                            data-src="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-Cleaning-Lady-Cleaning-Lady-cleaning-services-near-me.jpg') }}" />
                                     </div>
                                 </div>
                                 <h3 class="heading fw-bold fs-3 fs-md-5 lh-1-3 lh-md-auto text-green-1">
@@ -282,7 +282,7 @@
                                 <div class="top-holder">
                                     <div class="img-holder">
                                         <img class="img img-fluid lazy rounded-3 lozad" alt="Deep Cleaning" width="295" height="295"
-                                            data-src="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Deep-Cleaning-same-day-cleaning-near-me.jpg') }}">
+                                            data-src="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-Deep-Cleaning--Deep-Cleaning--details-cleaning-services.jpg') }}">
                                     </div>
                                 </div>
                                 <h3 class="heading fw-bold fs-3 fs-md-5 lh-1-3 lh-md-auto text-green-1">
@@ -300,7 +300,7 @@
                                 <div class="top-holder">
                                     <div class="img-holder">
                                         <img class="img img-fluid lazy rounded-3 lozad" alt="House Keeping" width="295" height="295"
-                                            data-src="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-House-Keeping-what-is-housekepping-near-me.jpg') }}">
+                                            data-src="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-House-Keeping-House-Keeping-what-is-housekepping.jpg') }}">
                                     </div>
                                 </div>
                                 <h3 class="heading fw-bold fs-3 fs-md-5 lh-1-3 lh-md-auto text-green-1">

@@ -206,7 +206,7 @@
             <a href="{{ asset('sitemap.xml') }}">Sitemap</a>
         </div>
         <div class="footer-2-copyright">
-            <span>© 2023 MaidBrite Cleaners, LLC. All rights reserved.</span>
+            <span>© 2023 MaidBrite Cleaning Services. All rights reserved.</span>
         </div>
     </div>
     <!-- section 2 -->

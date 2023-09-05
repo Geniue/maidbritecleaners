@@ -1,10 +1,10 @@
 @extends('layouts.index')
 @section('title')
-    Move Out Cleaning | {{ env('APP_NAME') }}
+Move Out Cleaning Services | {{ env('APP_NAME') }}
 @endsection
 
 @section('meta')
-    <meta name="title" content="Move Out Cleaning  | Maidbrite Cleaning Services ">
+    <meta name="title" content="Move Out Cleaning Services  | Maidbrite Cleaning Services ">
     <meta name="description"
         content="Looking for professional move out cleaning services? Maidbrite Cleaning Services  provides expert and affordable solutions to make your move stress-free. Our skilled cleaners offer comprehensive services tailored to your needs, leaving your previous home spotless and ready for the next occupants. Contact us today for a seamless transition to your new chapter.">
     <meta name="keywords"
@@ -17,20 +17,20 @@
         content="Looking for professional move out cleaning services? Maidbrite Cleaning Services  provides expert and affordable solutions to make your move stress-free. Our skilled cleaners offer comprehensive services tailored to your needs, leaving your previous home spotless and ready for the next occupants. Contact us today for a seamless transition to your new chapter.">
     <meta property="og:url" content="{{ url()->current() }}">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Move-Out-Cleaning-move-out-cleaning-services-near-me.jpg') }}">
+    <meta property="og:image" content="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-Move-Out-Cleaning-Services-Move-Out-Cleaning-Services-move-out-cleaning-services.jpg') }}">
     <meta property="fb:admins" content="admin">
     <meta name="twitter:title" content="Maidbrite Cleaning Services  House and Commercial Cleaning in NYC  | Maidbrite Cleaning Services  ">
     <meta name="twitter:description"
         content="Looking for professional move out cleaning services? Maidbrite Cleaning Services  provides expert and affordable solutions to make your move stress-free. Our skilled cleaners offer comprehensive services tailored to your needs, leaving your previous home spotless and ready for the next occupants. Contact us today for a seamless transition to your new chapter.">
-    <meta name="twitter:image" content="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Move-Out-Cleaning-move-out-cleaning-services-near-me.jpg') }}">
+    <meta name="twitter:image" content="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-Move-Out-Cleaning-Services-Move-Out-Cleaning-Services-move-out-cleaning-services.jpg') }}">
     <meta name="twitter:url" content="{{ url()->current() }}">
     <meta name="twitter:card" content="summary">
 
     <meta itemprop="name" content="Maidbrite Cleaning Services ">
     <meta itemprop="url" content="{{ url()->current() }}">
-    <meta itemprop="thumbnailUrl" content="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Move-Out-Cleaning-move-out-cleaning-services-near-me.jpg') }}">
-    <meta itemprop="image" content="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Move-Out-Cleaning-move-out-cleaning-services-near-me.jpg') }}">
-    <link rel="image_src" href="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Move-Out-Cleaning-move-out-cleaning-services-near-me.jpg') }}">
+    <meta itemprop="thumbnailUrl" content="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-Move-Out-Cleaning-Services-Move-Out-Cleaning-Services-move-out-cleaning-services.jpg') }}">
+    <meta itemprop="image" content="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-Move-Out-Cleaning-Services-Move-Out-Cleaning-Services-move-out-cleaning-services.jpg') }}">
+    <link rel="image_src" href="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-Move-Out-Cleaning-Services-Move-Out-Cleaning-Services-move-out-cleaning-services.jpg') }}">
 
 
 
@@ -62,18 +62,18 @@
         <!-- bg-img -->
         <picture class="lozad">
             <source media="(max-width: 878px)"
-                srcset="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Move-Out-Cleaning-move-out-cleaning-services-near-me.jpg') }}">
+                srcset="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-Move-Out-Cleaning-Services-Move-Out-Cleaning-Services-move-out-cleaning-services.jpg') }}">
             <source media="(min-width: 878px)"
-                srcset="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Move-Out-Cleaning-move-out-cleaning-services-near-me.jpg') }}">
+                srcset="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-Move-Out-Cleaning-Services-Move-Out-Cleaning-Services-move-out-cleaning-services.jpg') }}">
             <img class="service-bannner-img h-img-600"
-                src="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Move-Out-Cleaning-move-out-cleaning-services-near-me.jpg') }}"
+                src="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-Move-Out-Cleaning-Services-Move-Out-Cleaning-Services-move-out-cleaning-services.jpg') }}"
                 alt="Move Out Cleaning">
         </picture>
 
 
         <div class="p-4 p-lg-5 position-absolute bottom-0 w-100 h-100 pb-120">
             <div class="d-flex flex-col justify-content-end gap-4 h-100 py-4">
-                <h1 class="text-green">Move Out Cleaning</h1>
+                <h1 class="text-green">Move Out Cleaning Services</h1>
                 <p class="tex-white text-center text-lg-start fs-3">
                     Restore your commercial or residential space with professional move out cleaning services in NYC
                 </p>

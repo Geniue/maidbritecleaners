@@ -17,20 +17,20 @@
         content="Our move in cleaning services provide a comprehensive solution for a clean, fresh start in your new home. From deep cleaning to pre move in cleaning, we ensure your home is move-in ready at an affordable cost. Find a move in cleaning service near you and enjoy a hassle-free moving experience.">
     <meta property="og:url" content="{{ url()->current() }}">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Move-In-Cleaning-moving-cleaning-service-near-me.jpg') }}">
+    <meta property="og:image" content="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-Move-In-Cleaning-Services-Move-In-Cleaning-Services-moving-cleaning-service.jpg') }}">
     <meta property="fb:admins" content="admin">
     <meta name="twitter:title" content="Maidbrite Cleaning Services  House and Commercial Cleaning in NYC  | Maidbrite Cleaning Services  ">
     <meta name="twitter:description"
         content="Our move in cleaning services provide a comprehensive solution for a clean, fresh start in your new home. From deep cleaning to pre move in cleaning, we ensure your home is move-in ready at an affordable cost. Find a move in cleaning service near you and enjoy a hassle-free moving experience.">
-    <meta name="twitter:image" content="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Move-In-Cleaning-moving-cleaning-service-near-me.jpg') }}">
+    <meta name="twitter:image" content="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-Move-In-Cleaning-Services-Move-In-Cleaning-Services-moving-cleaning-service.jpg') }}">
     <meta name="twitter:url" content="{{ url()->current() }}">
     <meta name="twitter:card" content="summary">
 
     <meta itemprop="name" content="Maidbrite Cleaning Services ">
     <meta itemprop="url" content="{{ url()->current() }}">
-    <meta itemprop="thumbnailUrl" content="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Move-In-Cleaning-moving-cleaning-service-near-me.jpg') }}">
-    <meta itemprop="image" content="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Move-In-Cleaning-moving-cleaning-service-near-me.jpg') }}">
-    <link rel="image_src" href="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Move-In-Cleaning-moving-cleaning-service-near-me.jpg') }}">
+    <meta itemprop="thumbnailUrl" content="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-Move-In-Cleaning-Services-Move-In-Cleaning-Services-moving-cleaning-service.jpg') }}">
+    <meta itemprop="image" content="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-Move-In-Cleaning-Services-Move-In-Cleaning-Services-moving-cleaning-service.jpg') }}">
+    <link rel="image_src" href="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-Move-In-Cleaning-Services-Move-In-Cleaning-Services-moving-cleaning-service.jpg') }}">
 
  
 
@@ -60,11 +60,11 @@
         <!-- bg-img -->
         <picture class="lozad">
             <source media="(max-width: 878px)"
-                srcset="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Move-In-Cleaning-moving-cleaning-service-near-me.jpg') }}">
+                srcset="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-Move-In-Cleaning-Services-Move-In-Cleaning-Services-moving-cleaning-service.jpg') }}">
             <source media="(min-width: 878px)"
-                srcset="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Move-In-Cleaning-moving-cleaning-service-near-me.jpg') }}">
+                srcset="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-Move-In-Cleaning-Services-Move-In-Cleaning-Services-moving-cleaning-service.jpg') }}">
             <img class="service-bannner-img h-img-600"
-                src="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Move-In-Cleaning-moving-cleaning-service-near-me.jpg') }}"
+                src="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-Move-In-Cleaning-Services-Move-In-Cleaning-Services-moving-cleaning-service.jpg') }}"
                 alt="Move In Cleaning Services">
         </picture>
 

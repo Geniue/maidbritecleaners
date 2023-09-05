@@ -11,15 +11,16 @@
     <meta name="google-site-verification" content="Sx17A6_E5qrIxU4_cWyFWfB_P5tWo3D1fKUo3MQEjGQ" />
     
 
-    <link rel="apple-touch-icon" sizes="180x180" href="{{asset('assets/images/favicon/apple-touch-icon.png')}}">
-    <link rel="icon" type="image/png" sizes="128x128" href="{{asset('assets/images/favicon/favicon-150x150.png')}}">
-    {{-- <link rel="icon" type="image/png" sizes="32x32" href="{{asset("assets/images/favicon/favicon-32x32.png")}}"> --}}
-    {{-- <link rel="icon" type="image/png" sizes="16x16" href="{{asset('assets/images/favicon/favicon-16x16.png')}}"> --}}
-    <link rel="manifest" href="{{asset("assets/images/favicon/site.webmanifest")}}">
-    <link rel="mask-icon" href="{{asset('assets/images/favicon/safari-pinned-tab.svg')}}" color="#5bbad5">
-    <meta name="msapplication-TileColor" content="#da532c">
-    <meta name="theme-color" content="#ffffff">
 
+    <link rel="apple-touch-icon" sizes="180x180" href="{{asset('assets/images/favicon/apple-touch-icon.png')}}">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{asset('assets/images/favicon/favicon-32x32.png')}}">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{asset('assets/images/favicon/favicon-16x16.png')}}">
+    <link rel="manifest" href="{{asset('assets/images/favicon/site.webmanifest')}}">
+    <link rel="mask-icon" href="{{asset('assets/images/favicon/safari-pinned-tab.svg')}}" color="#1d4528">
+    <meta name="msapplication-TileColor" content="#00aba9">
+    <meta name="theme-color" content="#ffffff">
+    
+    
 
     @yield('meta')
 
@@ -977,6 +978,26 @@ background-image : none !important;
         .fa-chevron-left:before{
             content: "" !important;
         }
+
+        /* we offer icons styling */
+        .we_offer_section_lists span{
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            border:2px solid #00ff55;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-right:8px; 
+        }
+        .we_offer_section_lists li img{
+            width: 78%;
+            object-fit: contain;
+            filter: invert(40%) sepia(23%) saturate(3909%) hue-rotate(171deg) brightness(93%) contrast(101%);
+        }
+
+
+
     </style>
 
 

@@ -23,20 +23,20 @@
         content="Looking for top-notch residential cleaning services near you? MaidBrite offers a comprehensive range of residential cleaning options, from general house cleaning to specialized deep cleaning services. Discover the difference of professional residential cleaning services today!">
     <meta property="og:url" content="{{ url()->current() }}">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Residential-Cleaning--one-time-house-cleaning-services-near-me.jpg') }}">
+    <meta property="og:image" content="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-Residential-Cleaning-Residential-Cleaning-residential-cleaner.jpg') }}">
     <meta property="fb:admins" content="admin">
     <meta name="twitter:title" content="Maidbrite Cleaning Services  House and Commercial Cleaning in NYC  | Maidbrite Cleaning Services  ">
     <meta name="twitter:description"
         content="Looking for top-notch residential cleaning services near you? MaidBrite offers a comprehensive range of residential cleaning options, from general house cleaning to specialized deep cleaning services. Discover the difference of professional residential cleaning services today!">
-    <meta name="twitter:image" content="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Residential-Cleaning--one-time-house-cleaning-services-near-me.jpg') }}">
+    <meta name="twitter:image" content="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-Residential-Cleaning-Residential-Cleaning-residential-cleaner.jpg') }}">
     <meta name="twitter:url" content="{{ url()->current() }}">
     <meta name="twitter:card" content="summary">
 
     <meta itemprop="name" content="Maidbrite Cleaning Services">
     <meta itemprop="url" content="{{ url()->current() }}">
-    <meta itemprop="thumbnailUrl" content="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Residential-Cleaning--one-time-house-cleaning-services-near-me.jpg') }}">
-    <meta itemprop="image" content="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Residential-Cleaning--one-time-house-cleaning-services-near-me.jpg') }}">
-    <link rel="image_src" href="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Residential-Cleaning--one-time-house-cleaning-services-near-me.jpg') }}">
+    <meta itemprop="thumbnailUrl" content="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-Residential-Cleaning-Residential-Cleaning-residential-cleaner.jpg') }}">
+    <meta itemprop="image" content="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-Residential-Cleaning-Residential-Cleaning-residential-cleaner.jpg') }}">
+    <link rel="image_src" href="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-Residential-Cleaning-Residential-Cleaning-residential-cleaner.jpg') }}">
 
 
 
@@ -75,11 +75,11 @@
         <!-- bg-img -->
         <picture class="lozad">
             <source media="(max-width: 878px)"
-                srcset="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Residential-Cleaning--one-time-house-cleaning-services-near-me.jpg') }}">
+                srcset="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-Residential-Cleaning-Residential-Cleaning-residential-cleaner.jpg') }}">
             <source media="(min-width: 878px)"
-                srcset="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Residential-Cleaning--one-time-house-cleaning-services-near-me.jpg') }}">
+                srcset="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-Residential-Cleaning-Residential-Cleaning-residential-cleaner.jpg') }}">
             <img class="service-bannner-img h-img-600"
-                src="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Residential-Cleaning--one-time-house-cleaning-services-near-me.jpg') }}"
+                src="{{ asset('assets/images/geo_services/11206--NY--Brooklyn-Residential-Cleaning-Residential-Cleaning-residential-cleaner.jpg') }}"
                 alt="Residential Cleaning">
         </picture>
 
