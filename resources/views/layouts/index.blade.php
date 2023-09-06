@@ -969,6 +969,14 @@ background-image : none !important;
                 height: 420px;
             }
         }
+
+    
+@media (max-width: 991px) {
+  .main-nav-item--phone {
+    padding-top: 0px !important;
+  }
+}
+
         .offerservice-section-list-container > ul > li{
             gap: .2rem!important;
         }

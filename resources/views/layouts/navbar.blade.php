@@ -120,7 +120,7 @@
       <span class="toggle__icon"></span>
       <span class="toggle__icon"></span>
     </div> -->
-    <div class="d-flex">
+    <div class="d-flex align-items-center">
         <div class="main-nav-item--phone"> <a class="main-nav-link" href="tel:212-951-0342"><img width="35"
                     height="35" alt="call-us" class="lozad"
                     data-src="{{asset("assets/icons/call.png")}}"></a>
