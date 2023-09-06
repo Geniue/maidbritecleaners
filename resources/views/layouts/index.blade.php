@@ -975,7 +975,18 @@ background-image : none !important;
   .main-nav-item--phone {
     padding-top: 0px !important;
   }
+
+
 }
+
+
+@media (max-width: 991px) {
+  .logo-res .navbar-logo img {
+    width: 172px;
+    height: 66.7px;
+  }
+}
+
 
         .offerservice-section-list-container > ul > li{
             gap: .2rem!important;
