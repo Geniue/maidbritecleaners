@@ -1,7 +1,8 @@
 <div id="cll" class="callback-desktop-only rounded-2" style="position: fixed;" {{isset($exception) ? 'hidden' : ''}}>
-	<div class="request-form-header rounded-2" style="background-color:#0087c9 !important;">
+	<div class="request-form-header rounded-2 d-flex align-items-center justify-content-between" style="background-color:#0087c9 !important;">
 		Callback Request
-		<id class="down-icon up-icon"></id>
+	
+		<id class="up-ar down position-relative d-flex justify-content-center align-items-center me-1" style="cursor:pointer;display: inline-block;height:15px;width:15px;" ></id>
 	</div>
 
 	<div id="call_body" class="request-form-holder" style="padding: 10px;">

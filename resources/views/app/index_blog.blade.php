@@ -49,6 +49,9 @@
 <meta name="resource-type" content="Document">
 <meta name="revisit-after" content="3">
 <meta name="subject" content="Blog">
+
+{{-- fontawesome package --}}
+<script src="https://kit.fontawesome.com/b6e54b3865.js" crossorigin="anonymous"></script>
 @endsection
 
 @section('content')
