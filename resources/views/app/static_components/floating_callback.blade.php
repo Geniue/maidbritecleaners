@@ -24,5 +24,5 @@
 </div>
 
 <a class="myphone-mobile-only lol" href="tel:212-951-0342" {{isset($exception) ? 'hidden' : ''}}>
-	<img rel="canonical" class="lazy" alt="call" src="{{asset('assets/icons/call-icon3.png')}}" style="" width="64" height="64">
+	<img rel="canonical" class="lazy" alt="call" src="{{asset('assets/icons/call-icon3.webp')}}" style="" width="64" height="64">
 </a>

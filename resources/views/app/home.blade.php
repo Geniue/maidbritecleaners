@@ -101,7 +101,6 @@
         }
 
         .beforeAfterContainer .background-img {
-            background-image: url("{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Top-Commercial-and-House-Cleaning-Service-cleaning-services-near-me-near-me.jpg') }}");
             background-size: cover !important;
         }
 
@@ -114,14 +113,7 @@
             background-size: 900px 100%;
         }
 
-        .beforeAfterContainer .foreground-img {
-            background-image: url("{{ asset('assets/images/before-clean.jpg') }}");
-            width: 50%;
-        }
-
-
-
-        .beforeAfterContainer .bslider:hover {
+       .beforeAfterContainer .bslider:hover {
             background: rgba(242, 242, 242, 0.1);
         }
 
@@ -135,12 +127,7 @@
         }
 
         .beforeAfterContainer .bslider {
-            /* position: absolute; */
-            /* -webkit-appearance: none; */
-            /* appearance: none; */
-            /* width: 100%; */
-            /* height: 100%; */
-            /* background: rgba(242, 242, 242, 0.3); */
+      
             outline: none;
             margin: 0;
             transition: all 0.2s;
@@ -149,56 +136,6 @@
             align-items: center;
         }
 
-        .beforeAfterContainer .bslider {
-            position: absolute;
-            -webkit-appearance: none;
-            -moz-appearance: none;
-            appearance: none;
-            width: 100%;
-            height: 100%;
-            background: rgba(242, 242, 242, 0.3);
-            outline: none;
-            margin: 0;
-            transition: all 0.2s;
-            display: -ms-flexbox;
-            display: flex;
-            -ms-flex-pack: center;
-            justify-content: center;
-            -ms-flex-align: center;
-            align-items: center;
-        }
-
-        .beforeAfterContainer .slider-button {
-            pointer-events: none;
-            position: absolute;
-            width: 30px;
-            height: 30px;
-            border-radius: 50%;
-            background-color: white;
-            left: calc(50% - 18px);
-            top: calc(50% - 18px);
-            display: flex;
-            justify-content: center;
-            align-items: center;
-        }
-
-        .beforeAfterContainer .slider-button:before {
-            content: "";
-            padding: 3px;
-            display: inline-block;
-            border: solid #5d5d5d;
-            border-width: 0 2px 2px 0;
-            transform: rotate(135deg);
-        }
-
-        .beforeAfterContainer .slider-button:after {
-            content: "";
-            padding: 3px;
-            display: inline-block;
-            border: solid #5d5d5d;
-            border-width: 0 2px 2px 0;
-            transform: rotate(-45deg);
-        }
 
         @media screen and (max-width:1332px) {
             .beforeAfterContainer {
@@ -249,16 +186,6 @@
         .baby-ac-section .nav-tabs .nav-link {
             border: none;
         }
-
-
-
-
-
-        /* RANGE IMAGE SLIDER ENDS HERE */
-
-
-
-
         picture {
             position: absolute;
         }
@@ -394,28 +321,6 @@
         </div>
         </div>
       </div>
-
-
-
-    <!-- featured banner section-->
-    {{-- <section class="feature-section">
-        <div class="feature-section-container">
-            <div class="feature-section-1 flex item-center">
-                <span></span>
-                <div class="feature-section-title">
-                    <p class="">Featured In</p>
-                </div>
-                <span></span>
-            </div>
-            <div class="feature-container-img">
-                <img class="lozad" alt="Featured in The new your times" height="112" width="553"
-                    data-src="{{ asset('assets/images/nytimes-black.png') }}" style />
-            </div>
-        </div>
-    </section> --}}
-
-    <!-- slider section -->
-
     <!-- Slider -->
     <section class="slider-section overflow-hidden pt-3 pt-lg-50">
         <!-- services section header -->
@@ -524,7 +429,7 @@
                 <!-- img -->
                 <div class="col-12 col-lg-6 col-xl-7">
                     <div class="beforeAfterContainer border-0">
-                        <div class="img background-img rounded-4"></div>
+                        <div data-background-image="{{ asset('assets/images/geo/11206-NY-Brooklyn-Maidbrite-Cleaning-Services-Top-Commercial-and-House-Cleaning-Service-cleaning-services-near-me-near-me.jpg') }}" class="lozad img background-img rounded-4"></div>
                     </div>
                 </div>
             </div>
@@ -901,14 +806,7 @@
             </div>
         </div>
     </section>
-
-
-
     @include('app.static_components.we_offer')
-
-
-
-
     <!-- Company info section -->
     @include('app.static_components.companyinfo_banner')
 
@@ -917,10 +815,7 @@
     <!-- call us section -->
     @include('app.static_components.callus_banner')
 @endsection
-
-
 @section('js')
-
 {{-- <script>
     isVideoExist = document.getElementById('custom-preload');
     if (isVideoExist) {
@@ -975,7 +870,6 @@
 
     
 </script> --}}
-
     {{-- <script type="text/javascript">
   
         // window.onload = function() {

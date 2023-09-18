@@ -4,13 +4,14 @@
             <div class="col-md-4 col-lg-6 d-flex justify-content-between logo-col">
                 <div class="navbar-logo">
                     <a href="/" class="d-block ms-lg-5 ms-xl-4 ps-lg-3 ps-xl-2 ms-4">
-                    <img alt="Maidbrite Cleaners" class="responsive-image"
-     src="{{ asset('assets/logo/maidbrite_logo_mob.png') }}"
-     srcset="{{ asset('assets/logo/maidbrite_logo_mob.png') }} 480w,
-             {{ asset('assets/logo/maidbrite_logo.png') }} 800w"
+                        <img alt="Maidbrite Cleaners" class="responsive-image lozad"
+     data-src="{{ asset('assets/logo/maidbrite_logo.webp') }}"
+     data-srcset="{{ asset('assets/logo/maidbrite_logo.webp') }} 480w,
+             {{ asset('assets/logo/maidbrite_logo.webp') }} 800w"
      sizes="(max-width: 786px) 480px,
             800px"
 />
+
                     </a>
                 </div>
             </div>
@@ -22,7 +23,7 @@
                         <h3 class="mb-0 fw-bold" style="color:#fff">
 
                             <a class="myphone d-flex align-items-center gap-1" href="tel:212-951-0342"><img width="35" height="35" alt="call-us"
-                                    class="lozad" data-src="{{ asset('assets/icons/call.png') }}">
+                                    class="lozad" data-src="{{ asset('assets/icons/call.webp') }}">
                                     212-951-0342</a>
                         </h3>
                     </div>
@@ -123,7 +124,7 @@
     <div class="d-flex align-items-center">
         <div class="main-nav-item--phone"> <a class="main-nav-link" href="tel:212-951-0342"><img width="35"
                     height="35" alt="call-us" class="lozad"
-                    data-src="{{asset("assets/icons/call.png")}}"></a>
+                    data-src="{{asset("assets/icons/call.webp")}}"></a>
         </div>
         <button aria-label="toggle-btn" class="hamburger__toggle">
             <span  href="javascript:void(0)" id="menu-icon-trigger" class="menu-icon-trigger toggle-menu-mob showhide">
