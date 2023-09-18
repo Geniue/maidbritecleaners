@@ -152,7 +152,8 @@
                     </div> --}}
                     <div class="address-info py-3">
                         <p><strong>Brooklyn</strong></p>
-                        <div id="map_2"></div>
+                        <div id="map_2"><iframe style="max-width: 100%;
+                            max-height: 100%;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3024.8226458238164!2d-73.9412053!3d40.6999035!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25be45cdc76ef%3A0x1e8a1f2865242de0!2sMaidBrite%20Cleaning%20Services!5e0!3m2!1sen!2sin!4v1695037969429!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
                         <p>
                             <a target="_blank"
                                 href="https://goo.gl/maps/qWoFZZLvdW63Zpzb8">
@@ -169,7 +170,7 @@
 
     @include('app.static_components.callus_banner')
 @endsection
-@section('js')
+{{-- @section('js')
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBB_zev3AUlvTv9UGwZGPnUCSnM1aMsPLo"></script>
     <script type="text/javascript">
          function initMap() {
@@ -261,4 +262,4 @@
         // Load the map after the Google Maps API is loaded
         google.maps.event.addDomListener(window, 'load', initMap);
     </script>
-@endsection
+@endsection --}}
