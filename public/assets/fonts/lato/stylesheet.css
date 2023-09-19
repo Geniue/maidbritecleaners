@@ -10,19 +10,6 @@
     font-weight: normal;
     font-style: normal;
 	font-display: swap;
+	text-rendering: optimizeSpeed;
 
 }
-@font-face {
-    font-family: 'latobold';
-	src: url('lato-bold-webfont.eot'); /* IE9 Compat Modes */
-	src: url('lato-bold-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-		url('lato-bold-webfont.woff2') format('woff2'), /* Super Modern Browsers */
-		url('lato-bold-webfont.woff') format('woff'), /* Pretty Modern Browsers */
-		url('lato-bold-webfont.ttf')  format('truetype'), /* Safari, Android, iOS */
-		url('lato-bold-webfont.svg#svgLatoBold') format('svg'); /* Legacy iOS */
-    font-weight: normal;
-    font-style: normal;
-	font-display: swap;
-
-}
-
