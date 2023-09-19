@@ -45,10 +45,17 @@
     <meta name="resource-type" content="Document">
     <meta name="revisit-after" content="3">
     <meta name="subject" content="Blog">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.0/jquery.min.js"
+integrity="sha512-3gJwYpMe3QewGELv8k/BX9vcqhryRdzRMxVfq6ngyWXwo03GFEzjsUm8Q7RZcHPHksttq7/GFoxjCVUjkjvPdw=="
+crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 @endsection
 
 
 @section('css')
+    {{-- aos css packages --}}
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css"
+        integrity="sha512-1cK78a1o+ht2JcaW6g8OXYwqpev9+6GqOkz9xmBN9iUUhIndKtxwILGWYOSibOKjLsEdjyjZvYDq/cZwNeak0w=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lightgallery@2.0.0-beta.3/css/lightgallery.min.css">
     <style>
         #light_gallery {
@@ -138,6 +145,10 @@
 
 
 @section('js')
+<script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"
+integrity="sha512-A7AYk1fGKX6S2SsHywmPkrnzTZHrgiVT7GcQkLGDe2ev0aWb8zejytzS8wjo7PGEXKqJOrjQ4oORtnimIRZBtw=="
+crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
     <script type="module" defer>
     import lightGallery from "https://cdn.skypack.dev/lightgallery@2.0.0-beta.3";
     import lgZoom from "https://cdn.skypack.dev/lightgallery@2.0.0-beta.3/plugins/zoom";

@@ -294,14 +294,14 @@
         <div class="left-half" style="height: 419.9px !important;">
           <!-- heading section -->
           <div class="text-center text-md-start" style="padding-top: 30px;">
-              <h1 class=" text-blue home-ban-h1" style="font-family: latobold; font-size: 45px;">
+              <h1 class=" text-blue home-ban-h1" style="font-size: 45px;">
                 Premier  
                   <br>
                   Cleaning Services
                   <br>
                   in NYC
               </h1>
-              <p class="heading-2 home-ban-h3" style="font-family: latobold; font-size: 30px;">Top Commercial and House Cleaning Near You</p>
+              <p class="heading-2 home-ban-h3" style="font-size: 30px;">Top Commercial and House Cleaning Near You</p>
           </div>
           <!-- Book now seciton -->
           <form action="{{ route('callback_number') }}" method="POST" class="row gap-3 p-3 p-sm-0 new-gap-1">
