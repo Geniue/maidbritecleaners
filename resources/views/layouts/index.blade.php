@@ -77,11 +77,7 @@
     <link rel="stylesheet" href="{{ asset('css/main.css') }}" />
     <link rel="stylesheet" href="{{ asset('css/utiles.css') }}" />
     {{--  navbar css file --}}
-            <link rel="preload" 
-            href="{{ asset('css/navbar.css') }}"
-            as="style" onload="this.onload=null; this.rel='stylesheet'" />
-        <noscript><link rel="stylesheet"   href="{{ asset('css/navbar.css') }}" /></noscript>
-    {{-- <link rel="stylesheet" href="{{ asset('css/navbar.css') }}" /> --}}
+    <link rel="stylesheet" href="{{ asset('css/navbar.css') }}" />
         <style>
             .footer-1-container__Service-links > span > a {
                  text-decoration: none;
