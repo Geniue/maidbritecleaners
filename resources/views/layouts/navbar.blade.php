@@ -23,7 +23,7 @@
                         <h3 class="mb-0 fw-bold" style="color:#fff">
 
                             <a class="myphone d-flex align-items-center gap-1" href="tel:212-951-0342"><img width="35" height="35" alt="call-us"
-                                    class="lozad" data-src="{{ asset('assets/icons/call.webp') }}">
+                                    class="lozad" style="filter: invert(43%) sepia(61%) saturate(7057%) hue-rotate(180deg) brightness(98%) contrast(106%);" data-src="{{ asset('assets/icons/call.webp') }}">
                                     212-951-0342</a>
                         </h3>
                     </div>
@@ -123,7 +123,7 @@
     </div> -->
     <div class="d-flex align-items-center">
         <div class="main-nav-item--phone"> <a class="main-nav-link" href="tel:212-951-0342"><img width="35"
-                    height="35" alt="call-us" class="lozad"
+                    height="35" alt="call-us" class="lozad" style="filter: invert(43%) sepia(61%) saturate(7057%) hue-rotate(180deg) brightness(98%) contrast(106%);"
                     data-src="{{asset("assets/icons/call.webp")}}"></a>
         </div>
         <button aria-label="toggle-btn" class="hamburger__toggle">

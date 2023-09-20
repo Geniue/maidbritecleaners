@@ -301,7 +301,7 @@
                   <br>
                   in NYC
               </h1>
-              <p class="heading-2 home-ban-h3" style="font-size: 30px;">Top Commercial and House Cleaning Near You</p>
+              <p class="heading-2 home-ban-h3 text-yellow" style="font-size: 30px;">Top Commercial and House Cleaning Near You</p>
           </div>
           <!-- Book now seciton -->
           <form action="{{ route('callback_number') }}" method="POST" class="row gap-3 p-3 p-sm-0 new-gap-1">
@@ -816,7 +816,7 @@
     @include('app.static_components.callus_banner')
 @endsection
 @section('js')
-{{-- <script>
+<script>
     isVideoExist = document.getElementById('custom-preload');
     if (isVideoExist) {
         var innerVideo = `
@@ -869,34 +869,34 @@
     }
 
     
-</script> --}}
+</script>
     {{-- <script type="text/javascript">
   
-        // window.onload = function() {
-        //   var videoContainer = document.querySelector('.video-container');
-        //   var video = videoContainer.querySelector('video');
-        //   var errorEle = document.querySelector('#revbann');
+        window.onload = function() {
+          var videoContainer = document.querySelector('.video-container');
+          var video = videoContainer.querySelector('video');
+          var errorEle = document.querySelector('#revbann');
 
-        //    resizeVideo();
+           resizeVideo();
 
-        //    window.addEventListener('resize', resizeVideo);
+           window.addEventListener('resize', resizeVideo);
 
-        //   function resizeVideo() {
-        //     video.style.height = errorEle.offsetTop + 'px';
-        //   }
+          function resizeVideo() {
+            video.style.height = errorEle.offsetTop + 'px';
+          }
 
-        // //     doElsCollide = function(el1, el2) {
-        // //         el1.offsetBottom = el1.offsetTop + el1.offsetHeight;
-        // //         el1.offsetRight = el1.offsetLeft + el1.offsetWidth;
-        // //         el2.offsetBottom = el2.offsetTop + el2.offsetHeight;
-        // //         el2.offsetRight = el2.offsetLeft + el2.offsetWidth;
+        //     doElsCollide = function(el1, el2) {
+        //         el1.offsetBottom = el1.offsetTop + el1.offsetHeight;
+        //         el1.offsetRight = el1.offsetLeft + el1.offsetWidth;
+        //         el2.offsetBottom = el2.offsetTop + el2.offsetHeight;
+        //         el2.offsetRight = el2.offsetLeft + el2.offsetWidth;
 
-        // //         return !((el1.offsetBottom < el2.offsetTop) ||
-        // //                  (el1.offsetTop > el2.offsetBottom) ||
-        // //                  (el1.offsetRight < el2.offsetLeft) ||
-        // //                  (el1.offsetLeft > el2.offsetRight))
-        // //     };
-        // }
+        //         return !((el1.offsetBottom < el2.offsetTop) ||
+        //                  (el1.offsetTop > el2.offsetBottom) ||
+        //                  (el1.offsetRight < el2.offsetLeft) ||
+        //                  (el1.offsetLeft > el2.offsetRight))
+        //     };
+        }
   
     </script> --}}
 @endsection

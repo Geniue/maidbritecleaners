@@ -57,11 +57,10 @@
 <style>
 @media (min-width: 1000px) {
     .main-content-section ul{
-      padding-left: 20rem;
-      padding-right: 18rem;
+      padding-left: 7rem;
+      padding-right: 7rem;
     }
     .main-content-section ul {
-      font-family: "latobold" !important;
       font-size: 1rem;
     }
 }
@@ -83,7 +82,7 @@
         <div class="p-4 p-lg-5 position-absolute bottom-0 w-100 h-100 pb-120">
             <div class="d-flex flex-col justify-content-end gap-4 h-100 py-4">
                 <h1 class="text-green">Commercial Cleaning</h1>
-                <p class="tex-white text-center text-lg-start fs-3">
+                <p class="tex-white text-center text-lg-start fs-3 text-yellow">
                     Trusted and recommended commercial cleaner in NYC, specializing in deep cleaning your commercial spaces
                 </p>
                 {{-- book now form --}}
@@ -100,7 +99,7 @@
     <section class="">
         <div class="container py-5 main-content-section text-lightgray">
 
-            <h1 class="text-center text-green fs-1 py-5">COMMERCIAL CLEANING
+            <h1 class="text-center text-green fs-1 py-5  text-uppercase">COMMERCIAL CLEANING
             </h1>
 
 
@@ -110,7 +109,7 @@
             <p class="fs-3"><strong>Benefits of commercial janitorial services</strong></p>
             <p>
                 It goes without saying that cleanliness makes it easier to see the details, which is vital at the workplace. However, there are many other reasons why you should ensure proper janitorial cleaning services for your office or commercial space:
-                <ul>
+                <ul class="ms-3 ms-lg-5">
                     <li><strong>Increasing productivity</strong>: maintaining cleanliness in an office environment helps to achieve maximum employee productivity by boosting morale and reducing sick leaves.</li>
                     <li><strong>Attracting business</strong>: the state of your workplace tells a lot about your business and customers will avoid places that are cluttered and dusty.</li>
                     <li><strong>Preserving the value of your workplace and saving money</strong>: a professional commercial office cleaning service can do a lot more than the regular cleaning (i.e., deep cleaning, disinfection), which all help to lengthen the lifespan of your office items and reduce the need for redecoration and replacing physical assets.</li>
@@ -119,7 +118,7 @@
             <p class="fs-3"><strong>Why outsource your office cleaning services to us?</strong></p>
             <p>
             Keeping your workplace clean should be top priority. Office cleaning involves more than taking out the trash and mopping the floor, and can pose different challenges every day. Thus, your inhouse cleaning staff may find it difficult to adapt to the fluctuations in the cleaning workload. If you are researching „commercial cleaning services near me” in an effort to find the best office cleaning companies in your area, look no further than MaidBrite Cleaners. Here’s what we have to offer if you call to our commercial cleaning services:
-            <ul>
+            <ul class="ms-3 ms-lg-5">
                 <li><strong>Saving money</strong>: outsourcing your commercial cleaning is more cost effective as you will be reducing your spending with cleaning supplies and equipment and hiring/training cleaning staff. Moreover, an external commercial cleaning service will adapt to your cleaning needs, which means you pay exactly what you get.</li>
                 <li><strong>Dependability</strong>: your cleaning employees may be unavailable at some times due to sickness or vacation time. Cleaning companies have staff available all the time, accomplish tasks and report to you as required.</li>
                 <li><strong>Accommodating specific requests</strong>: office cleaning companies are able to accommodate all kinds of requests and provide customized solutions to your business, no matter what industry you work in.</li>

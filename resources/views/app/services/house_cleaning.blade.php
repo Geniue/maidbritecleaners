@@ -60,14 +60,13 @@
         }
     }
     .main-content-section h3 {
-      font-family: "latobold" !important;
       font-size: 1rem;
     }
 
     @media (min-width: 1000px) {
         .main-content-section h3{
-          padding-left: 18rem;
-          padding-right: 16rem;
+          padding-left: 7rem;
+          padding-right: 7rem;
         }
         
     }
@@ -86,7 +85,7 @@
         <div class="p-4 p-lg-5 pb-120  position-absolute bottom-0 w-100 h-100">
             <div class="d-flex flex-col justify-content-end gap-4 h-100 py-4">
                 <h1 class="text-green">House Cleaning</h1>
-                <p class="tex-white text-center text-lg-start fs-3">
+                <p class="tex-white text-center text-lg-start fs-3 text-yellow">
                     Top House Cleaning Service Provider in NYC
                 </p>
                 {{-- book now form --}}

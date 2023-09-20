@@ -56,11 +56,10 @@
 <style>
 @media (min-width: 1000px) {
     .main-content-section ul{
-      padding-left: 20rem;
-      padding-right: 18rem;
+      padding-left: 7rem;
+      padding-right: 7rem;
     }
     .main-content-section ul {
-      font-family: "latobold" !important;
       font-size: 1rem;
     }
 }
@@ -82,7 +81,7 @@
         <div class="p-4 p-lg-5 position-absolute bottom-0 w-100 h-100 pb-120">
             <div class="d-flex flex-col justify-content-end gap-4 h-100 py-4">
                 <h1 class="text-green">Maid Cleaning</h1>
-                <p class="tex-white text-center text-lg-start fs-3">
+                <p class="tex-white text-center text-lg-start fs-3 text-yellow">
                     Trusted and recommended maid cleaning service im NYC
                 </p>
                 {{-- book now form --}}
@@ -99,7 +98,7 @@
     <section id="main-content-cleaning" class="py-7 main-content-cleaning-service">
         <div class="container py-5 main-content-section text-lightgray">
 
-            <h1 class="text-center text-green fs-1 py-5">Maid Cleaning Service</h1>
+            <h1 class="text-center text-green fs-1 py-5 text-uppercase">Maid Cleaning Service</h1>
 
 
             <p><strong>
@@ -108,7 +107,7 @@
             <p class="fs-3"><strong>Services We Offer</strong></p>
             <p>
                 Our services are as diverse as the needs of our clients. Whether it’s house deep cleaning service, one-time deep cleaning, ongoing weekly or monthly service, or specialized cleaning tasks like apartment cleaning services, we've got you covered. Here are some of the services we offer: 
-                <ul>
+                <ul class="ms-3 ms-lg-5">
                     <li><strong>Regular Cleaning</strong>: Regular dusting, vacuuming, and mopping are the cornerstones of this service. This is home cleaners service at its finest. Bathrooms, kitchens, living rooms, and bedrooms will all get our meticulous attention. No surface goes uncleaned!</li>
                     <li><strong>Deep Cleaning</strong>: Our deep cleaning maid service goes beyond the surface to clean those often-overlooked areas. Think baseboards, door frames, light fixtures, and even that awkward space behind the toilet. This is deep house cleaning at its best.</li>
                     <li><strong>Move-In/Move-Out Cleaning</strong>: Moving is stressful enough without having to worry about cleaning. Our move out cleaning service ensures your old home is spotless for the next occupants, while our move in cleaning makes your new space welcoming.</li>
@@ -123,7 +122,7 @@
 
             <p class="fs-3"><strong>Why Choose MaidBrite?</strong></p>
             <p>
-                <ul>
+                <ul class="ms-3 ms-lg-5">
                     <li><strong>Quality You Can See and Feel</strong>: We offer the best house cleaning services with exceptional quality.</li>
                     <li><strong>Trained and Professional Staff</strong>: Our home cleaners undergo intensive training, covering cleaning techniques, customer service, and safety protocols.</li>
                     <li><strong>Competitive Pricing</strong>: Our affordable cleaning services come with transparent pricing and no hidden fees.</li>

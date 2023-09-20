@@ -71,7 +71,7 @@
                 <h1 class=" text-green">
                     Services
                 </h1>
-                <p class="heading-2 text-center text-lg-start p-3">Top Carpet Cleaner Service in NYC</p>
+                <p class="heading-2 text-center text-lg-start p-3 text-yellow">Top Carpet Cleaner Service in NYC</p>
             </div>
             <!-- Book now seciton -->
             <form action="{{ route('callback_number') }}" method="POST" class="row gap-3">
@@ -93,7 +93,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="section-header text-center pb-4">
-                        <h2 class="lh-1-3 lh-md-auto fs-1 fs-md-3 py-3 text-green-1 text-uppercase">
+                        <h2 class="lh-1-3 lh-md-auto fs-1 fs-md-3 py-3 text-green-1 text-uppercase ">
                             SERVICES
                         </h2>
                     </div>

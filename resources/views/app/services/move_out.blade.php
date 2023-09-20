@@ -73,8 +73,8 @@ Move Out Cleaning Services | {{ env('APP_NAME') }}
 
         <div class="p-4 p-lg-5 position-absolute bottom-0 w-100 h-100 pb-120">
             <div class="d-flex flex-col justify-content-end gap-4 h-100 py-4">
-                <h1 class="text-green">Move Out Cleaning Services</h1>
-                <p class="tex-white text-center text-lg-start fs-3">
+                <h1 class="text-green text-uppercase">Move Out Cleaning Services</h1>
+                <p class="tex-white text-center text-lg-start fs-3  text-yellow">
                     Restore your commercial or residential space with professional move out cleaning services in NYC
                 </p>
                 {{-- book now form --}}

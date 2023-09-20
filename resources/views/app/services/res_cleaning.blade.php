@@ -57,12 +57,11 @@
 <style>
 @media (min-width: 1000px) {
     .main-content-section ul{
-      padding-left: 20rem;
-      padding-right: 18rem;
+      padding-left: 7rem;
+      padding-right: 7rem;
     }
 
     .main-content-section ul {
-      font-family: "latobold" !important;
       font-size: 1rem;
     }
 }
@@ -87,7 +86,7 @@
         <div class="p-4 p-lg-5 position-absolute bottom-0 w-100 h-100 pb-120">
             <div class="d-flex flex-col justify-content-end gap-4 h-100 py-4">
                 <h1 class="text-green">Residential Cleaning</h1>
-                <p class="tex-white text-center text-lg-start fs-3">
+                <p class="tex-white text-center text-lg-start fs-3 text-yellow">
                     Top-rated and trusted residential cleaning service in NYC
                 </p>
                 {{-- book now form --}}
@@ -103,7 +102,7 @@
     <!-- main content section  -->
     <section id="main-content-cleaning" class="py-7 main-content-cleaning-service">
         <div class="container py-5 main-content-section text-lightgray">
-            <h1 class="text-center text-green fs-1 py-5">Residential Cleaning Services
+            <h1 class="text-center text-green fs-1 py-5 text-uppercase">Residential Cleaning Services
             </h1>
 
             <p><strong>We MaidBrite Cleaning Services are your  trusted source for top-notch residential cleaning services. We get it, searching for “residential cleaning services near me” can be a tedious task. That's why we're here to put your search to an end. We know your home is more than just four walls; it's a sanctuary, a personal space where you seek comfort, relaxation, and well-being. Here at MaidBrite, we specialize in residential cleaning, ensuring every corner of your space radiates freshness and cleanliness. We offer a wide range of residential house cleaning services designed to transform your living space into a sparkling haven. And the best part? We're one of the best residential house cleaning services near you that you'll find.</strong></p>
@@ -111,7 +110,7 @@
 
             <p class="fs-3"><strong>Why Choose MaidBrite?</strong></p>
             <p> 
-                <ul>
+                <ul class="ms-3 ms-lg-5">
                     <li><strong>Unmatched Quality</strong>: Wondering what is residential cleaning done right? At MaidBrite, we set ourselves apart with our meticulous attention to detail and unyielding commitment to quality. Forget your typical 'in-and-out' services; we offer thorough, exhaustive residential deep cleaning services. Our well-trained, highly skilled cleaning professionals use premium-grade equipment and eco-friendly products to meet your residential cleaning needs.</li>
                     <li><strong>100% Customer Satisfaction</strong>:You're not just another client to us; you're a valued member of the MaidBrite family. As a leading residential cleaning company, our goal is to understand your specific cleaning needs and preferences. Our professional residential cleaning services come with a 100% Satisfaction Guarantee. If you're not completely satisfied, we'll make it right—no questions asked.</li>
                     <li><strong>Safety First</strong>: Looking for residential cleaners near me who are trustworthy and reliable? Our staff are all vetted, trained, and insured. With MaidBrite, you're not just getting a residential cleaning business; you're choosing peace of mind.</li>
@@ -121,7 +120,7 @@
             <p class="fs-3"><strong>Our Range of Services</strong></p>
             <p> 
                 <strong>General House Cleaning</strong>
-                <ul>
+                <ul class="ms-3 ms-lg-5">
                     <li>
                         Dusting, sweeping, and mopping
                     </li>
@@ -132,7 +131,7 @@
 
             <p> 
                 <strong>Kitchen Deep Cleaning</strong>
-                <ul>
+                <ul class="ms-3 ms-lg-5">
                     <li>Degreasing stoves and ovens</li>
                     <li>Residential home cleaning services for microwaves, refrigerators, and dishwashers</li>
                     <li>Sanitizing countertops and sinks</li>
@@ -142,7 +141,7 @@
 
             <p> 
                 <strong>Bathroom Bliss</strong>
-                <ul>
+                <ul class="ms-3 ms-lg-5">
                     <li>
                         Disinfecting toilets, tubs, and showers
                     </li>
@@ -153,7 +152,7 @@
 
             <p> 
                 <strong>Special Services</strong>
-                <ul>
+                <ul class="ms-3 ms-lg-5">
                     <li>Move in house cleaning services</li>
                     <li>One time house cleaning services</li>
                     <li>Residential exterior cleaning</li>

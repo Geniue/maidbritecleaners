@@ -56,12 +56,11 @@
 <style>
 @media (min-width: 1000px) {
     .main-content-section ul{
-      padding-left: 20rem;
-      padding-right: 18rem;
+      padding-left: 7rem;
+      padding-right: 7rem;
     }
 
     .main-content-section ul {
-      font-family: "latobold" !important;
       font-size: 1rem;
     }
 }
@@ -84,8 +83,8 @@
         </picture>
         <div class="p-4 p-lg-5 position-absolute bottom-0 w-100 h-100 pb-120">
             <div class="d-flex flex-col justify-content-end gap-4 h-100 py-4">
-                <h1 class="text-green">Post Construction Cleaning</h1>
-                <p class="tex-white text-center text-lg-start fs-3">
+                <h1 class="text-green text-uppercase">Post Construction Cleaning</h1>
+                <p class="tex-white text-center text-lg-start fs-3 text-yellow">
                     Professional and Trusted Post Construction Cleaning Service in NYC
                 </p>
                 {{-- book now form --}}
@@ -107,7 +106,7 @@
 
             <p class="fs-3"><strong>Why Choose MaidBrite for Post-Construction Cleaning Services?</strong></p>
             <p> 
-                <ul>
+                <ul class="ms-3 ms-lg-5">
                     <li><strong>Expert Staff</strong>: Our trained team specializes in post renovation cleaning and knows how to handle all types of surfaces and materials found in new builds or renovations.</li>
                     <li><strong>Tailored Solutions</strong>: Whether you need construction clean up or after builders cleaning, we offer customized services to meet your specific needs.</li>
                     <li><strong>Eco-Friendly</strong>: Our construction cleaning approach is green, using eco-friendly products that are tough on dirt but gentle on the environment.</li>
@@ -119,7 +118,7 @@
             <p class="fs-3"><strong>Our Comprehensive Post-Construction Cleaning Checklist</strong></p>
             <p> 
                 <strong>Interior Cleaning</strong>
-                <ul>
+                <ul class="ms-3 ms-lg-5">
                     <li><strong>Dusting and Wiping</strong>: We remove dust from fixtures, ceiling fans, and air ducts to give you the clean slate you deserve after a renovation.</li>
                     <li><strong>Floor Cleaning</strong>: Special attention is given to cleaning after renovation with suitable methods for hardwood, tile, or carpet.</li>
                     <li><strong>Windows</strong>: Your windows will sparkle, including sills, ledges, and frames—perfect for construction site cleaning.</li>
@@ -128,7 +127,7 @@
             </p>
             <p>
                 <strong>Exterior Cleaning</strong>
-                <ul>
+                <ul class="ms-3 ms-lg-5">
                     <li><strong>Debris Removal</strong>: Our new construction cleaning services include responsibly removing all leftover construction debris.</li>
                     <li><strong>Pressure Washing</strong>: Our high-powered wash is perfect for construction site clean up.</li>
                     <li><strong>Gutter Cleaning</strong>: Part of our post-construction clean up package to ensure your gutters are free from construction waste.</li>
@@ -138,7 +137,7 @@
 
             <p class="fs-3"><strong>The MaidBrite Process</strong></p>
             <p> 
-                <ul>
+                <ul class="ms-3 ms-lg-5">
                     <li><strong>Consultation</strong>: We offer a walk-through service, particularly beneficial for those who are searching for post-construction cleaning near me.</li>
                     <li><strong>Custom Quote</strong>: We'll provide you with a tailored post renovation cleaning services plan and transparent pricing.</li>
                     <li><strong>Scheduling</strong>: Our construction cleaning services near me are available around the clock to fit into your tight schedule.</li>

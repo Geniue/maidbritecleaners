@@ -57,11 +57,10 @@
 <style>
 @media (min-width: 1000px) {
     .main-content-section ul{
-      padding-left: 20rem;
-      padding-right: 18rem;
+      padding-left: 7rem;
+      padding-right: 7rem;
     }
     .main-content-section ul {
-      font-family: "latobold" !important;
       font-size: 1rem;
     }
 }
@@ -83,7 +82,7 @@
         <div class="p-4 p-lg-5 position-absolute bottom-0 w-100 h-100 pb-120">
             <div class="d-flex flex-col justify-content-end gap-4 h-100 py-4">
                 <h1 class="text-green">Green  Cleaning </h1>
-                <p class="tex-white text-center text-lg-start fs-3">
+                <p class="tex-white text-center text-lg-start fs-3 text-yellow">
                     Get green and non-toxic cleaning services in NYC
                 </p>
                 {{-- book now form --}}
@@ -102,7 +101,7 @@
 
 
 
-            <h1 class="text-center text-green fs-1 py-5">GREEN CLEANING</h1>
+            <h1 class="text-center text-green fs-1 py-5 text-uppercase">GREEN CLEANING</h1>
 
             <p><strong>Taking care to protect the environment, no matter what activity you are doing, is considered vital these days. We have been aware of our negative impact on the planet for decades and measures to prevent and minimize pollution are already underway. One of those strategies is represented by green house cleaning, which is ensured by companies with green cleaning certification and using environmentally-friendly products.</strong></p>
 
@@ -145,7 +144,7 @@
             </h2>
             <p>
                 Have you decided to switch to green house cleaners? This is an excellent decision as you will be enjoying the following advantages:
-                <ul>
+                <ul class="ms-3 ms-lg-5">
                     <li>Reducing pollution and energy consumption.</li>
                     <li>Enjoying a healthier environment at home, free from residue from harmful chemicals.</li>
                     <li>Achieving high standards of hygiene without harming your health and physical assets, while also ensuring a healthier working environment for people in the cleaning industry.</li>

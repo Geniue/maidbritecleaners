@@ -80,7 +80,7 @@
         <div class="p-4 p-lg-5 position-absolute bottom-0 w-100 h-100 pb-120">
             <div class="d-flex flex-col justify-content-end gap-4 h-100 py-4">
                 <h1 class="text-green">Apartment Cleaning </h1>
-                <p class="text-white text-center text-lg-start fs-3">
+                <p class="text-white text-center text-lg-start fs-3 text-yellow">
                     Get apartment cleaning services in NYC
                 </p>
                 {{-- book now form --}}
@@ -99,7 +99,7 @@
 
 
 
-            <h1 class="text-center text-green fs-1 py-5">APARTMENT CLEANING</h1>
+            <h1 class="text-center text-green fs-1 py-5 text-uppercase">APARTMENT CLEANING</h1>
 
             <h2>Professional apartment cleaning services for your health and convenience</h2>
 

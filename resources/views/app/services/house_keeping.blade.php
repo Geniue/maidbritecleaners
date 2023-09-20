@@ -62,15 +62,14 @@
 
     @media (min-width: 1000px) {
         .main-content-section h3{
-          padding-left: 18rem;
-          padding-right: 16rem;
+          padding-left: 7rem;
+          padding-right: 7rem;
         }
         .main-content-section ul{
-          padding-left: 20rem;
-          padding-right: 18rem;
+          padding-left: 7rem;
+          padding-right: 7rem;
         }
         .main-content-section ul {
-          font-family: "latobold" !important;
           font-size: 1rem;
         }
         
@@ -94,7 +93,7 @@
         <div class="p-4 p-lg-5 position-absolute bottom-0 w-100 h-100 pb-120">
             <div class="d-flex flex-col justify-content-end gap-4 h-100 py-4">
                 <h1 class="text-green">House Keeping</h1>
-                <p class="tex-white text-center text-lg-start fs-3">
+                <p class="tex-white text-center text-lg-start fs-3 text-yellow">
                     Get your home or apartment professionally cleaned in NYC!
                 </p>
                 {{-- book now form --}}
@@ -127,7 +126,7 @@
             <p>Have you decided to make your home the sanctuary you need and deserve by calling to regular housekeeping services? The best option for any home owner or tenant in NYC for a good housekeeper is MaidBrite Cleaners. Reasons to call to our services include availability every day, our team of professional and experienced cleaning maids, using the latest cleaning equipment and our experience with green cleaning techniques and products.</p>
             <h2>Competitive prices for reliable housekeeping</h2>
             <p>Many people are reluctant when it comes to outsourcing their housekeeping because they fear the possibly high prices. Private housekeeper services MaidBrite Cleaners provide excellent value for money and can be the best solution for you housekeeping needs if:
-                <ul>
+                <ul class="ms-3 ms-lg-5">
                     <li>You lack the time and energy needed to clean your home regularly.</li>
                     <li>You have a busy schedule or you do not enjoy housekeeping tasks.</li>
                     <li>You need special cleaning services such as deep cleaning, pet stain and odor removal, carpet and upholstery cleaning etc.</li>
