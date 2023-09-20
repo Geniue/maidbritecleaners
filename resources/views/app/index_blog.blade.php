@@ -1,10 +1,10 @@
 @extends('layouts.index')
 @section('title')
-    Blogs | {{ env('APP_NAME') }}
+    Blog | {{ env('APP_NAME') }}
 @endsection
 
 @section('meta')
-<meta name="title" content=" Blogs | Maidbrite Cleaning Services">
+<meta name="title" content=" Blog | Maidbrite Cleaning Services">
 <meta name="description"
     content="Reach out to Maidbrite Cleaning Services for all your house cleaning services, sanitization needs, and commercial cleaning. We're here to help you keep your space pristine!">
 <meta name="keywords"
@@ -12,7 +12,7 @@
 <link rel="canonical" href="{{ url()->current() }}">
 
 <meta property="og:site_name" content="Maidbrite Cleaning Services">
-<meta property="og:title" content=" Blogs  | Maidbrite Cleaning Services">
+<meta property="og:title" content=" Blog  | Maidbrite Cleaning Services">
 <meta property="og:description"
     content="Reach out to Maidbrite Cleaning Services for all your house cleaning services, sanitization needs, and commercial cleaning. We're here to help you keep your space pristine!">
 <meta property="og:url" content="{{ url()->current() }}">
@@ -64,7 +64,7 @@ crossorigin="anonymous" referrerpolicy="no-referrer" />
             <div class="py-4 text-center fs-1 text-blue">
                 <h1 id="st" class="font-median">Blog</h1>
             </div>
-            <!-- blogs -->
+            <!-- blog -->
             <div class="row py-5 row-gap-5 mx-md-0" id="blogs">
                 @include('app.pagination.blogs.index')
             </div>
