@@ -845,8 +845,13 @@
                 }
             }
 
-            document.addEventListener('scroll', playVideo);
-            $(document).on('mousemove', await playVideo);
+
+            // document.addEventListener('scroll', playVideo);
+            $(document).on('mousemove', ()=>{
+                setTimeout(() => {
+                    playVideo();
+                }, 1000);
+            });
             $(".volume-icon").click( function (){
 
                 if($(".Bright-intro-video")[0].muted)
